@@ -28,16 +28,14 @@
   }
   
   function prepareData() {
-    retrieveJSON().then(data => {
-      console.log(data);
-    });
-    printTable(); //This will be replaced by something actual someday
+    retrieveJSON();
+    //Do any extra setup stuff.
   }
   
   async function retrieveJSON() {
     const response = await fetch("BingoData.json");
-    
-    return response.json();
+    bingoCardsJson = response.json();
+    printTable(); //This will be replaced by something actual someday
   }
   
   function printTable() {
