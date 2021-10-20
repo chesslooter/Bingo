@@ -45,10 +45,20 @@
 
     // create elements <table> and a <tbody>
     var tbl = document.createElement("table");
+    tbl.setAttribute('class', 'table');
     var tblBody = document.createElement("tbody");
+    var row = document.createElement("tr");
+    var cellText;
+    var cell;
+    
+    cellText = document.createTextNode("Challenge");
+    cell = document.createElement("th");
+    cell.appendChild(cellText);
+    row.appendChild(cell);
+    tblBody.appendChild(row);
+    
     bingoCardsJson.forEach((element, index, array) => {
-      var cellText;
-      var row = document.createElement("tr");
+      row = document.createElement("tr");
       
       //cellText = document.createTextNode(element.Category);
       //var cell = document.createElement("td");
@@ -56,7 +66,7 @@
       //row.appendChild(cell);
       
       cellText = document.createTextNode(element.Nickname);
-      var cell = document.createElement("td");
+      cell = document.createElement("td");
       cell.appendChild(cellText);
       cell.setAttribute('title', element.Challenge);
       row.appendChild(cell);
