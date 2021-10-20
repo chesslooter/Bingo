@@ -1,52 +1,806 @@
 [
  {
-   "Nickname": "Washing Machine",
-   "Challenge": "Arreat Crater + Wandering Keg",
-   "Category": "Specific Strategy"
+   "Nickname": "Win with Abathur",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
  },
  {
-   "Nickname": "Hypercarry Abathur",
-   "Challenge": "Abathur Slaps a hero to death and lives",
-   "Category": "Specific Strategy"
+   "Nickname": "Win with Alarak",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
  },
  {
-   "Nickname": "Juice Pirates",
-   "Challenge": "Tyrael, Morales, 3 building hitters",
-   "Category": "Specific Strategy"
+   "Nickname": "Win with Alexstrasza",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
  },
  {
-   "Nickname": "Cho'Gall Juice",
-   "Challenge": "Cho'Gall, Ana, Medivh",
-   "Category": "Specific Strategy"
+   "Nickname": "Win with Ana",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
  },
  {
-   "Nickname": "Holy Cow",
-   "Challenge": "Divine Shield + Mosh Pit",
-   "Category": "Specific Strategy"
+   "Nickname": "Win with Anduin",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
  },
  {
-   "Nickname": "EZ-Bake Oven",
-   "Challenge": "Entomb + Lightning Breath",
-   "Category": "Specific Strategy"
+   "Nickname": "Win with Anub'arak",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
  },
  {
-   "Nickname": "Dungeons and Dragons",
-   "Challenge": "Entomb + Cataclysm",
-   "Category": "Specific Strategy"
+   "Nickname": "Win with Artanis",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
  },
  {
-   "Nickname": "The Lightbomb Bomb Bomb",
-   "Challenge": "Ripper Air + Lightbomb + Rocket Ride",
-   "Category": "Specific Strategy"
+   "Nickname": "Win with Arthas",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
  },
  {
-   "Nickname": "Nanoblade",
-   "Challenge": "Nano Boost + Dragonblade",
-   "Category": "Specific Strategy"
+   "Nickname": "Win with Auriel",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
  },
  {
-   "Nickname": "Stand-up Comedians",
-   "Challenge": "Leaping Strike + Clemency",
-   "Category": "Specific Strategy"
+   "Nickname": "Win with Azmodan",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Blaze",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Brightwing",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Cassia",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Chen",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Cho",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Chromie",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with D.Va",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Deathwing",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Deckard Cain",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Dehaka",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Diablo",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with ETC",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Falstad",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Fenix",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Gall",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Garrosh",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Gazlowe",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Genji",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Greymane",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Gul'dan",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Hanzo",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Hogger",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Illidan",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Imperius",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Jaina",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Johanna",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Junkrat",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Kael'thas",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Kel'Thuzad",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Kerrigan",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Kharazim",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Leoric",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Li Li",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Li-Ming",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Lt. Morales",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Lucio",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Lunara",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Maiev",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Mal'Ganis",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Malfurion",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Malthael",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Medivh",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Mei",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Mephisto",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Muradin",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Murky",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Nazeebo",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Nova",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Orphea",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Probius",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Qhira",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Ragnaros",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Raynor",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Rehgar",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Rexxar",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Samuro",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Sgt. Hammer",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Sonya",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Stitches",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Stukov",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Sylvanas",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Tassadar",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with The Butcher",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with The Lost Vikings",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Thrall",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Tracer",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Tychus",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Tyrael",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Tyrande",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Uther",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Valeera",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Valla",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Varian",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Whitemane",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Xul",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Yrel",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Zagara",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Zarya",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Zeratul",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with Zul'jin",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win with 2 Tanks on 1 team",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 2
+ },
+ {
+   "Nickname": "Win with 3 Tanks on 1 team",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 3
+ },
+ {
+   "Nickname": "Win with 4 Tanks on 1 team",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 4
+ },
+ {
+   "Nickname": "Win with 5 Tanks on 1 team",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 5
+ },
+ {
+   "Nickname": "Win with 2 Bruisers on 1 team",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 2
+ },
+ {
+   "Nickname": "Win with 3 Bruisers on 1 team",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 3
+ },
+ {
+   "Nickname": "Win with 4 Bruisers on 1 team",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 4
+ },
+ {
+   "Nickname": "Win with 5 Bruisers on 1 team",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 5
+ },
+ {
+   "Nickname": "Win with 2 Ranged Assassins on 1 team",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 2
+ },
+ {
+   "Nickname": "Win with 3 Ranged Assassins on 1 team",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 3
+ },
+ {
+   "Nickname": "Win with 4 Ranged Assassins on 1 team",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 4
+ },
+ {
+   "Nickname": "Win with 5 Ranged Assassins on 1 team",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 5
+ },
+ {
+   "Nickname": "Win with 2 Melee Assassins on 1 team",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 2
+ },
+ {
+   "Nickname": "Win with 3 Melee Assassins on 1 team",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 3
+ },
+ {
+   "Nickname": "Win with 4 Melee Assassins on 1 team",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 4
+ },
+ {
+   "Nickname": "Win with 5 Melee Assassins on 1 team",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 5
+ },
+ {
+   "Nickname": "Win with 2 Healers on 1 team",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 2
+ },
+ {
+   "Nickname": "Win with 3 Healers on 1 team",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 3
+ },
+ {
+   "Nickname": "Win with 4 Healers on 1 team",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 4
+ },
+ {
+   "Nickname": "Win with 5 Healers on 1 team",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 5
+ },
+ {
+   "Nickname": "Win with 2 Supports on 1 team",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 3
+ },
+ {
+   "Nickname": "Win with 3 Supports on 1 team",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 4
+ },
+ {
+   "Nickname": "Win with 4 Supports on 1 team",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 5
+ },
+ {
+   "Nickname": "Win with random talents",
+   "Challenge": "Roll a dice for each talent tier",
+   "Category": "Win with",
+   "Difficulty": 3
+ },
+ {
+   "Nickname": "Win on Alterac Pass",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win on Battlefield of Eternity",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win on Blackheart's Bay",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win on Braxis Holdout",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win on Cursed Hollow",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win on Dragon Shire",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win on Garden of Terror",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win on Hanamura Temple",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win on Haunted Mines",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win on Infernal Shrines",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win on Sky Temple",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win on Tomb of the Spider Queen",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win on Towers of Doom",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win on Volskaya Foundry",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win on Warhead Junction",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win on Braxis Outpost",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win on Industrial District",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win on Lost Cavern",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win on Silver City",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 1
+ },
+ {
+   "Nickname": "Win 3 games in a row",
+   "Challenge": "",
+   "Category": "Win with",
+   "Difficulty": 4
  }
 ]
