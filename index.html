@@ -22,22 +22,25 @@
 </html>
 
 <script>
+  var bingoCardsJson;
   window.onload = function() {
     prepareData();
   }
   
   function prepareData() {
-    var bingoCardsJson = retrieveJSON();
-    printTable(bingoCardsJson); //This will be replaced by something actual someday
+    retrieveJSON().then(data => {
+      console.log(data);
+    });
+    printTable(); //This will be replaced by something actual someday
   }
   
-  function retrieveJSON() {
-    var response = fetch("BingoData.json");
+  async function retrieveJSON() {
+    const response = await fetch("BingoData.json");
     
-    return response;
+    return response.json();
   }
   
-  function printTable(bingoCardJson) {
+  function printTable() {
     //body reference 
     var body = document.getElementsByTagName("body")[0];
 
