@@ -59,16 +59,16 @@
     
     row = document.createElement("tr");
     bingoCardsJson.forEach((element, index, array) => {
-      if ((index + 1) % 5 == 0) {
-        tblBody.appendChild(row);
-        row = document.createElement("tr");
-      }
       cellText = document.createTextNode(element.Nickname);
       cell = document.createElement("td");
       cell.appendChild(cellText);
       cell.setAttribute('title', element.Challenge);
       row.appendChild(cell);
       
+      if ((index + 1) % 5 == 0) {
+        tblBody.appendChild(row);
+        row = document.createElement("tr");
+      }
     });
     tblBody.appendChild(row); //Always append at the end
     
