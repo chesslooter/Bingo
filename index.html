@@ -33,8 +33,11 @@
   }
   
   async function retrieveJSON() {
-    const response = await fetch("BingoData.json");
-    bingoCardsJson = response.json();
+    bingoCardsJson = await fetch("BingoData.json")
+      .then(response => {
+        return response.json();
+      });
+    
     printTable(); //This will be replaced by something actual someday
   }
   
