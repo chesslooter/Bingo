@@ -32,7 +32,7 @@
   }
   
   function retrieveJSON() {
-    fetch("BingoData.json")
+    var response = fetch("BingoData.json")
     .then(response => response.json())
     .then(json => console.log(json));
     
