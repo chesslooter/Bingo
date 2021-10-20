@@ -23,8 +23,54 @@
 
 <script>
   window.onload = function() {
+    prepareData();
+  }
+  
+  function prepareData() {
+    var bingoCardsJson = retrieveJSON();
+    printTable(bingoCardsJson); //This will be replaced by something actual someday
+  }
+  
+  function retrieveJSON() {
     fetch("BingoData.json")
     .then(response => response.json())
     .then(json => console.log(json));
+    
+    return response.json();
+  }
+  
+  function printTable(var bingoCardJson) {
+    //body reference 
+    var body = document.getElementsByTagName("body")[0];
+
+    // create elements <table> and a <tbody>
+    var tbl = document.createElement("table");
+    var tblBody = document.createElement("tbody");
+    bingoCardJson.forEach((index, element, array) => {
+      var cellText;
+      var row = document.createElement("tr");
+      
+      cellText = document.createTextNode(element.Nickname);
+      var cell = document.createElement("td");
+      cell.appendChild(cellText);
+      row.appendChild(cell);
+      
+      cellText = document.createTextNode(element.Challenge);
+      var cell = document.createElement("td");
+      cell.appendChild(cellText);
+      row.appendChild(cell);
+      
+      cellText = document.createTextNode(element.Category);
+      var cell = document.createElement("td");
+      cell.appendChild(cellText);
+      row.appendChild(cell);
+      
+      tblBody.appendChild(row);
+    });
+    
+    // append the <tbody> inside the <table>
+    tbl.appendChild(tblBody);
+    // put <table> in the <body>
+    body.appendChild(tbl);
   }
 </script>
