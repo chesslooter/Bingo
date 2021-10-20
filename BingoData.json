@@ -802,5 +802,83 @@
    "Challenge": "",
    "Category": "Win with",
    "Difficulty": 4
+ },
+ {
+   "Nickname": "“Cavalry, upgraded”",
+   "Challenge": "Capture both bosses simultaneously (Alterac Pass)",
+   "Category": "Map specific",
+   "Difficulty": null
+ },
+ {
+   "Nickname": "“Breaking into Fort Knox”",
+   "Challenge": "Kill the enemy mid well without killing the towers defending it (Battlefield of Eternity)",
+   "Category": "Map specific",
+   "Difficulty": null
+ },
+ {
+   "Nickname": "“Hoping for interest”",
+   "Challenge": "Hold 50 coins in one pocket (Blackheart’s Bay)",
+   "Category": "Map specific",
+   "Difficulty": null
+ },
+ {
+   "Nickname": "“Basetrade”",
+   "Challenge": "Win during your 0% Zerg wave (Braxis Holdout)",
+   "Category": "Map specific",
+   "Difficulty": null
+ },
+ {
+   "Nickname": "What's a map objective?",
+   "Challenge": "Win without capturing a tribute (Cursed Hollow)",
+   "Category": "Map specific",
+   "Difficulty": null
+ },
+ {
+   "Nickname": "“Field Goal”",
+   "Challenge": "Kick an enemy hero behind your towers (Dragon Shire)",
+   "Category": "Map specific",
+   "Difficulty": null
+ },
+ {
+   "Nickname": "“Pacific Rim”",
+   "Challenge": "Defend the Garden Terrors using a Heroic transformation (Garden of Terror)",
+   "Category": "Map specific",
+   "Difficulty": null
+ },
+ {
+   "Nickname": "“Coup de Grace”",
+   "Challenge": "Have the Sentinel camp kill an enemy hero (Hanamura Temple)",
+   "Category": "Map specific",
+   "Difficulty": null
+ },
+ {
+   "Nickname": "“And his name is John Cena!”",
+   "Challenge": "Everyone sings the John Cena song when the punisher jumps (Infernal Shrines)",
+   "Category": "Map specific",
+   "Difficulty": null
+ },
+ {
+   "Nickname": "“Throw pit”",
+   "Challenge": "Steal a boss (Sky Temple)",
+   "Category": "Map specific",
+   "Difficulty": null
+ },
+ {
+   "Nickname": "“Arachnophobia”",
+   "Challenge": "Kill a building during the enemy spiders (Tomb of the Spider Queen)",
+   "Category": "Map specific",
+   "Difficulty": null
+ },
+ {
+   "Nickname": "“Swap sides”",
+   "Challenge": "Take their bell towers whilst losing yours (Towers of Doom)",
+   "Category": "Map specific",
+   "Difficulty": null
+ },
+ {
+   "Nickname": "Saving for the Final Boss",
+   "Challenge": "Team holds 3 Healing Pulses simultaneously (Volskaya Foundry)",
+   "Category": "Map specific",
+   "Difficulty": null
  }
 ]
