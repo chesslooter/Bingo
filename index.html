@@ -31,12 +31,10 @@
     printTable(bingoCardsJson); //This will be replaced by something actual someday
   }
   
-  async function retrieveJSON() {
-    var response = await fetch("BingoData.json")
-    .then(response => response.json())
-    .then(json => console.log(json));
+  function retrieveJSON() {
+    var response = fetch("BingoData.json");
     
-    return response.json();
+    return response;
   }
   
   function printTable(bingoCardJson) {
