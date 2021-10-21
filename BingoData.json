@@ -1260,7 +1260,322 @@
    "Universe": "W"
  },
  {
-   "Nickname": "No Items, Genji Only, Volskaya Foundry”\t100-0 someone without using your item (Genji)\tHero specific\t\tO\n“Breakfast, lunch and dinner”\tThree kills with Go for the Throat in one fight (Greymane)\tHero specific\t\tW\n“I will bleed you dry”\tKill someone with Drain Life (Gul’dan)\tHero specific\t\tW\n“Complex Geometry”\tGain 2 stacks of Target Practice with 1 arrow. (Hanzo)\tHero specific\t\tO\n“World renowned Hogger player”\tHogg Wild for 30 seconds (Hogger)\tHero specific\t\tW\n“You were prepared”\tKill an enemy behind their gate and live to tell the tale (Illidan)\tHero specific\t\tW\n“Stab into Stab”\tRepeat your Celestial Charge immediately (Imperius)\tHero specific\t\tD\n“FREEZE!”\tWith one cast of Ring of Frost, catch a single hero twice (Jaina)\tHero specific\t\tW\n“Flashlight kill”\tKill someone with Shield Glare (Johanna)\tHero specific\t\tD\n“Start your engines”\tGet three Extra Oomph resets in a row (Junkrat)\tHero specific\t\tO\n“Playing with Fire”\tSpread living bomb to 4 heroes at once (Kael’thas)\tHero specific\t\tW\n“Chained chains”\tDeathchill secondary kill (Kel’Thuzad)\tHero specific\t\tW\n“Iron willed Ultralisk”\tTerry the Torrasque backdoors a Keep (Kerrigan)\tHero specific\t\tS\n“Way of the Five Hundred Fists”\tUse 5 Radiant Dashes to kill one hero (Kharazim)\tHero specific\t\tD\n“Clean up crew”\tKill someone with March of the Black King (Leoric)\tHero specific\t\tD\n“The new player experience”\tGet run down by 3 enemy Heroes at once and escape (Li Li)\tHero specific\t\tW\n“A foe worth killing”\tGet 3 Calamity kills in one fight (Li-Ming)\tHero specific\t\tD\n“What's a solo lane?”\tKeep all 3 Vikings together at all times (Lost Vikings)\tHero specific\t\tN\n“Inbound”\tReinforcements an ally to the fight (Lt. Morales)\tHero specific\t\tS\n“Yeah, let's move it, people!”\tHigh five 9 times in a teamfight (Lucio)\tHero specific\t\tO\n“Life, uh, finds a way”\tCleanse a lethal damage over time effect (Lunara)\tHero specific\t\tW\n“Lorewalker Maiev”\tFinish Pin Down before Vigorious Vaulter (Maiev)\tHero specific\t\tW\n“I just dropped my glasses”\tFollow up your Blind as a Bat with Blind as a Bat (Mal'Ganis)\tHero specific\t\tW\n“Reforestation”\tTwo Treants on screen (Malfurion)\tHero specific\t\tW\n“Angel of Death”\tFinish Last Rites (Malthael)\tHero specific\t\tD\n“Counting sheep”\tFour Poly Bomb spreads (Medivh)\tHero specific\t\tW\n“Snow Warning”\tAvalanche someone into your base (Mei)\tHero specific\t\tO\n“Cooldown stress test”\tLand two Heroics within 30 seconds of each other (Mephisto)\tHero specific\t\tD\n“Accidental Knockout”\tKill a secondary target with Haymaker (Muradin)\tHero specific\t\tW\n“Maximum Living the Dream value”\tNever die (Murky)\tHero specific\t\tW\n“Undead are clean too”\tUse Zombie Wall to block CC (Nazeebo)\tHero specific\t\tD\n“Number 1 Player Killer Hero”\tGet the most kills in the game (Nova)\tHero specific\t\tS\n“Om nom nom nom”\tFive chomps of Eternal Feast (Orphea)\tHero specific\t\tN\n“Artosis Pylon”\tOnly one pylon can power any of your structures at once (Probius)\tHero specific\t\tS\n“Learn to play Qhira”\tGrappling Hook to a wall during Revolving Sweep (Qhira)\tHero specific\t\tN\n“They stood in the fire”\tKill a hero with Lava Wave (Ragnaros)\tHero specific\t\tW\n“Hyperflight Rotors”\tKeep Raynor's Raider alive (Raynor)\tHero specific\t\tS\n“Bork”\tKill a hero with Feral Lunge (Rehgar)\tHero specific\t\tW\n“Best animal husbando”\tKeep Misha alive all game (Rexxar)\tHero specific\t\tW\n“Poor Number 3”\tBait an enemy Heroic using a clone (Samuro)\tHero specific\t\tW\n“Bullet Bill's Revenge”\tHave 3 BFGs in one teamfight (Sgt. Hammer)\tHero specific\t\tS\n“That's my secret...”\tActivate Wrath of the Berserker when your Wrath of the Berserker finishes (Sonya)\tHero specific\t\tD\n“Hungry, Hungry, Stitches”\tEat the entire enemy team (Stitches)\tHero specific\t\tW\n“Get out of here”\tKill an enemy with Massive Shove (Stukov)\tHero specific\t\tS\n“They have a soul?”\tPossess a catapult (Sylvanas)\tHero specific\t\tW\n",
+   "Nickname": "No Items, Genji Only, Volskaya Foundry",
+   "Challenge": "100-0 someone without using your item (Genji)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "O"
+ },
+ {
+   "Nickname": "“Breakfast, lunch and dinner”",
+   "Challenge": "Three kills with Go for the Throat in one fight (Greymane)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "W"
+ },
+ {
+   "Nickname": "“I will bleed you dry”",
+   "Challenge": "Kill someone with Drain Life (Gul’dan)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "W"
+ },
+ {
+   "Nickname": "“Complex Geometry”",
+   "Challenge": "Gain 2 stacks of Target Practice with 1 arrow. (Hanzo)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "O"
+ },
+ {
+   "Nickname": "“World renowned Hogger player”",
+   "Challenge": "Hogg Wild for 30 seconds (Hogger)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "W"
+ },
+ {
+   "Nickname": "“You were prepared”",
+   "Challenge": "Kill an enemy behind their gate and live to tell the tale (Illidan)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "W"
+ },
+ {
+   "Nickname": "“Stab into Stab”",
+   "Challenge": "Repeat your Celestial Charge immediately (Imperius)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "D"
+ },
+ {
+   "Nickname": "“FREEZE!”",
+   "Challenge": "With one cast of Ring of Frost, catch a single hero twice (Jaina)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "W"
+ },
+ {
+   "Nickname": "“Flashlight kill”",
+   "Challenge": "Kill someone with Shield Glare (Johanna)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "D"
+ },
+ {
+   "Nickname": "“Start your engines”",
+   "Challenge": "Get three Extra Oomph resets in a row (Junkrat)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "O"
+ },
+ {
+   "Nickname": "“Playing with Fire”",
+   "Challenge": "Spread living bomb to 4 heroes at once (Kael’thas)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "W"
+ },
+ {
+   "Nickname": "“Chained chains”",
+   "Challenge": "Deathchill secondary kill (Kel’Thuzad)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "W"
+ },
+ {
+   "Nickname": "“Iron willed Ultralisk”",
+   "Challenge": "Terry the Torrasque backdoors a Keep (Kerrigan)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "S"
+ },
+ {
+   "Nickname": "“Way of the Five Hundred Fists”",
+   "Challenge": "Use 5 Radiant Dashes to kill one hero (Kharazim)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "D"
+ },
+ {
+   "Nickname": "“Clean up crew”",
+   "Challenge": "Kill someone with March of the Black King (Leoric)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "D"
+ },
+ {
+   "Nickname": "“The new player experience”",
+   "Challenge": "Get run down by 3 enemy Heroes at once and escape (Li Li)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "W"
+ },
+ {
+   "Nickname": "“A foe worth killing”",
+   "Challenge": "Get 3 Calamity kills in one fight (Li-Ming)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "D"
+ },
+ {
+   "Nickname": "“What's a solo lane?”",
+   "Challenge": "Keep all 3 Vikings together at all times (Lost Vikings)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "N"
+ },
+ {
+   "Nickname": "“Inbound”",
+   "Challenge": "Reinforcements an ally to the fight (Lt. Morales)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "S"
+ },
+ {
+   "Nickname": "“Yeah, let's move it, people!”",
+   "Challenge": "High five 9 times in a teamfight (Lucio)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "O"
+ },
+ {
+   "Nickname": "“Life, uh, finds a way”",
+   "Challenge": "Cleanse a lethal damage over time effect (Lunara)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "W"
+ },
+ {
+   "Nickname": "“Lorewalker Maiev”",
+   "Challenge": "Finish Pin Down before Vigorious Vaulter (Maiev)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "W"
+ },
+ {
+   "Nickname": "“I just dropped my glasses”",
+   "Challenge": "Follow up your Blind as a Bat with Blind as a Bat (Mal'Ganis)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "W"
+ },
+ {
+   "Nickname": "“Reforestation”",
+   "Challenge": "Two Treants on screen (Malfurion)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "W"
+ },
+ {
+   "Nickname": "“Angel of Death”",
+   "Challenge": "Finish Last Rites (Malthael)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "D"
+ },
+ {
+   "Nickname": "“Counting sheep”",
+   "Challenge": "Four Poly Bomb spreads (Medivh)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "W"
+ },
+ {
+   "Nickname": "“Snow Warning”",
+   "Challenge": "Avalanche someone into your base (Mei)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "O"
+ },
+ {
+   "Nickname": "“Cooldown stress test”",
+   "Challenge": "Land two Heroics within 30 seconds of each other (Mephisto)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "D"
+ },
+ {
+   "Nickname": "“Accidental Knockout”",
+   "Challenge": "Kill a secondary target with Haymaker (Muradin)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "W"
+ },
+ {
+   "Nickname": "“Maximum Living the Dream value”",
+   "Challenge": "Never die (Murky)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "W"
+ },
+ {
+   "Nickname": "“Undead are clean too”",
+   "Challenge": "Use Zombie Wall to block CC (Nazeebo)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "D"
+ },
+ {
+   "Nickname": "“Number 1 Player Killer Hero”",
+   "Challenge": "Get the most kills in the game (Nova)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "S"
+ },
+ {
+   "Nickname": "“Om nom nom nom”",
+   "Challenge": "Five chomps of one Eternal Feast (Orphea)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "N"
+ },
+ {
+   "Nickname": "“Artosis Pylon”",
+   "Challenge": "Only one pylon can power any of your structures at once (Probius)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "S"
+ },
+ {
+   "Nickname": "“Learn to play Qhira”",
+   "Challenge": "Grappling Hook to a wall during Revolving Sweep (Qhira)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "N"
+ },
+ {
+   "Nickname": "“They stood in the fire”",
+   "Challenge": "Kill a hero with Lava Wave (Ragnaros)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "W"
+ },
+ {
+   "Nickname": "“Hyperflight Rotors”",
+   "Challenge": "Keep Raynor's Raider alive (Raynor)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "S"
+ },
+ {
+   "Nickname": "“Bork”",
+   "Challenge": "Kill a hero with Feral Lunge (Rehgar)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "W"
+ },
+ {
+   "Nickname": "“Best animal husbando”",
+   "Challenge": "Keep Misha alive all game (Rexxar)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "W"
+ },
+ {
+   "Nickname": "“Poor Number 3”",
+   "Challenge": "Bait an enemy Heroic using a clone (Samuro)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "W"
+ },
+ {
+   "Nickname": "“Bullet Bill's Revenge”",
+   "Challenge": "Have 3 BFGs in one teamfight (Sgt. Hammer)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "S"
+ },
+ {
+   "Nickname": "“That's my secret...”",
+   "Challenge": "Activate Wrath of the Berserker when your Wrath of the Berserker finishes (Sonya)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "D"
+ },
+ {
+   "Nickname": "“Hungry, Hungry, Stitches”",
+   "Challenge": "Eat the entire enemy team (Stitches)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "W"
+ },
+ {
+   "Nickname": "“Get out of here”",
+   "Challenge": "Kill an enemy with Massive Shove (Stukov)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "S"
+ },
+ {
+   "Nickname": "“They have a soul?”",
+   "Challenge": "Possess a catapult (Sylvanas)",
+   "Category": "Hero specific",
+   "Difficulty": null,
+   "Universe": "W"
+ },
+ {
+   "Nickname": "Easier Tools",
    "Challenge": "Kill an enemy hero with Psi Storm while in Archon Form (Tassadar)",
    "Category": "Hero specific",
    "Difficulty": null,
