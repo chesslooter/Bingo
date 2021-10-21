@@ -28,6 +28,16 @@
 
     function prepareData() {
         retrieveJSON();
+
+        $(document).on('click', '#bingoBoardTD', function () {
+            var color = $(this).css('background-color');
+            if (color == "rgb(33, 37, 41)") {
+                $(this).css("background-color", "red");
+            }
+            else {
+                $(this).css("background-color", "rgb(33, 37, 41)");
+            }
+        });
         //Do any extra setup stuff.
     }
 
@@ -37,7 +47,7 @@
                 return response.json();
             });
 
-        printTable(); //This will be replaced by something actual someday
+        printTable();
     }
 
     function printTable() {
@@ -49,34 +59,24 @@
         tbl.setAttribute('class', 'table table-dark table-bordered');
         tbl.setAttribute('id', 'bingoBoard');
         var tblBody = document.createElement("tbody");
-        var row = document.createElement("tr");
-        var cellText;
-        var cell;
 
-        cellText = document.createTextNode("Challenge");
-        cell = document.createElement("th");
-        cell.appendChild(cellText);
-        row.appendChild(cell);
-        tblBody.appendChild(row);
+        //Table headers - not currently needed.
+        //var row = document.createElement("tr");
+        //var cellText;
+        //var cell;
 
-        //row = document.createElement("tr");
-        //bingoCardsJson.forEach((element, index, array) => {
-        //    cellText = document.createTextNode(element.Nickname);
-        //    cell = document.createElement("td");
-        //    cell.appendChild(cellText);
-        //    cell.setAttribute('title', element.Challenge);
-        //    row.appendChild(cell);
+        //cellText = document.createTextNode("Challenge");
+        //cell = document.createElement("th");
+        //cell.appendChild(cellText);
+        //row.appendChild(cell);
+        //tblBody.appendChild(row);
 
-        //    if ((index + 1) % 5 == 0) {
-        //        tblBody.appendChild(row);
-        //        row = document.createElement("tr");
-        //    }
-        //});
-        //tblBody.appendChild(row); //Always append at the end
         var usedBingoOptions = [];
         for (var i = 0; i < 5; i++) {
             row = document.createElement("tr");
             for (var j = 0; j < 5; j++) {
+
+                //Pull until we get a bingo card we haven't used yet. Make this its own separate function if it gets any more complex.
                 var bingoElement;
                 var pullAgain = true;
                 while (pullAgain) {
@@ -89,6 +89,8 @@
                     });
                 }
                 usedBingoOptions.push(bingoElement);
+
+                //Create the cell
                 cellText = document.createTextNode(bingoElement.Nickname);
                 cell = document.createElement("td");
                 cell.appendChild(cellText);
@@ -103,30 +105,10 @@
         tbl.appendChild(tblBody);
         // put <table> in the <body>
         body.appendChild(tbl);
-
-        $(document).on('click', '#bingoBoardTD', function () {
-            console.log("Here");
-            //$(this).toggleClass("checked");
-            var color = $(this).css('background-color');
-            if (color == "rgb(33, 37, 41)") {
-                $(this).css("background-color", "red");
-            }
-            else {
-                $(this).css("background-color", "rgb(33, 37, 41)");
-            }
-            
-            console.log("Past");
-        });
     }
 
     function getRandomInt(max) {
         return Math.floor(Math.random() * max);
     }
-
-    //$('tr').on('click', function () {
-    //    console.log("Here");
-    //    $(this).toggleClass("checked");
-    //    console.log("Past");
-    //});
 
 </script>
