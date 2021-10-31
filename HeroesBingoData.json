@@ -5304,7 +5304,7 @@
     "IsCCL": "No"
   },
   {
-    "Nickname": "Baha mentions the \"friendly team\"",
+    "Nickname": "Baha mentions the “friendly team”",
     "Challenge": "",
     "Category": "CCL viewer",
     "Difficulty": null,
@@ -5316,7 +5316,7 @@
     "IsCCL": "Yes"
   },
   {
-    "Nickname": "Stay Awhile and Listen",
+    "Nickname": "“Stay Awhile and Listen”",
     "Challenge": "Grubby tells an extra long story to illustrate a point",
     "Category": "CCL viewer",
     "Difficulty": null,
@@ -5424,7 +5424,7 @@
     "IsCCL": "Yes"
   },
   {
-    "Nickname": "I'm still Bahamut, still joined by...",
+    "Nickname": "“I'm still Bahamut, still joined by...”",
     "Challenge": "",
     "Category": "CCL viewer",
     "Difficulty": null,
@@ -5436,7 +5436,7 @@
     "IsCCL": "Yes"
   },
   {
-    "Nickname": "TY SUB!",
+    "Nickname": "“TY SUB!” from Kiye",
     "Challenge": "",
     "Category": "CCL viewer",
     "Difficulty": null,
@@ -5472,7 +5472,7 @@
     "IsCCL": "Yes"
   },
   {
-    "Nickname": "The script",
+    "Nickname": "“The script” is mentioned",
     "Challenge": "",
     "Category": "CCL viewer",
     "Difficulty": null,
@@ -5484,7 +5484,7 @@
     "IsCCL": "Yes"
   },
   {
-    "Nickname": "How did we get here?",
+    "Nickname": "“How did we get here?”",
     "Challenge": "",
     "Category": "CCL viewer",
     "Difficulty": null,
@@ -5496,7 +5496,7 @@
     "IsCCL": "Yes"
   },
   {
-    "Nickname": "Misha to be playing Misha",
+    "Nickname": "“Misha to be playing Misha”",
     "Challenge": "",
     "Category": "CCL viewer",
     "Difficulty": null,
@@ -5508,7 +5508,7 @@
     "IsCCL": "Yes"
   },
   {
-    "Nickname": "_ playing Olaf, _ playing Baelog...",
+    "Nickname": "“_ playing Olaf, _ playing Baelog...”",
     "Challenge": "",
     "Category": "CCL viewer",
     "Difficulty": null,
@@ -5592,7 +5592,7 @@
     "IsCCL": "Yes"
   },
   {
-    "Nickname": "Baha says \"omega\"",
+    "Nickname": "Baha says “omega”",
     "Challenge": "",
     "Category": "CCL viewer",
     "Difficulty": null,
@@ -5845,6 +5845,54 @@
   },
   {
     "Nickname": "Volskaya Foundry banned",
+    "Challenge": "",
+    "Category": "CCL viewer",
+    "Difficulty": null,
+    "Universe": "",
+    "Player count": "",
+    "IsSingleplayer": "No",
+    "IsMultiplayer": "No",
+    "IsCustom": "No",
+    "IsCCL": "Yes"
+  },
+  {
+    "Nickname": "Baha plugs a sponsor",
+    "Challenge": "",
+    "Category": "CCL viewer",
+    "Difficulty": null,
+    "Universe": "",
+    "Player count": "",
+    "IsSingleplayer": "No",
+    "IsMultiplayer": "No",
+    "IsCustom": "No",
+    "IsCCL": "Yes"
+  },
+  {
+    "Nickname": "Grubby plugs a sponsor",
+    "Challenge": "",
+    "Category": "CCL viewer",
+    "Difficulty": null,
+    "Universe": "",
+    "Player count": "",
+    "IsSingleplayer": "No",
+    "IsMultiplayer": "No",
+    "IsCustom": "No",
+    "IsCCL": "Yes"
+  },
+  {
+    "Nickname": "Justing plugs a sponsor",
+    "Challenge": "",
+    "Category": "CCL viewer",
+    "Difficulty": null,
+    "Universe": "",
+    "Player count": "",
+    "IsSingleplayer": "No",
+    "IsMultiplayer": "No",
+    "IsCustom": "No",
+    "IsCCL": "Yes"
+  },
+  {
+    "Nickname": "!prizepool",
     "Challenge": "",
     "Category": "CCL viewer",
     "Difficulty": null,

@@ -265,6 +265,21 @@
         tblDivCol.appendChild(tbl);
         tblDivRow.appendChild(tblDivCol);
         containerDiv.appendChild(tblDivRow);
+
+        //invite link. This is stupid, but I'm too lazy to fix it right now.
+        var inviteDivRow = document.createElement("div");
+        var inviteDivCol = document.createElement("div");
+        var inviteMsg = document.createElement("a");
+        inviteDivRow.setAttribute('id', 'heroesBingoInvite');
+        inviteDivRow.setAttribute('class', 'row justify-content-center');
+        inviteDivCol.setAttribute('class', 'col align-self-center');
+        inviteMsg.setAttribute('style', "color: #fff");
+        inviteMsg.setAttribute('href', 'https://discord.gg/Ccyt5AchxM');
+        inviteMsg.innerHTML = "Like bingo? Join the gillyShark discord!";
+        inviteDivCol.appendChild(inviteMsg);
+        inviteDivRow.appendChild(inviteDivCol);
+        containerDiv.appendChild(inviteDivRow);
+
         body.appendChild(containerDiv);
     }
 
