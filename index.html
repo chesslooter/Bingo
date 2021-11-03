@@ -23,26 +23,44 @@
         <div class="row" style="padding-top: 10px">
             <div class="col">
                 <div class="form-check form-check-inline" style="padding-left: 0px;">
-                    <input class="btn-check" type="checkbox" value="" id="btnSingleplayer" checked>
+                    <input class="btn-check" type="checkbox" value="" id="btnSingleplayer">
                     <label class="btn btn-outline-light" for="btnSingleplayer">
                         Singleplayer
                     </label>
                 </div>
                 <div class="form-check form-check-inline">
-                    <input class="btn-check" type="checkbox" value="" id="btnMultiplayer" checked>
+                    <input class="btn-check" type="checkbox" value="" id="btnMultiplayer">
                     <label class="btn btn-outline-light" for="btnMultiplayer">
                         Multiplayer
                     </label>
                 </div>
                 <div class="form-check form-check-inline">
-                    <input class="btn-check" type="checkbox" value="" id="btnCustom" checked>
+                    <input class="btn-check" type="checkbox" value="" id="btnAramSpecific">
+                    <label class="btn btn-outline-light" for="btnAramSpecific">
+                        ARAM-Specific
+                    </label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="btn-check" type="checkbox" value="" id="btnQuickMatchSpecific">
+                    <label class="btn btn-outline-light" for="btnQuickMatchSpecific">
+                        Quick Match-Specific
+                    </label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="btn-check" type="checkbox" value="" id="btnRankedMapsSpecific">
+                    <label class="btn btn-outline-light" for="btnRankedMapsSpecific">
+                        Storm League-Specific
+                    </label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="btn-check" type="checkbox" value="" id="btnCustom">
                     <label class="btn btn-outline-light" for="btnCustom">
                         Custom
                     </label>
                 </div>
                 <div class="form-check form-check-inline">
                     <input class="btn-check" type="checkbox" value="" id="btnCCL" onclick="toggleCCLOptions()">
-                    <label class="btn btn-outline-light" for="btnCCL" onclick="toggleCCLOptions()">
+                    <label class="btn btn-outline-danger" for="btnCCL" onclick="toggleCCLOptions()">
                         CCL Viewer
                     </label>
                 </div>
@@ -81,11 +99,24 @@
             document.getElementById("btnMultiplayer").checked = false;
             document.getElementById("btnMultiplayer").disabled = true;
 
+            document.getElementById("btnAramSpecific").checked = false;
+            document.getElementById("btnAramSpecific").disabled = true;
+
+            document.getElementById("btnQuickMatchSpecific").checked = false;
+            document.getElementById("btnQuickMatchSpecific").disabled = true;
+
+            document.getElementById("btnRankedMapsSpecific").checked = false;
+            document.getElementById("btnRankedMapsSpecific").disabled = true;
+
             document.getElementById("btnCustom").checked = false;
             document.getElementById("btnCustom").disabled = true;
         } else {
+
             document.getElementById("btnSingleplayer").disabled = false;
             document.getElementById("btnMultiplayer").disabled = false;
+            document.getElementById("btnAramSpecific").disabled = false;
+            document.getElementById("btnQuickMatchSpecific").disabled = false;
+            document.getElementById("btnRankedMapsSpecific").disabled = false;
             document.getElementById("btnCustom").disabled = false;
         }
     }
@@ -106,9 +137,22 @@
             selectedOptions.push("IsMultiplayer");
         }
 
+        if (document.getElementById("btnAramSpecific").checked) {
+            selectedOptions.push("IsAramMaps");
+        }
+
+        if (document.getElementById("btnQuickMatchSpecific").checked) {
+            selectedOptions.push("IsQuickMaps");
+        }
+
+        if (document.getElementById("btnRankedMapsSpecific").checked) {
+            selectedOptions.push("IsRankedMaps");
+        }
+
         if (document.getElementById("btnCustom").checked) {
             selectedOptions.push("IsCustom");
         }
+
 
         if (document.getElementById("btnCCL").checked) {
             selectedOptions.push("IsCCL");

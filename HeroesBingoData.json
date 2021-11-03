@@ -9,7 +9,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Alarak",
@@ -21,7 +24,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Alexstrasza",
@@ -33,7 +39,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Ana",
@@ -45,7 +54,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Anduin",
@@ -57,7 +69,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Anub'arak",
@@ -69,7 +84,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Artanis",
@@ -81,7 +99,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Arthas",
@@ -93,7 +114,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Auriel",
@@ -105,7 +129,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Azmodan",
@@ -117,7 +144,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Blaze",
@@ -129,7 +159,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Brightwing",
@@ -141,7 +174,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Cassia",
@@ -153,7 +189,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Chen",
@@ -165,7 +204,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Cho",
@@ -177,7 +219,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Chromie",
@@ -189,7 +234,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with D.Va",
@@ -201,7 +249,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Deathwing",
@@ -213,7 +264,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Deckard Cain",
@@ -225,7 +279,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Dehaka",
@@ -237,7 +294,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Diablo",
@@ -249,7 +309,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with ETC",
@@ -261,7 +324,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Falstad",
@@ -273,7 +339,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Fenix",
@@ -285,7 +354,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Gall",
@@ -297,7 +369,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Garrosh",
@@ -309,7 +384,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Gazlowe",
@@ -321,7 +399,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Genji",
@@ -333,7 +414,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Greymane",
@@ -345,7 +429,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Gul'dan",
@@ -357,7 +444,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Hanzo",
@@ -369,7 +459,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Hogger",
@@ -381,7 +474,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Illidan",
@@ -393,7 +489,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Imperius",
@@ -405,7 +504,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Jaina",
@@ -417,7 +519,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Johanna",
@@ -429,7 +534,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Junkrat",
@@ -441,7 +549,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Kael'thas",
@@ -453,7 +564,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Kel'Thuzad",
@@ -465,7 +579,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Kerrigan",
@@ -477,7 +594,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Kharazim",
@@ -489,7 +609,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Leoric",
@@ -501,7 +624,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Li Li",
@@ -513,7 +639,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Li-Ming",
@@ -525,7 +654,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Lt. Morales",
@@ -537,7 +669,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Lucio",
@@ -549,7 +684,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Lunara",
@@ -561,7 +699,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Maiev",
@@ -573,7 +714,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Mal'Ganis",
@@ -585,7 +729,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Malfurion",
@@ -597,7 +744,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Malthael",
@@ -609,7 +759,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Medivh",
@@ -621,7 +774,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Mei",
@@ -633,7 +789,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Mephisto",
@@ -645,7 +804,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Muradin",
@@ -657,7 +819,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Murky",
@@ -669,7 +834,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Nazeebo",
@@ -681,7 +849,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Nova",
@@ -693,7 +864,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Orphea",
@@ -705,7 +879,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Probius",
@@ -717,7 +894,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Qhira",
@@ -729,7 +909,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Ragnaros",
@@ -741,7 +924,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Raynor",
@@ -753,7 +939,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Rehgar",
@@ -765,7 +954,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Rexxar",
@@ -777,7 +969,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Samuro",
@@ -789,7 +984,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Sgt. Hammer",
@@ -801,7 +999,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Sonya",
@@ -813,7 +1014,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Stitches",
@@ -825,7 +1029,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Stukov",
@@ -837,7 +1044,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Sylvanas",
@@ -849,7 +1059,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Tassadar",
@@ -861,7 +1074,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with The Butcher",
@@ -873,7 +1089,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with The Lost Vikings",
@@ -885,7 +1104,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Thrall",
@@ -897,7 +1119,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Tracer",
@@ -909,7 +1134,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Tychus",
@@ -921,7 +1149,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Tyrael",
@@ -933,7 +1164,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Tyrande",
@@ -945,7 +1179,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Uther",
@@ -957,7 +1194,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Valeera",
@@ -969,7 +1209,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Valla",
@@ -981,7 +1224,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Varian",
@@ -993,7 +1239,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Whitemane",
@@ -1005,7 +1254,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Xul",
@@ -1017,7 +1269,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Yrel",
@@ -1029,7 +1284,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Zagara",
@@ -1041,7 +1299,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Zarya",
@@ -1053,7 +1314,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Zeratul",
@@ -1065,7 +1329,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with Zul'jin",
@@ -1077,7 +1344,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with 2 Tanks on 1 team",
@@ -1089,7 +1359,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with 3 Tanks on 1 team",
@@ -1101,7 +1374,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with 4 Tanks on 1 team",
@@ -1113,7 +1389,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with 5 Tanks on 1 team",
@@ -1125,7 +1404,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with 2 Bruisers on 1 team",
@@ -1137,7 +1419,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with 3 Bruisers on 1 team",
@@ -1149,7 +1434,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with 4 Bruisers on 1 team",
@@ -1161,7 +1449,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with 5 Bruisers on 1 team",
@@ -1173,7 +1464,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with 2 Ranged Assassins on 1 team",
@@ -1185,7 +1479,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with 3 Ranged Assassins on 1 team",
@@ -1197,7 +1494,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with 4 Ranged Assassins on 1 team",
@@ -1209,7 +1509,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with 5 Ranged Assassins on 1 team",
@@ -1221,7 +1524,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with 2 Melee Assassins on 1 team",
@@ -1233,7 +1539,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with 3 Melee Assassins on 1 team",
@@ -1245,7 +1554,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with 4 Melee Assassins on 1 team",
@@ -1257,7 +1569,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with 5 Melee Assassins on 1 team",
@@ -1269,7 +1584,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with 2 Healers on 1 team",
@@ -1281,7 +1599,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with 3 Healers on 1 team",
@@ -1293,7 +1614,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with 4 Healers on 1 team",
@@ -1305,7 +1629,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with 5 Healers on 1 team",
@@ -1317,7 +1644,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with 2 Supports on 1 team",
@@ -1329,7 +1659,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with 3 Supports on 1 team",
@@ -1341,7 +1674,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with 4 Supports on 1 team",
@@ -1353,7 +1689,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with random talents",
@@ -1365,7 +1704,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win on Alterac Pass",
@@ -1377,7 +1719,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win on Battlefield of Eternity",
@@ -1389,7 +1734,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win on Blackheart's Bay",
@@ -1401,7 +1749,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Win on Braxis Holdout",
@@ -1413,7 +1764,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win on Cursed Hollow",
@@ -1425,7 +1779,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win on Dragon Shire",
@@ -1437,7 +1794,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win on Garden of Terror",
@@ -1449,7 +1809,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win on Hanamura Temple",
@@ -1461,7 +1824,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win on Haunted Mines",
@@ -1473,7 +1839,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Win on Infernal Shrines",
@@ -1485,7 +1854,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win on Sky Temple",
@@ -1497,7 +1869,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win on Tomb of the Spider Queen",
@@ -1509,7 +1884,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win on Towers of Doom",
@@ -1521,7 +1899,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win on Volskaya Foundry",
@@ -1533,7 +1914,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Win on Warhead Junction",
@@ -1545,7 +1929,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win on Braxis Outpost",
@@ -1557,7 +1944,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Win on Industrial District",
@@ -1569,7 +1959,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Win on Lost Cavern",
@@ -1581,7 +1974,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Win on Silver City",
@@ -1593,7 +1989,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Win 3 games in a row",
@@ -1605,7 +2004,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "No",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Cavalry, upgraded”",
@@ -1617,7 +2019,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Breaking into Fort Knox”",
@@ -1629,7 +2034,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Hoping for interest”",
@@ -1641,7 +2049,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "“Basetrade”",
@@ -1653,7 +2064,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "What's a map objective?",
@@ -1665,7 +2079,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Field Goal”",
@@ -1677,7 +2094,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Pacific Rim”",
@@ -1689,7 +2109,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Coup de Grace”",
@@ -1701,7 +2124,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“And his name is John Cena!”",
@@ -1713,7 +2139,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Throw pit”",
@@ -1725,7 +2154,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Arachnophobia”",
@@ -1737,7 +2169,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Swap sides”",
@@ -1749,7 +2184,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Saving for the Final Boss",
@@ -1761,7 +2199,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "“War never changes”",
@@ -1773,7 +2214,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Globe Heist”",
@@ -1785,7 +2229,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "“Benny Hill”",
@@ -1797,7 +2244,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "“Global value”",
@@ -1809,7 +2259,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "“Tasteless' Secret Hallway”",
@@ -1821,7 +2274,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "“Slap”",
@@ -1833,7 +2289,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Happiness”",
@@ -1845,7 +2304,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Red Dragonflight”",
@@ -1857,7 +2319,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Immortality”",
@@ -1869,7 +2334,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Chymo Cleanse”",
@@ -1881,7 +2349,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Embalming”",
@@ -1893,7 +2364,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“I'mma firin' my lazor!!1!”",
@@ -1905,7 +2379,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Dragons eat whatever they want”",
@@ -1917,7 +2394,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Poor Angel’s Flighty Gust”",
@@ -1929,7 +2409,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“THICC strike”",
@@ -1941,7 +2424,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Bunker Pirates”",
@@ -1953,7 +2439,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Zoo Tycoon”",
@@ -1965,7 +2454,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“I like my steak blazed”",
@@ -1977,7 +2469,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Volleyball”",
@@ -1989,7 +2484,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Goal!”",
@@ -2001,7 +2499,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Pop pop pop”",
@@ -2013,7 +2514,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Pressing pause”",
@@ -2025,7 +2529,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“BONK”",
@@ -2037,7 +2544,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Windy”",
@@ -2049,7 +2559,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“One who collects”",
@@ -2061,7 +2574,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Puny god”",
@@ -2073,7 +2589,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“My mech is still in the shop?”",
@@ -2085,7 +2604,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“At any cost”",
@@ -2097,7 +2619,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Lightning strikes twice”",
@@ -2109,7 +2634,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Baha thinks I'm trash”",
@@ -2121,7 +2649,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“This way!”",
@@ -2133,7 +2664,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Throwing the Game”",
@@ -2145,7 +2679,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Stark built this in a cave!”",
@@ -2157,7 +2694,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "No Items, Genji Only, Volskaya Foundry",
@@ -2169,7 +2709,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Breakfast, lunch and dinner”",
@@ -2181,7 +2724,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“I will bleed you dry”",
@@ -2193,7 +2739,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Complex Geometry”",
@@ -2205,7 +2754,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“World renowned Hogger player”",
@@ -2217,7 +2769,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“You were prepared”",
@@ -2229,7 +2784,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Stab into Stab”",
@@ -2241,7 +2799,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“FREEZE!”",
@@ -2253,7 +2814,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Flashlight kill”",
@@ -2265,7 +2829,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Start your engines”",
@@ -2277,7 +2844,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Playing with Fire”",
@@ -2289,7 +2859,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Chained chains”",
@@ -2301,7 +2874,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Iron willed Ultralisk”",
@@ -2313,7 +2889,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Way of the Five Hundred Fists”",
@@ -2325,7 +2904,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Clean up crew”",
@@ -2337,7 +2919,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“The new player experience”",
@@ -2349,7 +2934,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“A foe worth killing”",
@@ -2361,7 +2949,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“What's a solo lane?”",
@@ -2373,7 +2964,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Inbound”",
@@ -2385,7 +2979,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Yeah, let's move it, people!”",
@@ -2397,7 +2994,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Life, uh, finds a way”",
@@ -2409,7 +3009,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Lorewalker Maiev”",
@@ -2421,7 +3024,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“I just dropped my glasses”",
@@ -2433,7 +3039,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Reforestation”",
@@ -2445,7 +3054,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Angel of Death”",
@@ -2457,7 +3069,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Counting sheep”",
@@ -2469,7 +3084,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Snow Warning”",
@@ -2481,7 +3099,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Cooldown stress test”",
@@ -2493,7 +3114,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Accidental Knockout”",
@@ -2505,7 +3129,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Maximum Living the Dream value”",
@@ -2517,7 +3144,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Undead are clean too”",
@@ -2529,7 +3159,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Number 1 Player Killer Hero”",
@@ -2541,7 +3174,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Om nom nom nom”",
@@ -2553,7 +3189,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Artosis Pylon”",
@@ -2565,7 +3204,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Learn to play Qhira”",
@@ -2577,7 +3219,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“They stood in the fire”",
@@ -2589,7 +3234,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Hyperflight Rotors”",
@@ -2601,7 +3249,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Bork”",
@@ -2613,7 +3264,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Best animal husbando”",
@@ -2625,7 +3279,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Poor Number 3”",
@@ -2637,7 +3294,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Bullet Bill's Revenge”",
@@ -2649,7 +3309,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“That's my secret...”",
@@ -2661,7 +3324,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Hungry, Hungry, Stitches”",
@@ -2673,7 +3339,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Get out of here”",
@@ -2685,7 +3354,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“They have a soul?”",
@@ -2697,7 +3369,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Easier Tools",
@@ -2709,7 +3384,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Lorewalker Thrall”",
@@ -2721,7 +3399,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Victory lap”",
@@ -2733,7 +3414,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Personal Stimpacks”",
@@ -2745,7 +3429,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Outsourcing”",
@@ -2757,7 +3444,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Send someone to Hogwarts”",
@@ -2769,7 +3459,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“D-D-Divine Storm!”",
@@ -2781,7 +3474,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“That's a known bug”",
@@ -2793,7 +3489,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“APM!”",
@@ -2805,7 +3504,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Low King's Quest”",
@@ -2817,7 +3519,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Divine Wreck-oning”",
@@ -2829,7 +3534,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Thriller”",
@@ -2841,7 +3549,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Hammer Down!”",
@@ -2853,7 +3564,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“The swarm endures”",
@@ -2865,7 +3579,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“What is yours is now mine”",
@@ -2877,7 +3594,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“The Void awaits you”",
@@ -2889,7 +3609,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Headhunter”",
@@ -2901,7 +3624,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Volatile Mutation (Abathur)",
@@ -2913,7 +3639,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Chaos Reigns (Alarak)",
@@ -2925,7 +3654,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Flames of Fury (Alexstrasza)",
@@ -2937,7 +3669,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Debilitating Dart (Ana)",
@@ -2949,7 +3684,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Censure (Anduin)",
@@ -2961,7 +3699,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Chitinous Plating (Anub’arak)",
@@ -2973,7 +3714,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Chrono Surge (Artanis)",
@@ -2985,7 +3729,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Immortal Coil (Arthas)",
@@ -2997,7 +3744,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Empathetic Link (Auriel)",
@@ -3009,7 +3759,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Wrath (Azmodan)",
@@ -3021,7 +3774,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Endurance Stimpack (Blaze)",
@@ -3033,7 +3789,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Sticky Flare (Brightwing)",
@@ -3045,7 +3804,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Insatiable Blade (Butcher)",
@@ -3057,7 +3819,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Power Strike (Cassia)",
@@ -3069,7 +3834,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Gift of the Ox (Chen)",
@@ -3081,7 +3849,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Hour of Twilight (Cho)",
@@ -3093,7 +3864,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Blessing of the Bronze (Chromie)",
@@ -3105,7 +3879,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Gaze Onto Destruction (Deathwing)",
@@ -3117,7 +3894,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Potion of Revival (Deckard)",
@@ -3129,7 +3909,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Paralyzing Enzymes (Dehaka)",
@@ -3141,7 +3924,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Malevolence (Diablo)",
@@ -3153,7 +3939,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Diverting Power (D.Va)",
@@ -3165,7 +3954,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Crowd Surfer (ETC)",
@@ -3177,7 +3969,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Updraft (Falstad)",
@@ -3189,7 +3984,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Arsenal Synergy (Fenix)",
@@ -3201,7 +3999,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Psychotic Break (Gall)",
@@ -3213,7 +4014,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Mortal Combo (Garrosh)",
@@ -3225,7 +4029,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "EZ-PZ Dimensional Ripper (Gazlowe)",
@@ -3237,7 +4044,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Dragon Claw (Genji)",
@@ -3249,7 +4059,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Incendiary Elixir (Greymane)",
@@ -3261,7 +4074,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Dark Bargain (Gul’dan)",
@@ -3273,7 +4089,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Redemption (Hanzo)",
@@ -3285,7 +4104,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Bloodthirst (Hogger)",
@@ -3297,7 +4119,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Rapid Chase (Illidan)",
@@ -3309,7 +4134,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Valorous Pursuit (Imperius)",
@@ -3321,7 +4149,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Icefury Wand (Jaina)",
@@ -3333,7 +4164,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Zealous Glare (Johanna)",
@@ -3345,7 +4179,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "BOOM POW (Junkrat)",
@@ -3357,7 +4194,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Energy Roil (Kael’thas)",
@@ -3369,7 +4209,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Strip Shields (Kel’Thuzad)",
@@ -3381,7 +4224,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Assimilation Mastery (Kerrigan)",
@@ -3393,7 +4239,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Blazing Fists (Kharazim)",
@@ -3405,7 +4254,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Willing Vessel (Leoric)",
@@ -3417,7 +4269,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Gale Force (Li Li)",
@@ -3429,7 +4284,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Seeker (Li-Ming)",
@@ -3441,7 +4299,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Spy Games (Lost Vikings)",
@@ -3453,7 +4314,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Bedside Manner (Lt. Morales)",
@@ -3465,7 +4329,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Smooth Moves (Lucio)",
@@ -3477,7 +4344,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Wild Vigor (Lunara)",
@@ -3489,7 +4359,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Armored Assault (Maiev)",
@@ -3501,7 +4374,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Vampiric Aura (Mal’Ganis)",
@@ -3513,7 +4389,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Deep Roots (Malfurion)",
@@ -3525,7 +4404,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Memento Mori (Malthael)",
@@ -3537,7 +4419,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Force of Magic (Medivh)",
@@ -3549,7 +4434,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Slushball (Mei)",
@@ -3561,7 +4449,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Hysteria (Mephisto)",
@@ -3573,7 +4464,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Thunder Strike (Muradin)",
@@ -3585,7 +4479,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Living the Dream (Murky)",
@@ -3597,7 +4494,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Guardian Toads (Nazeebo)",
@@ -3609,7 +4509,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Ionic Force Field (Nova)",
@@ -3621,7 +4524,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Allegrissimo (Orphea)",
@@ -3633,7 +4539,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Echo Pulse (Probius)",
@@ -3645,7 +4554,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "The Thirst (Qhira)",
@@ -3657,7 +4569,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Blistering Attacks (Ragnaros)",
@@ -3669,7 +4584,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Heavy Slugs (Raynor)",
@@ -3681,7 +4599,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Colossal Totem (Rehgar)",
@@ -3693,7 +4614,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Flare (Rexxar)",
@@ -3705,7 +4629,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Way of Illusion (Samuro)",
@@ -3717,7 +4644,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Pulse Detonation Core (Sgt. Hammer)",
@@ -3729,7 +4659,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Poisoned Spear (Sonya)",
@@ -3741,7 +4674,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Hungry for More (Stitches)",
@@ -3753,7 +4689,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Fetid Touch (Stukov)",
@@ -3765,7 +4704,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Remorseless (Sylvanas)",
@@ -3777,7 +4719,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Induction (Tassadar)",
@@ -3789,7 +4734,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Maelstrom Weapon (Thrall)",
@@ -3801,7 +4749,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Telefrag (Tracer)",
@@ -3813,7 +4764,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Combat Tactician (Tychus)",
@@ -3825,7 +4779,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Reciprocate (Tyrael)",
@@ -3837,7 +4794,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Trueshot Aura (Tyrande)",
@@ -3849,7 +4809,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Armor of Faith (Uther)",
@@ -3861,7 +4824,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Mutilate (Valeera)",
@@ -3873,7 +4839,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Creed of the Hunter (Valla)",
@@ -3885,7 +4854,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "High King’s Quest (Varian)",
@@ -3897,7 +4869,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Righteous Flame (Whitemane)",
@@ -3909,7 +4884,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Backlash (Xul)",
@@ -3921,7 +4899,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Aegis of Light (Yrel)",
@@ -3933,7 +4914,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Viscous Acid (Zagara)",
@@ -3945,7 +4929,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Feel the Heat (Zarya)",
@@ -3957,7 +4944,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Warp Skirmisher (Zeratul)",
@@ -3969,7 +4959,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Ensnare (Zul’jin)",
@@ -3981,7 +4974,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Washing Machine",
@@ -3993,7 +4989,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Hypercarry Abathur",
@@ -4005,7 +5004,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Juice Pirates",
@@ -4017,7 +5019,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Cho'Gall Juice",
@@ -4029,7 +5034,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Holy Cow",
@@ -4041,7 +5049,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "EZ-Bake Oven",
@@ -4053,7 +5064,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Dungeons and Dragons",
@@ -4065,7 +5079,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "The Lightbomb Bomb Bomb",
@@ -4077,7 +5094,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Nanoblade",
@@ -4089,7 +5109,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Stand-up Comedians",
@@ -4101,7 +5124,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Turbo Edition”",
@@ -4113,7 +5139,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Globetrotters”",
@@ -4125,7 +5154,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“I'm not good at the game, but I'm over here”",
@@ -4137,7 +5169,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Reverse Chymo Cleanse”",
@@ -4149,7 +5184,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Piano lessons”",
@@ -4161,7 +5199,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Dance lessons”",
@@ -4173,7 +5214,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Catchphrase!”",
@@ -4185,7 +5229,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Nice”",
@@ -4197,7 +5244,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Streaking",
@@ -4209,7 +5259,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Palindromes”",
@@ -4221,7 +5274,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Perfect Rotations",
@@ -4233,7 +5289,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“M A C R O”",
@@ -4245,7 +5304,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Designated driver”",
@@ -4257,7 +5319,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“These queue times”",
@@ -4269,7 +5334,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Deathless”",
@@ -4281,7 +5349,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Speedrun Any%”",
@@ -4293,7 +5364,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Advanced Cheese”",
@@ -4305,7 +5379,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Guys, let’s take a camp”",
@@ -4317,7 +5394,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Winions”",
@@ -4329,7 +5409,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Alphabetical”",
@@ -4341,7 +5424,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Pacifism”",
@@ -4353,7 +5439,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Get Down Mr. President”",
@@ -4365,7 +5454,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Frequent Flyer”",
@@ -4377,7 +5469,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“We only play PvP”",
@@ -4389,7 +5484,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Run it down”",
@@ -4401,7 +5499,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“My ctrl key fell off”",
@@ -4413,7 +5514,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“No card games”",
@@ -4425,7 +5529,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Backwards day”",
@@ -4437,7 +5544,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“I’m thirsty”",
@@ -4449,7 +5559,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Sky Terran”",
@@ -4461,7 +5574,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Play Genji or Hanzo",
@@ -4473,7 +5589,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Play Varian or Anduin",
@@ -4485,7 +5604,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Play Chen or Li Li",
@@ -4497,7 +5619,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Play Junkrat or “Roadhog”",
@@ -4509,7 +5634,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Play Orphea or Qhira",
@@ -4521,7 +5649,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Play Cassia or Xul",
@@ -4533,7 +5664,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Play Artanis or Raynor",
@@ -4545,7 +5679,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with all Horde heroes",
@@ -4557,7 +5694,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with all Alliance heroes",
@@ -4569,7 +5709,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with all Scourge heroes",
@@ -4581,7 +5724,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with all Terran heroes",
@@ -4593,7 +5739,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with all Protoss heroes",
@@ -4605,7 +5754,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with all Zerg heroes",
@@ -4617,7 +5769,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with all Human heroes",
@@ -4629,7 +5784,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with all Orc heroes",
@@ -4641,7 +5799,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with all Undead heroes",
@@ -4653,7 +5814,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with all Night Elf heroes",
@@ -4665,7 +5829,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with all Diablo 2 heroes",
@@ -4677,7 +5844,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with all Diablo 3 heroes",
@@ -4689,7 +5859,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with all Overwatch heroes",
@@ -4701,7 +5874,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with every universe on the same team",
@@ -4713,7 +5889,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with all Dragons/dragon themed heroes",
@@ -4725,7 +5904,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with team Fire",
@@ -4737,7 +5919,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with team Ice",
@@ -4749,7 +5934,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win without your team using a mount model",
@@ -4761,7 +5949,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Twilight of the Gods”",
@@ -4773,7 +5964,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win with team Raid Boss",
@@ -4785,7 +5979,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Retaking Dalaran”",
@@ -4797,7 +5994,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“City Builder”",
@@ -4809,7 +6009,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Summons”",
@@ -4821,7 +6024,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Straight outta Outland”",
@@ -4833,7 +6039,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“The Brothers Stormrage”",
@@ -4845,7 +6054,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Blind the player”",
@@ -4857,7 +6069,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Transformers”",
@@ -4869,7 +6084,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“The sky is falling”",
@@ -4881,7 +6099,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Three's A Crowd",
@@ -4893,7 +6114,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Win as Cloud9 (vs Team DK 2015)",
@@ -4905,7 +6129,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win as NaVi (vs Team DK 2015)",
@@ -4917,7 +6144,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win as Fnatic (vs MVP Black 2016)",
@@ -4929,7 +6159,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win as eStar (vs MVP Black 2016)",
@@ -4941,7 +6174,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win as Tempest (vs MVP Black 2016)",
@@ -4953,7 +6189,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Win as Fnatic (vs Ballistix 2016)",
@@ -4965,7 +6204,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "There's Illidan!",
@@ -4977,7 +6219,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Complete Diablo 3*",
@@ -4989,7 +6234,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Kill Zeratul as Artanis",
@@ -5001,7 +6249,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Kill Uther as Arthas",
@@ -5013,7 +6264,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Northrend Recruitment”",
@@ -5025,7 +6279,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Naptime” Muradin as Arthas",
@@ -5037,7 +6294,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Kill Mal’Ganis as Arthas",
@@ -5049,7 +6309,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Defeat Illidan as Arthas",
@@ -5061,7 +6324,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“The Original KT”",
@@ -5073,7 +6339,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Lumber Quota”",
@@ -5085,7 +6354,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Daughter of a deceased Demigod”",
@@ -5097,7 +6369,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“Awakening Stormrage”",
@@ -5109,7 +6384,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“I’m Blind…”",
@@ -5121,7 +6399,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“ ‘Snarlmane the Bloodgorger’ “",
@@ -5133,7 +6414,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“War Crimes”",
@@ -5145,7 +6429,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Kill Fenix with Kerrigan",
@@ -5157,7 +6444,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Never kill Kerrigan as Raynor",
@@ -5169,11 +6459,14 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Baneling Bust",
-    "Challenge": "Kill a fort on Braxis or Warhead with just Banelings",
+    "Challenge": "Kill a fort on Braxis Holdout, Braxis Outpost or Warhead with just Banelings",
     "Category": "Lore specific",
     "Difficulty": null,
     "Universe": "S",
@@ -5181,7 +6474,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "One pair",
@@ -5193,7 +6489,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Two pairs",
@@ -5205,7 +6504,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Three pairs",
@@ -5217,7 +6519,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Three of a kind",
@@ -5229,7 +6534,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Four of a kind",
@@ -5241,7 +6549,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "12 character username",
@@ -5253,7 +6564,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "No",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Enemy has an auto generated Blizzard ID",
@@ -5265,7 +6579,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "No",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“5-man Heroic” - (ex. Mosh, Durance, Ice Wall)",
@@ -5277,7 +6594,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "“HotS Civil War”",
@@ -5289,7 +6609,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Lorewalker Stitches",
@@ -5301,7 +6624,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "No"
+    "IsCCL": "No",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   },
   {
     "Nickname": "Baha mentions the “friendly team”",
@@ -5313,7 +6639,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "“Stay Awhile and Listen”",
@@ -5325,7 +6654,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Springy meows",
@@ -5337,7 +6669,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Bandit makes an appearance",
@@ -5349,7 +6684,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Logan makes an appearance",
@@ -5361,7 +6699,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Springy makes an appearance",
@@ -5373,7 +6714,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Dragon's Arrow NArrowly misses",
@@ -5385,7 +6729,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Baha wears a gillyShark shirt",
@@ -5397,7 +6744,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Someone in chat posts a copypasta",
@@ -5409,7 +6759,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Kyle interviews a player",
@@ -5421,7 +6774,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "“I'm still Bahamut, still joined by...”",
@@ -5433,7 +6789,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "“TY SUB!” from Kiye",
@@ -5445,7 +6804,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Mentions of Juice Pirates in draft",
@@ -5457,7 +6819,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Mentions of Cho'Gall in draft",
@@ -5469,7 +6834,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "“The script” is mentioned",
@@ -5481,7 +6849,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "“How did we get here?”",
@@ -5493,7 +6864,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "“Misha to be playing Misha”",
@@ -5505,7 +6879,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "“_ playing Olaf, _ playing Baelog...”",
@@ -5517,7 +6894,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Casters forget to enter comms",
@@ -5529,7 +6909,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Players notice casters enter comms",
@@ -5541,7 +6924,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Season 4 confirmed!",
@@ -5553,10 +6939,13 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
-    "Nickname": "Kaelaris core",
+    "Nickname": "“Kaelaris core”",
     "Challenge": "(A core survives at 5% or less)",
     "Category": "CCL viewer",
     "Difficulty": null,
@@ -5565,7 +6954,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Baha winks on his outro",
@@ -5577,7 +6969,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Chat spams D: / blue shocked face",
@@ -5589,7 +6984,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Baha says “omega”",
@@ -5601,7 +6999,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Grubby makes fun of Creed of the Hunter",
@@ -5613,7 +7014,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "“Must be an NA thing”",
@@ -5625,7 +7029,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "“Must be an EU thing”",
@@ -5637,7 +7044,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Alterac Pass picked",
@@ -5649,7 +7059,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Alterac Pass banned",
@@ -5661,7 +7074,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Battlefield of Eternity picked",
@@ -5673,7 +7089,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Battlefield of Eternity banned",
@@ -5685,7 +7104,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Cursed Hollow picked",
@@ -5697,7 +7119,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Cursed Hollow banned",
@@ -5709,7 +7134,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Dragon Shire picked",
@@ -5721,7 +7149,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Dragon Shire banned",
@@ -5733,7 +7164,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Infernal Shrines picked",
@@ -5745,7 +7179,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Infernal Shrines banned",
@@ -5757,7 +7194,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Sky Temple picked",
@@ -5769,7 +7209,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Sky Temple banned",
@@ -5781,7 +7224,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Tomb of the Spider Queen picked",
@@ -5793,7 +7239,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Tomb of the Spider Queen banned",
@@ -5805,7 +7254,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Towers of Doom picked",
@@ -5817,7 +7269,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Towers of Doom banned",
@@ -5829,7 +7284,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Volskaya Foundry picked",
@@ -5841,7 +7299,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Volskaya Foundry banned",
@@ -5853,7 +7314,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Baha plugs a sponsor",
@@ -5865,7 +7329,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Grubby plugs a sponsor",
@@ -5877,7 +7344,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Justing plugs a sponsor",
@@ -5889,7 +7359,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "!prizepool",
@@ -5901,7 +7374,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Reverse sweep 3-2",
@@ -5913,7 +7389,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "A team wins 3-0",
@@ -5925,7 +7404,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "A team wins 3-1",
@@ -5937,7 +7419,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "A team wins 3-2",
@@ -5949,7 +7434,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "One team wipes",
@@ -5961,7 +7449,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "6+ Heroes dead at one time",
@@ -5973,7 +7464,10 @@
     "IsSingleplayer": "Yes",
     "IsMultiplayer": "Yes",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Baha wears a Wildheart shirt",
@@ -5985,7 +7479,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "“No'Gall”",
@@ -5997,7 +7494,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "Yes",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "A 10 game day",
@@ -6009,7 +7509,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "30K wins",
@@ -6021,7 +7524,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Chilly Mountain wins",
@@ -6033,7 +7539,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Diamond Hands wins",
@@ -6045,7 +7554,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Granit Gaming wins",
@@ -6057,7 +7569,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Oxygen Esports wins",
@@ -6069,7 +7584,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Simplicity wins",
@@ -6081,7 +7599,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Storm Esports wins",
@@ -6093,7 +7614,10 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
   },
   {
     "Nickname": "Wildheart Esports wins",
@@ -6105,6 +7629,69 @@
     "IsSingleplayer": "No",
     "IsMultiplayer": "No",
     "IsCustom": "No",
-    "IsCCL": "Yes"
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
+  },
+  {
+    "Nickname": "Baha wears a 30K shirt",
+    "Challenge": "",
+    "Category": "CCL viewer",
+    "Difficulty": null,
+    "Universe": "",
+    "Player count": "",
+    "IsSingleplayer": "No",
+    "IsMultiplayer": "No",
+    "IsCustom": "No",
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
+  },
+  {
+    "Nickname": "Baha wears a CC shirt",
+    "Challenge": "Crowd Control",
+    "Category": "CCL viewer",
+    "Difficulty": null,
+    "Universe": "",
+    "Player count": "",
+    "IsSingleplayer": "No",
+    "IsMultiplayer": "No",
+    "IsCustom": "No",
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
+  },
+  {
+    "Nickname": "Baha wears a CCL shirt",
+    "Challenge": "",
+    "Category": "CCL viewer",
+    "Difficulty": null,
+    "Universe": "",
+    "Player count": "",
+    "IsSingleplayer": "No",
+    "IsMultiplayer": "No",
+    "IsCustom": "No",
+    "IsCCL": "Yes",
+    "IsAramMaps": "No",
+    "IsQuickMaps": "No",
+    "IsRankedMaps": "No"
+  },
+  {
+    "Nickname": "“Winions!”",
+    "Challenge": "Minions win while the teams are elsewhere",
+    "Category": "CCL viewer",
+    "Difficulty": null,
+    "Universe": "",
+    "Player count": "",
+    "IsSingleplayer": "Yes",
+    "IsMultiplayer": "Yes",
+    "IsCustom": "Yes",
+    "IsCCL": "Yes",
+    "IsAramMaps": "Yes",
+    "IsQuickMaps": "Yes",
+    "IsRankedMaps": "Yes"
   }
 ]
