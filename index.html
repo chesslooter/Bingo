@@ -6,12 +6,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="stylesheet" href="main.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
-    <title>Barebones Heroes Bingo!</title>
+    <title>Heroes Bingo!</title>
 </head>
 <body style="background-color: #2c2f33">
     <div class="container">
@@ -20,58 +20,70 @@
                 <h2 style="color: #fff">Welcome to gillyShark Heroes Bingo! Please select your bingo board options below!</h2>
             </div>
         </div>
-        <div class="row" style="padding-top: 10px">
-            <div class="col">
-            	<div class="col">
-                	<h3 style="color: #fff">Player count</h2>
+        <div id="selectorAccordion">
+            <div class="row" style="padding-top: 10px">
+                <div class="col" id="playerHeading" style="padding-bottom: 10px" >
+                    <button class="btn btn-secondary" onclick="toggleThings('numberOfPlayers')" data-bs-toggle="collapse" data-bs-target="#numberOfPlayers" data-bs-parent="#selectorAccordion">
+                        Number of Players
+                    </button>
+
+                    <button class="btn btn-secondary" onclick="toggleThings('gameMode')" data-bs-toggle="collapse" data-bs-target="#gameMode" data-bs-parent="#selectorAccordion">
+                        Game Mode
+                    </button>
+
+                    <button class="btn btn-secondary" onclick="toggleThings('cclMode')" data-bs-toggle="collapse" data-bs-target="#cclMode" data-bs-parent="#selectorAccordion">
+                        CCL Mode
+                    </button>
                 </div>
-                <div class="form-check form-check-inline" style="padding-left: 0px;">
-                    <input class="btn-check" type="checkbox" value="" id="btnSingleplayer">
-                    <label class="btn btn-outline-light" for="btnSingleplayer">
-                        Singleplayer: 1-4 players in your party
-                    </label>
+
+                <div class="collapse" id="numberOfPlayers">
+                    <div class="form-check form-check-inline" style="padding-left: 0px;">
+                        <input class="btn-check" type="checkbox" value="" id="btnSingleplayer">
+                        <label class="btn btn-outline-light" for="btnSingleplayer">
+                            Singleplayer: 1-4 players in your party
+                        </label>
+                    </div>
+
+                    <div class="form-check form-check-inline" style="padding-left: 0px;">
+                        <input class="btn-check" type="checkbox" value="" id="btnMultiplayer">
+                        <label class="btn btn-outline-light" for="btnMultiplayer">
+                            Multiplayer: 5 players in your party
+                        </label>
+                    </div>
                 </div>
-                <div class="form-check form-check-inline">
-                    <input class="btn-check" type="checkbox" value="" id="btnMultiplayer">
-                    <label class="btn btn-outline-light" for="btnMultiplayer">
-                        Multiplayer: 5 players in your party
-                    </label>
+                <div class="collapse" id="gameMode">
+                    <div class="form-check form-check-inline" style="padding-left: 0px;">
+                        <input class="btn-check" type="checkbox" value="" id="btnAramSpecific">
+                        <label class="btn btn-outline-light" for="btnAramSpecific">
+                            ARAM-Specific
+                        </label>
+                    </div>
+                    <div class="form-check form-check-inline" style="padding-left: 0px;">
+                        <input class="btn-check" type="checkbox" value="" id="btnQuickMatchSpecific">
+                        <label class="btn btn-outline-light" for="btnQuickMatchSpecific">
+                            Quick Match-Specific
+                        </label>
+                    </div>
+                    <div class="form-check form-check-inline" style="padding-left: 0px;">
+                        <input class="btn-check" type="checkbox" value="" id="btnRankedMapsSpecific">
+                        <label class="btn btn-outline-light" for="btnRankedMapsSpecific">
+                            Storm League-Specific
+                        </label>
+                    </div>
+                    <div class="form-check form-check-inline" style="padding-left: 0px;">
+                        <input class="btn-check" type="checkbox" value="" id="btnCustom">
+                        <label class="btn btn-outline-light" for="btnCustom">
+                            Custom Lobbies
+                        </label>
+                    </div>
                 </div>
-            	<div class="col">
-                	<h3 style="color: #fff">Game mode</h2>
-                </div>
-                <div class="form-check form-check-inline">
-                    <input class="btn-check" type="checkbox" value="" id="btnAramSpecific">
-                    <label class="btn btn-outline-light" for="btnAramSpecific">
-                        ARAM-Specific
-                    </label>
-                </div>
-                <div class="form-check form-check-inline">
-                    <input class="btn-check" type="checkbox" value="" id="btnQuickMatchSpecific">
-                    <label class="btn btn-outline-light" for="btnQuickMatchSpecific">
-                        Quick Match-Specific
-                    </label>
-                </div>
-                <div class="form-check form-check-inline">
-                    <input class="btn-check" type="checkbox" value="" id="btnRankedMapsSpecific">
-                    <label class="btn btn-outline-light" for="btnRankedMapsSpecific">
-                        Storm League-Specific
-                    </label>
-                </div>
-                <div class="form-check form-check-inline">
-                    <input class="btn-check" type="checkbox" value="" id="btnCustom">
-                    <label class="btn btn-outline-light" for="btnCustom">
-                        Custom Lobbies
-                    </label>
-                </div>            
-            	<div class="col">
-                	<h3 style="color: #fff">CCL Mode</h2>
-                </div>
-                <div class="form-check form-check-inline">
-                    <input class="btn-check" type="checkbox" value="" id="btnCCL" onclick="toggleCCLOptions()">
-                    <label class="btn btn-outline-danger" for="btnCCL" onclick="toggleCCLOptions()">
-                        CCL Viewer
-                    </label>
+                <div class="collapse" id="cclMode" style="padding-left: 0px;">
+                    <div class="form-check form-check-inline" style="padding-left: 0px;">
+                        <input class="btn-check" type="checkbox" value="" id="btnCCL" onclick="toggleCCLOptions()">
+                        <label class="btn btn-outline-danger" for="btnCCL" onclick="toggleCCLOptions()">
+                            CCL Viewer
+                        </label>
+                    </div>
                 </div>
             </div>
         </div>
@@ -84,8 +96,7 @@
 
         </div>
     </div>
-    </div>
-    
+
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 </body>
@@ -100,6 +111,16 @@
         //prepareData();
     }
 
+    function toggleThings(element) {
+        $(".collapse").each(function () {
+            if ($(this).hasClass("show")) {
+                if (!$(this).is(element)) {
+                    $(this).removeClass("show");
+                }
+            }
+        });
+    }
+    
     function toggleCCLOptions() {
         if (document.getElementById("btnCCL").checked) {
             document.getElementById("btnSingleplayer").checked = false;
