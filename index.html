@@ -23,15 +23,15 @@
         <div id="selectorAccordion">
             <div class="row" style="padding-top: 10px">
                 <div class="col" id="playerHeading" style="padding-bottom: 10px" >
-                    <button class="btn btn-secondary" onclick="toggleThings('numberOfPlayers')" data-bs-toggle="collapse" data-bs-target="#numberOfPlayers" data-bs-parent="#selectorAccordion">
+                    <button class="btn btn-secondary" onclick="toggleSelectionMode('numberOfPlayers')" data-bs-toggle="collapse" data-bs-target="#numberOfPlayers" data-bs-parent="#selectorAccordion">
                         Number of Players
                     </button>
 
-                    <button class="btn btn-secondary" onclick="toggleThings('gameMode')" data-bs-toggle="collapse" data-bs-target="#gameMode" data-bs-parent="#selectorAccordion">
+                    <button class="btn btn-secondary" onclick="toggleSelectionMode('gameMode')" data-bs-toggle="collapse" data-bs-target="#gameMode" data-bs-parent="#selectorAccordion">
                         Game Mode
                     </button>
 
-                    <button class="btn btn-secondary" onclick="toggleThings('cclMode')" data-bs-toggle="collapse" data-bs-target="#cclMode" data-bs-parent="#selectorAccordion">
+                    <button class="btn btn-secondary" onclick="toggleSelectionMode('cclMode')" data-bs-toggle="collapse" data-bs-target="#cclMode" data-bs-parent="#selectorAccordion">
                         CCL Mode
                     </button>
                 </div>
@@ -92,8 +92,21 @@
                 <div class="form-check form-check-inline" style="padding-left: 0px;">
                     <button id="heroesBingoBtn" class="btn btn-success" onclick="heroesBingoEntry()">Generate New Bingo Board</button>
                 </div>
+                <div class="form-check form-check-inline" style="padding-left: 0px;">
+                    <button id="heroesBingoBtn" class="btn btn-danger" onclick="saveCurrentBoard()">Create Bingo Board Code (Save)</button>
+                </div>
+                <div class="form-check form-check-inline" style="padding-left: 0px;">
+                    <button id="heroesBingoBtn" class="btn btn-light" onclick="toggleLoadBingoBoardOption()">Enter Bingo Board Code (Load)</button>
+                </div>
+                <div id="loadBingoBoardOption" style="padding-top:10px;" hidden>
+                    <div class="form-check form-check-inline" style="padding-left: 0px;">
+                        <input class="form-control" type="text" value="" placeholder="Enter your code here" id="bingoBoardCodeField">
+                    </div>
+                    <div class="form-check form-check-inline" style="padding-left: 0px;">
+                        <button id="heroesBingoBtn" class="btn btn-success" onclick="loadBingoBoard()">Enter Bingo Board Code (Load)</button>
+                    </div>
+                </div>
             </div>
-
         </div>
     </div>
 
@@ -107,11 +120,13 @@
     var bingoCardsJson;
     var buttonSelection = "";
     var selectedOptions = new Array();
+    var bingoBoardOptions;
+    var loadedBingoBoard = false;
     window.onload = function () {
         //prepareData();
     }
 
-    function toggleThings(element) {
+    function toggleSelectionMode(element) {
         $(".collapse").each(function () {
             if ($(this).hasClass("show")) {
                 if (!$(this).is(element)) {
@@ -120,7 +135,7 @@
             }
         });
     }
-    
+
     function toggleCCLOptions() {
         if (document.getElementById("btnCCL").checked) {
             document.getElementById("btnSingleplayer").checked = false;
@@ -154,6 +169,7 @@
     function heroesBingoEntry() {
         cleanBoard();
         buttonSelection = "heroesBingo";
+        loadedBingoBoard = false;
         addSelections();
         prepareData();
     }
@@ -200,15 +216,29 @@
                     $(this).css("background-image", 'url("new_gillyShark_112.png")');
                     $(this).css("background-repeat", 'no-repeat');
                     $(this).css("background-position", "center");
+                    //Sets the 0 "unchecked" in the code to 1 "checked"
+                    var selectedSquare = $(this);
+                    bingoBoardOptions.forEach(function (element, index, array) {
+                        if (element.Nickname == selectedSquare[0].firstChild.nodeValue) {
+                            element.checkedIndicator = true;
+                        }
+                    });
                 }
                 else {
                     $(this).css("background-color", "rgb(33, 37, 41)");
                     $(this).css("background-image", '');
+                    //Sets the 1 "checked" in the code to 0 "unchecked"
+                    var selectedSquare = $(this);
+                    bingoBoardOptions.forEach(function (element, index, array) {
+                        if (element.Nickname == selectedSquare[0].firstChild.nodeValue) {
+                            element.checkedIndicator = false;
+                        }
+                    });
                 }
             });
             isFirstBoard = false;
         }
-        
+
         //Do any extra setup stuff.
     }
 
@@ -229,20 +259,22 @@
     }
 
     async function retrieveJSON() {
-        var fetchFile = "";
-        switch (buttonSelection) {
-            case "":
-                fetchFile = "HeroesBingoData.json";
-                break;
-            case "heroesBingo":
-                fetchFile = "HeroesBingoData.json";
-                break;
+        if (bingoCardsJson == "") {
+            var fetchFile = "";
+            switch (buttonSelection) {
+                case "":
+                    fetchFile = "HeroesBingoData.json";
+                    break;
+                case "heroesBingo":
+                    fetchFile = "HeroesBingoData.json";
+                    break;
 
+            }
+            bingoCardsJson = await fetch(fetchFile)
+                .then(response => {
+                    return response.json();
+                });
         }
-        bingoCardsJson = await fetch(fetchFile)
-            .then(response => {
-                return response.json();
-            });
 
         printTable();
     }
@@ -296,29 +328,12 @@
             row = document.createElement("tr");
             for (var j = 0; j < 5; j++) {
 
-                //Pull until we get a bingo card we haven't used yet. Make this its own separate function if it gets any more complex.
                 var bingoElement;
-                var pullAgain = true;
-                while (pullAgain) {
-                    pullAgain = false;
-                    var validOption = false;
-                    bingoElement = bingoCardsJson[getRandomInt(bingoCardsJson.length)];
-                    selectedOptions.forEach(function (element, index, array) {
-                        if (bingoElement[element] == "Yes") {
-                            validOption = true;
-                        } else {
-                            pullAgain = true;
-                        }
-                    });
-                    if (validOption) {
-                        usedBingoOptions.forEach(function (element, index, array) {
-                            if (bingoElement.Nickname == element.Nickname) {
-                                pullAgain = true;
-                            }
-                        });
-                    }
+                if (!loadedBingoBoard) {
+                    bingoElement = pullNewBingoSquare(usedBingoOptions);
+                } else if (loadedBingoBoard) {
+                    bingoElement = pullBingoSquareFromLoad(usedBingoOptions);
                 }
-                usedBingoOptions.push(bingoElement);
 
                 //Create the cell
                 cellText = document.createTextNode(bingoElement.Nickname);
@@ -329,10 +344,16 @@
                 cell.setAttribute('id', 'bingoBoardTD');
                 cell.setAttribute('height', '135px');
                 cell.setAttribute('width', '150px');
+                if (bingoElement.checkedIndicator) {
+                    cell.setAttribute('style', 'background-color: red; background-image: url("new_gillyShark_112.png"); background-repeat: no-repeat; background-position: center');
+                }
                 row.appendChild(cell);
             }
             tblBody.appendChild(row);
         }
+
+        bingoBoardOptions = usedBingoOptions;
+
         // append the <tbody> inside the <table>
         tbl.appendChild(tblBody);
         // put <table> in the <body>
@@ -357,8 +378,104 @@
         body.appendChild(containerDiv);
     }
 
+    function pullNewBingoSquare(usedBingoOptions) {
+        //Pull until we get a bingo card we haven't used yet. Make this its own separate function if it gets any more complex.
+        var bingoElement;
+        var pullAgain = true;
+        var masterIndex = 0;
+        while (pullAgain) {
+            pullAgain = false;
+            var validOption = false;
+            masterIndex = getRandomInt(bingoCardsJson.length);
+            bingoElement = bingoCardsJson[masterIndex];
+            selectedOptions.forEach(function (element, index, array) {
+                if (bingoElement[element] == "Yes") {
+                    validOption = true;
+                } else {
+                    pullAgain = true;
+                }
+            });
+            if (validOption) {
+                usedBingoOptions.forEach(function (element, index, array) {
+                    if (bingoElement.Nickname == element.Nickname) {
+                        pullAgain = true;
+                    }
+                });
+            }
+        }
+        bingoElement["masterIndex"] = masterIndex;
+        bingoElement["checkedIndicator"] = false;
+        usedBingoOptions.push(bingoElement);
+        return bingoElement;
+    }
+
+    function pullBingoSquareFromLoad(usedBingoOptions) {
+        var bingoReference = bingoBoardOptions[usedBingoOptions.length];
+        var bingoElement = bingoCardsJson[parseInt(bingoReference[0])];
+        bingoElement["masterIndex"] = parseInt(bingoReference[0]);
+        if (bingoReference[1] == "0") {
+            bingoElement["checkedIndicator"] = false;
+        } else if (bingoReference[1] == "1") {
+            bingoElement["checkedIndicator"] = true;
+        }
+        usedBingoOptions.push(bingoElement);
+        return bingoElement;
+    }
+
     function getRandomInt(max) {
         return Math.floor(Math.random() * max);
     }
 
+    function saveCurrentBoard() {
+        bingoString = "";
+        bingoBoardOptions.forEach(function (element, index, array) {
+            //This will break if there are more than 10000 options. I'm not too worried at this current time.
+            if (element.masterIndex < 1000) {
+                bingoString = bingoString.concat("0");
+                if (element.masterIndex < 100) {
+                    bingoString = bingoString.concat("0");
+                    if (element.masterIndex < 10) {
+                        bingoString = bingoString.concat("0");
+                    }
+                }
+            }
+            bingoString = bingoString.concat(element.masterIndex.toString());
+            if (element.checkedIndicator) {
+                bingoString = bingoString.concat("1");
+            } else {
+                bingoString = bingoString.concat("0");
+            }
+        });
+        navigator.clipboard.writeText(bingoString);
+        alert("Bingo Board copied to Clipboard. Paste this into the text box to load your board. " + bingoString);
+    }
+
+    function toggleLoadBingoBoardOption() {
+        var loadOption = document.getElementById("loadBingoBoardOption");
+        if (loadOption.hidden) {
+            loadOption.hidden = false;
+        } else {
+            loadOption.hidden = true;
+        }
+    }
+
+    function loadBingoBoard() {
+        bingoBoardOptions = [];
+        var enteredCode = document.getElementById("bingoBoardCodeField").value;
+        var splitCode = enteredCode.match(new RegExp('.{1,5}', 'g'));
+        if (splitCode.length != 25) {
+            alert("There was an error in the Bingo Board load process. Please try again, and if the problem persists, report it in the #ideas-and-bugs channel.");
+            return;
+        } else {
+            toggleLoadBingoBoardOption();
+            splitCode.forEach(function (element, index, array) {
+                var bingoBoardOption = element.match(new RegExp('.{1,4}', 'g'));
+                bingoBoardOptions.push(bingoBoardOption);
+            });
+        }
+        cleanBoard();
+        buttonSelection = "heroesBingo";
+        loadedBingoBoard = true;
+        prepareData();
+    }
 </script>
