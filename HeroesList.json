@@ -1,0 +1,371 @@
+{
+  "Id": "HeroFilterMode",
+  "Source": [
+    "HeroesBingoData.json"
+  ],
+  "Header": "Select which heroes you wish to include/exclude. All heroes are included by default. Warning: Deselecting too many options may lead to boards loading slowly or not at all.",
+  "OnLoadEvent": "EnableAllOptions",
+  "OnLoadParam": "HeroFilterMode",
+  "Buttons": [
+    {
+      "ButtonName": "Abathur",
+      "ButtonValue": "IsAbathur"
+    },
+    {
+      "ButtonName": "Alarak",
+      "ButtonValue": "IsAlarak"
+    },
+    {
+      "ButtonName": "Alexstrasza",
+      "ButtonValue": "IsAlexstrasza"
+    },
+    {
+      "ButtonName": "Ana",
+      "ButtonValue": "IsAna"
+    },
+    {
+      "ButtonName": "Anduin",
+      "ButtonValue": "IsAnduin"
+    },
+    {
+      "ButtonName": "Anub'arak",
+      "ButtonValue": "IsAnub'arak"
+    },
+    {
+      "ButtonName": "Artanis",
+      "ButtonValue": "IsArtanis"
+    },
+    {
+      "ButtonName": "Arthas",
+      "ButtonValue": "IsArthas"
+    },
+    {
+      "ButtonName": "Auriel",
+      "ButtonValue": "IsAuriel"
+    },
+    {
+      "ButtonName": "Azmodan",
+      "ButtonValue": "IsAzmodan"
+    },
+    {
+      "ButtonName": "Blaze",
+      "ButtonValue": "IsBlaze"
+    },
+    {
+      "ButtonName": "Brightwing",
+      "ButtonValue": "IsBrightwing"
+    },
+    {
+      "ButtonName": "Cassia",
+      "ButtonValue": "IsCassia"
+    },
+    {
+      "ButtonName": "Chen",
+      "ButtonValue": "IsChen"
+    },
+    {
+      "ButtonName": "Cho",
+      "ButtonValue": "IsCho"
+    },
+    {
+      "ButtonName": "Chromie",
+      "ButtonValue": "IsChromie"
+    },
+    {
+      "ButtonName": "D. Va",
+      "ButtonValue": "IsD.Va"
+    },
+    {
+      "ButtonName": "Deathwing",
+      "ButtonValue": "IsDeathwing"
+    },
+    {
+      "ButtonName": "Deckard Cain",
+      "ButtonValue": "IsDeckardCain"
+    },
+    {
+      "ButtonName": "Dehaka",
+      "ButtonValue": "IsDehaka"
+    },
+    {
+      "ButtonName": "Diablo",
+      "ButtonValue": "IsDiablo"
+    },
+    {
+      "ButtonName": "ETC",
+      "ButtonValue": "IsETC"
+    },
+    {
+      "ButtonName": "Falstad",
+      "ButtonValue": "IsFalstad"
+    },
+    {
+      "ButtonName": "Fenix",
+      "ButtonValue": "IsFenix"
+    },
+    {
+      "ButtonName": "Gall",
+      "ButtonValue": "IsGall"
+    },
+    {
+      "ButtonName": "Garrosh",
+      "ButtonValue": "IsGarrosh"
+    },
+    {
+      "ButtonName": "Gazlowe",
+      "ButtonValue": "IsGazlowe"
+    },
+    {
+      "ButtonName": "Genji",
+      "ButtonValue": "IsGenji"
+    },
+    {
+      "ButtonName": "Greymane",
+      "ButtonValue": "IsGreymane"
+    },
+    {
+      "ButtonName": "Gul'dan",
+      "ButtonValue": "IsGul'dan"
+    },
+    {
+      "ButtonName": "Hanzo",
+      "ButtonValue": "IsHanzo"
+    },
+    {
+      "ButtonName": "Hogger",
+      "ButtonValue": "IsHogger"
+    },
+    {
+      "ButtonName": "Illidan",
+      "ButtonValue": "IsIllidan"
+    },
+    {
+      "ButtonName": "Imperius",
+      "ButtonValue": "IsImperius"
+    },
+    {
+      "ButtonName": "Jaina",
+      "ButtonValue": "IsJaina"
+    },
+    {
+      "ButtonName": "Johanna",
+      "ButtonValue": "IsJohanna"
+    },
+    {
+      "ButtonName": "Junkrat",
+      "ButtonValue": "IsJunkrat"
+    },
+    {
+      "ButtonName": "Kael'thas",
+      "ButtonValue": "IsKael'thas"
+    },
+    {
+      "ButtonName": "Kel'Thuzad",
+      "ButtonValue": "IsKel'Thuzad"
+    },
+    {
+      "ButtonName": "Kerrigan",
+      "ButtonValue": "IsKerrigan"
+    },
+    {
+      "ButtonName": "Kharazim",
+      "ButtonValue": "IsKharazim"
+    },
+    {
+      "ButtonName": "Leoric",
+      "ButtonValue": "IsLeoric"
+    },
+    {
+      "ButtonName": "Li Li",
+      "ButtonValue": "IsLiLi"
+    },
+    {
+      "ButtonName": "Li-Ming",
+      "ButtonValue": "IsLi-Ming"
+    },
+    {
+      "ButtonName": "Lt. Morales",
+      "ButtonValue": "IsLt.Morales"
+    },
+    {
+      "ButtonName": "Lucio",
+      "ButtonValue": "IsLucio"
+    },
+    {
+      "ButtonName": "Lunara",
+      "ButtonValue": "IsLunara"
+    },
+    {
+      "ButtonName": "Maiev",
+      "ButtonValue": "IsMaiev"
+    },
+    {
+      "ButtonName": "Mal'Ganis",
+      "ButtonValue": "IsMal'Ganis"
+    },
+    {
+      "ButtonName": "Malfurion",
+      "ButtonValue": "IsMalfurion"
+    },
+    {
+      "ButtonName": "Malthael",
+      "ButtonValue": "IsMalthael"
+    },
+    {
+      "ButtonName": "Medivh",
+      "ButtonValue": "IsMedivh"
+    },
+    {
+      "ButtonName": "Mei",
+      "ButtonValue": "IsMei"
+    },
+    {
+      "ButtonName": "Mephisto",
+      "ButtonValue": "IsMephisto"
+    },
+    {
+      "ButtonName": "Muradin",
+      "ButtonValue": "IsMuradin"
+    },
+    {
+      "ButtonName": "Murky",
+      "ButtonValue": "IsMurky"
+    },
+    {
+      "ButtonName": "Nazeebo",
+      "ButtonValue": "IsNazeebo"
+    },
+    {
+      "ButtonName": "Nova",
+      "ButtonValue": "IsNova"
+    },
+    {
+      "ButtonName": "Orphea",
+      "ButtonValue": "IsOrphea"
+    },
+    {
+      "ButtonName": "Probius",
+      "ButtonValue": "IsProbius"
+    },
+    {
+      "ButtonName": "Qhira",
+      "ButtonValue": "IsQhira"
+    },
+    {
+      "ButtonName": "Ragnaros",
+      "ButtonValue": "IsRagnaros"
+    },
+    {
+      "ButtonName": "Raynor",
+      "ButtonValue": "IsRaynor"
+    },
+    {
+      "ButtonName": "Rehgar",
+      "ButtonValue": "IsRehgar"
+    },
+    {
+      "ButtonName": "Rexxar",
+      "ButtonValue": "IsRexxar"
+    },
+    {
+      "ButtonName": "Samuro",
+      "ButtonValue": "IsSamuro"
+    },
+    {
+      "ButtonName": "Sgt. Hammer",
+      "ButtonValue": "IsSgt.Hammer"
+    },
+    {
+      "ButtonName": "Sonya",
+      "ButtonValue": "IsSonya"
+    },
+    {
+      "ButtonName": "Stitches",
+      "ButtonValue": "IsStitches"
+    },
+    {
+      "ButtonName": "Stukov",
+      "ButtonValue": "IsStukov"
+    },
+    {
+      "ButtonName": "Sylvanas",
+      "ButtonValue": "IsSylvanas"
+    },
+    {
+      "ButtonName": "Tassadar",
+      "ButtonValue": "IsTassadar"
+    },
+    {
+      "ButtonName": "The Butcher",
+      "ButtonValue": "IsTheButcher"
+    },
+    {
+      "ButtonName": "The Lost Vikings",
+      "ButtonValue": "IsTheLostVikings"
+    },
+    {
+      "ButtonName": "Thrall",
+      "ButtonValue": "IsThrall"
+    },
+    {
+      "ButtonName": "Tracer",
+      "ButtonValue": "IsTracer"
+    },
+    {
+      "ButtonName": "Tychus",
+      "ButtonValue": "IsTychus"
+    },
+    {
+      "ButtonName": "Tyrael",
+      "ButtonValue": "IsTyrael"
+    },
+    {
+      "ButtonName": "Tyrande",
+      "ButtonValue": "IsTyrande"
+    },
+    {
+      "ButtonName": "Uther",
+      "ButtonValue": "IsUther"
+    },
+    {
+      "ButtonName": "Valeera",
+      "ButtonValue": "IsValeera"
+    },
+    {
+      "ButtonName": "Valla",
+      "ButtonValue": "IsValla"
+    },
+    {
+      "ButtonName": "Varian",
+      "ButtonValue": "IsVarian"
+    },
+    {
+      "ButtonName": "Whitemane",
+      "ButtonValue": "IsWhitemane"
+    },
+    {
+      "ButtonName": "Xul",
+      "ButtonValue": "IsXul"
+    },
+    {
+      "ButtonName": "Yrel",
+      "ButtonValue": "IsYrel"
+    },
+    {
+      "ButtonName": "Zagara",
+      "ButtonValue": "IsZagara"
+    },
+    {
+      "ButtonName": "Zarya",
+      "ButtonValue": "IsZarya"
+    },
+    {
+      "ButtonName": "Zeratul",
+      "ButtonValue": "IsZeratul"
+    },
+    {
+      "ButtonName": "Zul'jin",
+      "ButtonValue": "IsZul'jin"
+    }
+  ]
+}

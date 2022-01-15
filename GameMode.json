@@ -1,0 +1,25 @@
+{
+  "Id": "GameMode",
+  "Source": [
+    "HeroesBingoData.json"
+  ],
+  "Header": "Select which game mode you are playing.",
+  "Buttons": [
+    {
+      "ButtonName": "ARAM",
+      "ButtonValue": "IsAramMaps"
+    },
+    {
+      "ButtonName": "Quick Match",
+      "ButtonValue": "IsQuickMaps"
+    },
+    {
+      "ButtonName": "Storm League",
+      "ButtonValue": "IsRankedMaps"
+    },
+    {
+      "ButtonName": "Custom Lobbies",
+      "ButtonValue": "IsCustom"
+    }
+  ]
+}

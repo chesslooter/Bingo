@@ -1,0 +1,22 @@
+[
+  {
+    "OptionName": "Number Of Players",
+    "OptionValue": "NumberOfPlayers",
+    "OptionFilename": "NumberOfPlayers.json"
+  },
+  {
+    "OptionName": "Game Mode",
+    "OptionValue": "GameMode",
+    "OptionFilename": "GameMode.json"
+  },
+  {
+    "OptionName": "CCL Mode",
+    "OptionValue": "CCLMode",
+    "OptionFilename": "CCLMode.json"
+  },
+  {
+    "OptionName": "Filter Individual Heroes",
+    "OptionValue": "HeroFilterMode",
+    "OptionFilename": "HeroesList.json"
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "Id": "CCLTeams",
+  "Source": [
+    "HeroesBingoData.json"
+  ],
+  "Header": "Select which CCL Teams are playing.",
+  "Buttons": [
+    {
+      "ButtonName": "30K",
+      "ButtonValue": "Is30K"
+    },
+    {
+      "ButtonName": "Chilly Mountain",
+      "ButtonValue": "IsChillyMountain"
+    },
+    {
+      "ButtonName": "Diamond Hands",
+      "ButtonValue": "IsDiamondHands"
+    },
+    {
+      "ButtonName": "Granit Gaming",
+      "ButtonValue": "IsGranitGaming"
+    },
+    {
+      "ButtonName": "Oxygen Esports",
+      "ButtonValue": "IsOxygenEsports"
+    },
+    {
+      "ButtonName": "Simplicity",
+      "ButtonValue": "IsSimplicity"
+    },
+    {
+      "ButtonName": "Storm Esports",
+      "ButtonValue": "IsStormEsports"
+    },
+    {
+      "ButtonName": "Wildheart Esports",
+      "ButtonValue": "IsWildheartEsports"
+    }
+  ]
+}

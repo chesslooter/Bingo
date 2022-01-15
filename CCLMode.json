@@ -1,0 +1,17 @@
+{
+  "Id": "CCLMode",
+  "Source": [
+    "HeroesBingoData.json",
+    "HeroesSpecificBingoData.json"
+  ],
+  "Header": "This mode is exclusively for the Heroes CCL, presented by Wisdom.",
+  "Buttons": [
+    {
+      "ButtonName": "CCL Viewer",
+      "ButtonValue": "IsCCL",
+      "OnClickEvent": "toggleCCLOptions()",
+      "OptionValue": "CCLTeams",
+      "OptionFilename": "CCLTeams.json"
+    }
+  ]
+}
