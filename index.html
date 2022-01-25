@@ -13,11 +13,12 @@
 
     <title>Heroes Bingo!</title>
 </head>
-<body style="background-color: #2c2f33">
+<body class="schemeOne">
     <div class="container">
         <div class="row" style="padding-top: 10px">
-            <div class="col">
-                <h2 style="color: #fff">Welcome to gillyShark Heroes Bingo! Please select your bingo board options below!</h2>
+            <div class="col bingoHeader">
+                <img src="new_gillyShark_112_opaque.png" alt="" />
+                <h2 style="color: #fff">BINGO</h2>
             </div>
         </div>
         <!--Options Modal Section starts here-->
@@ -40,26 +41,26 @@
             </div>
         </div>
         <!--Options Modal Section ends here-->
-        <div class="row" style="padding-top: 10px; padding-left: 0px">
+        <div class="row buttonRow">
             <div class="col">
                 <div class="form-check form-check-inline" style="padding-left: 0px;">
-                    <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#optionModal">Bingo Board Options</button>
+                    <button type="button" class="btn btnSettings" data-bs-toggle="modal" data-bs-target="#optionModal">Settings</button>
                 </div>
                 <div class="form-check form-check-inline" style="padding-left: 0px;">
-                    <button id="heroesBingoBtn" class="btn btn-success" onclick="heroesBingoEntry()">Generate New Bingo Board</button>
+                    <button id="heroesBingoBtn" class="btn btnNew" onclick="heroesBingoEntry()">New Board</button>
                 </div>
                 <div class="form-check form-check-inline" style="padding-left: 0px;">
-                    <button id="heroesBingoBtn" class="btn btn-primary" onclick="saveCurrentBoard()">Create Bingo Board Code (Save)</button>
+                    <button id="heroesBingoBtn" class="btn btnSave" onclick="saveCurrentBoard()">Save Board</button>
                 </div>
                 <div class="form-check form-check-inline" style="padding-left: 0px;">
-                    <button id="heroesBingoBtn" class="btn btn-warning" onclick="toggleLoadBingoBoardOption()">Enter Bingo Board Code (Load)</button>
+                    <button id="heroesBingoBtn" class="btn btnLoad" onclick="toggleLoadBingoBoardOption()">Load Board</button>
                 </div>
-                <div id="loadBingoBoardOption" style="padding-top:10px;" hidden>
+                <div id="loadBingoBoardOption" class="loadBingoBoardOption" hidden>
                     <div class="form-check form-check-inline" style="padding-left: 0px;">
-                        <input class="form-control" type="text" value="" placeholder="Enter your code here" id="bingoBoardCodeField">
+                        <input class="form-control codeInput" type="text" value="" placeholder="Enter your code here" id="bingoBoardCodeField">
                     </div>
                     <div class="form-check form-check-inline" style="padding-left: 0px;">
-                        <button id="heroesBingoBtn" class="btn btn-success" onclick="loadBingoBoard()">Enter Bingo Board Code (Load)</button>
+                        <button id="heroesBingoBtn" class="btn btnConfirmLoad" onclick="loadBingoBoard()">Load Board</button>
                     </div>
                 </div>
             </div>
@@ -350,11 +351,11 @@
         if (isFirstBoard) {
             $(document).on('click', '#bingoBoardTD', function () {
                 var color = $(this).css('background-color');
-                if (color == "rgb(33, 37, 41)") {
-                    $(this).css("background-color", "red");
-                    $(this).css("background-image", 'url("new_gillyShark_112.png")');
-                    $(this).css("background-repeat", 'no-repeat');
-                    $(this).css("background-position", "center");
+                if (!$(this).hasClass('marked')) {
+                    $(this).addClass('marked');
+                    // $(this).css("background-image", 'url("new_gillyShark_112.png")');
+                    // $(this).css("background-repeat", 'no-repeat');
+                    // $(this).css("background-position", "center");
                     //Sets the 0 "unchecked" in the code to 1 "checked"
                     var selectedSquare = $(this);
                     bingoBoardOptions.forEach(function (element, index, array) {
@@ -364,8 +365,7 @@
                     });
                 }
                 else {
-                    $(this).css("background-color", "rgb(33, 37, 41)");
-                    $(this).css("background-image", '');
+                    $(this).removeClass('marked');
                     //Sets the 1 "checked" in the code to 0 "unchecked"
                     var selectedSquare = $(this);
                     bingoBoardOptions.forEach(function (element, index, array) {
@@ -416,8 +416,8 @@
         instructDivRow.setAttribute('id', 'heroesBingoMessage');
         instructDivRow.setAttribute('class', 'row justify-content-center');
         instructDivCol.setAttribute('class', 'col align-self-center');
-        instructMsg.setAttribute('style', "color: #fff");
-        instructMsg.innerHTML = "Mouse over each challenge for more information.";
+        instructMsg.setAttribute('class', 'heroesBingoMessage');
+        instructMsg.innerHTML = "<div class='headerWrapper'><span>&#9432;</span> Mouse over each challenge for more information</div>";
         instructDivCol.appendChild(instructMsg);
         instructDivRow.appendChild(instructDivCol);
         containerDiv.appendChild(instructDivRow);
@@ -429,7 +429,7 @@
         tblDivRow.setAttribute('id', 'tblDivRow');
         tblDivCol.setAttribute('class', 'col align-self-center');
         var tbl = document.createElement("table");
-        tbl.setAttribute('class', 'table table-dark table-bordered mx-auto');
+        tbl.setAttribute('class', 'bingoTable');
         tbl.setAttribute('id', 'bingoBoard');
         var tblBody = document.createElement("tbody");
 
@@ -457,7 +457,7 @@
                 cell.setAttribute('height', '135px');
                 cell.setAttribute('width', '150px');
                 if (bingoElement.checkedIndicator) {
-                    cell.setAttribute('style', 'background-color: red; background-image: url("new_gillyShark_112.png"); background-repeat: no-repeat; background-position: center');
+                    cell.setAttribute('class', 'td marked');
                 }
                 row.appendChild(cell);
             }
