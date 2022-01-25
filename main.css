@@ -3,10 +3,14 @@
     --darkBlue: #072448;
     --lightBlue: #54d2d2;
     --lighterBlue: #8bd1d1;
+    --darkBlue: #348181;
     --green: #5be9ae;
     --yellow: #ffcb00;
+    --darkYellow: #a38405;
     --orange: #f8aa4b;
+    --darkOrange: #b17833;
     --red: #ff6150;
+    --darkRed: #c94d3f;
 }
 
 .schemeOne {
@@ -50,18 +54,22 @@ body {
 
 .btnSettings {
     background-color: var(--red);
+    text-shadow: 0px 0px 3px var(--darkRed);
 }
 
 .btnNew {
     background-color: var(--lightBlue);
+    text-shadow: 0px 0px 3px var(--darkBlue);
 }
 
 .btnSave {
     background-color: var(--yellow);
+    text-shadow: 0px 0px 3px var(--darkYellow);
 }
 
 .btnLoad {
     background-color: var(--orange);
+    text-shadow: 0px 0px 3px var(--darkOrange);
 }
 
 .heroesBingoMessage {
@@ -80,6 +88,7 @@ body {
     border-radius: 4px;
     padding: 5px 10px 5px 7px;
     align-items: center;
+    text-shadow: 0px 0px 3px var(--darkOrange);
 }
 
 .heroesBingoMessage span {
@@ -115,6 +124,7 @@ body {
     background-color: var(--red);
     border: 2px solid var(--red);
     color: #fff;
+    text-shadow: 0px 0px 3px var(--darkRed);
 }
 
 .justify-content-center {
