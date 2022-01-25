@@ -17,7 +17,9 @@
     <div class="container">
         <div class="row" style="padding-top: 10px">
             <div class="col bingoHeader">
-                <img src="new_gillyShark_112_opaque.png" alt="" />
+                <div class="imgWrapper">
+                    <img src="new_gillyShark_112_opaque.png" alt="" />
+                </div>
                 <h2 style="color: #fff">BINGO</h2>
             </div>
         </div>
@@ -599,8 +601,9 @@
                     e.setAttribute('class', 'marked finishedBingo');
                 });
             });
+
+            document.querySelector('body').setAttribute('class', 'bingoDing');
         }
-        console.log(bingo)
     }
 
     function identifyBingo() {
@@ -640,6 +643,7 @@
         document.querySelectorAll('tbody td.marked.finishedBingo').forEach(function(e) {
             e.setAttribute('class', 'marked');
         });
+        document.querySelector('body').setAttribute('class', '');
 
         const eligibleBingo = [
             // rows

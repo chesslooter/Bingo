@@ -11,9 +11,6 @@
     --darkOrange: #b17833;
     --red: #ff6150;
     --darkRed: #c94d3f;
-}
-
-.schemeOne {
     --bingoCard: var(--lighterBlue);
     --bingoCardHover: var(--lightBlue);
 }
@@ -27,10 +24,15 @@ body {
     align-items: center;
     justify-content: center;
     padding: 20px;
+    height: 155px;
 }
 
-.bingoHeader > img {
+.bingoHeader .imgWrapper {
     margin-right: 20px;
+    width: 135px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .buttonRow {
@@ -160,4 +162,38 @@ body {
 
 .justify-content-center {
     text-align: -webkit-center;
+}
+
+.bingoDing .bingoHeader img {
+    animation-name: logoSpin;
+    animation-duration: .5s;
+    animation-iteration-count: 7;
+    animation-timing-function: linear;
+}
+
+@keyframes logoSpin {
+    0% {
+        transform: rotateZ(0deg);
+        width: 135px;
+    }
+
+    25% {
+        transform: rotateZ(-180deg);
+        width: 95px;
+    }
+
+    50% {
+        transform: rotateZ(-360deg);
+        width: 50px;
+    }
+
+    75% {
+        transform: rotateZ(-540deg);
+        width: 95px;
+    }
+
+    100% {
+        transform: rotateZ(-720deg);
+        width: 135px;
+    }
 }
