@@ -102,7 +102,7 @@ body {
 .heroesBingoMessage {
     font-size: 15px;
     color: #fff;
-    width: 900px;
+    width: 800px;
     text-align: left;
     font-weight: bold;
     padding-left: 10px;
@@ -126,15 +126,15 @@ body {
 .bingoTable {
     border-collapse: separate;
     border-spacing: 10px;
-    height: 900px;
+    height: 800px;
     text-align: center;
-    width: 900px;
+    width: 800px;
 }
 
 .bingoTable td {
     background-color: var(--bingoCard);
     border-radius: 5px;
-    border: 2px solid var(--bingoCard);
+    border: 5px solid var(--bingoCard);
     font-weight: bold;
     font-size: 16px;
     color: var(--darkGrey);
@@ -149,9 +149,13 @@ body {
 
 .bingoTable td.marked {
     background-color: var(--red);
-    border: 2px solid var(--red);
+    border: 5px solid var(--red);
     color: #fff;
     text-shadow: 0px 0px 3px var(--darkRed);
+}
+
+.bingoTable td.marked.finishedBingo {
+    border: 5px solid var(--yellow);
 }
 
 .justify-content-center {

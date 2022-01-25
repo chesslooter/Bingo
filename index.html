@@ -353,9 +353,6 @@
                 var color = $(this).css('background-color');
                 if (!$(this).hasClass('marked')) {
                     $(this).addClass('marked');
-                    // $(this).css("background-image", 'url("new_gillyShark_112.png")');
-                    // $(this).css("background-repeat", 'no-repeat');
-                    // $(this).css("background-position", "center");
                     //Sets the 0 "unchecked" in the code to 1 "checked"
                     var selectedSquare = $(this);
                     bingoBoardOptions.forEach(function (element, index, array) {
@@ -374,6 +371,8 @@
                         }
                     });
                 }
+                
+                checkBingoResults();
             });
             isFirstBoard = false;
         }
@@ -590,5 +589,82 @@
         buttonSelection = "heroesBingo";
         loadedBingoBoard = true;
         prepareData();
+    }
+
+    function checkBingoResults() {
+        const bingo = identifyBingo();
+        if (bingo.bingo) {
+            bingo.bingoRows.forEach(function(row) {
+                row.forEach(function(e) {
+                    e.setAttribute('class', 'marked finishedBingo');
+                });
+            });
+        }
+        console.log(bingo)
+    }
+
+    function identifyBingo() {
+
+        let results = {
+            bingo: false,
+            bingoRows: [],
+        };
+        // Looks for set known combinations of elements with .marked class that would equal bingo.
+        // returns true/false and the matching elements if true
+
+        function findDiagonalOne() {
+            return [
+                document.querySelector('tbody tr:nth-child(1) td.marked:nth-child(1)'),
+                document.querySelector('tbody tr:nth-child(2) td.marked:nth-child(2)'),
+                document.querySelector('tbody tr:nth-child(3) td.marked:nth-child(3)'),
+                document.querySelector('tbody tr:nth-child(4) td.marked:nth-child(4)'),
+                document.querySelector('tbody tr:nth-child(5) td.marked:nth-child(5)'),
+            ].filter(function(i) {
+                return i ? true : false;
+            });
+        }
+
+        function findDiagonalTwo() {
+            return [
+                document.querySelector('tbody tr:nth-child(1) td.marked:nth-child(5)'),
+                document.querySelector('tbody tr:nth-child(2) td.marked:nth-child(4)'),
+                document.querySelector('tbody tr:nth-child(3) td.marked:nth-child(3)'),
+                document.querySelector('tbody tr:nth-child(4) td.marked:nth-child(2)'),
+                document.querySelector('tbody tr:nth-child(5) td.marked:nth-child(1)'),
+            ].filter(function(i) {
+                return i ? true : false;
+            });
+        }
+
+        // invalidate old results
+        document.querySelectorAll('tbody td.marked.finishedBingo').forEach(function(e) {
+            e.setAttribute('class', 'marked');
+        });
+
+        const eligibleBingo = [
+            // rows
+            document.querySelectorAll('tbody tr:nth-child(1) td.marked'),
+            document.querySelectorAll('tbody tr:nth-child(2) td.marked'),
+            document.querySelectorAll('tbody tr:nth-child(3) td.marked'),
+            document.querySelectorAll('tbody tr:nth-child(4) td.marked'),
+            document.querySelectorAll('tbody tr:nth-child(5) td.marked'),
+            // columns
+            document.querySelectorAll('tbody tr td.marked:nth-child(1)'),
+            document.querySelectorAll('tbody tr td.marked:nth-child(2)'),
+            document.querySelectorAll('tbody tr td.marked:nth-child(3)'),
+            document.querySelectorAll('tbody tr td.marked:nth-child(4)'),
+            document.querySelectorAll('tbody tr td.marked:nth-child(5)'),
+            // diagonals
+            findDiagonalOne(),
+            findDiagonalTwo(),
+        ];
+
+        eligibleBingo.forEach(function(row) {
+            if (row.length === 5) {
+                results.bingo = true;
+                results.bingoRows.push(row);
+            }
+        });
+        return results;
     }
 </script>
