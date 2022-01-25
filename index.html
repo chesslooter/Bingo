@@ -55,12 +55,12 @@
                 <div class="form-check form-check-inline" style="padding-left: 0px;">
                     <button id="heroesBingoBtn" class="btn btnLoad" onclick="toggleLoadBingoBoardOption()">Load Board</button>
                 </div>
-                <div id="loadBingoBoardOption" style="padding-top:10px;" hidden>
+                <div id="loadBingoBoardOption" class="loadBingoBoardOption" hidden>
                     <div class="form-check form-check-inline" style="padding-left: 0px;">
-                        <input class="form-control" type="text" value="" placeholder="Enter your code here" id="bingoBoardCodeField">
+                        <input class="form-control codeInput" type="text" value="" placeholder="Enter your code here" id="bingoBoardCodeField">
                     </div>
                     <div class="form-check form-check-inline" style="padding-left: 0px;">
-                        <button id="heroesBingoBtn" class="btn" onclick="loadBingoBoard()">Load Board</button>
+                        <button id="heroesBingoBtn" class="btn btnConfirmLoad" onclick="loadBingoBoard()">Load Board</button>
                     </div>
                 </div>
             </div>

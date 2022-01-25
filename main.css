@@ -46,10 +46,20 @@ body {
     transition: margin-top 125ms linear, box-shadow 100ms ease-in-out;
 }
 
+.buttonRow .btn.btnConfirmLoad {
+    transition: none;
+    margin-top: 0;
+}
+
 .buttonRow .btn:hover {
     color: #fff;
     margin-top: 5px;
     box-shadow: 5px 5px 2px rgba(255, 255, 255, .15);
+}
+
+.buttonRow .btn.btnConfirmLoad:hover {
+    margin-top: 0;
+    box-shadow: none;
 }
 
 .btnSettings {
@@ -70,6 +80,23 @@ body {
 .btnLoad {
     background-color: var(--orange);
     text-shadow: 0px 0px 3px var(--darkOrange);
+}
+
+.loadBingoBoardOption {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.codeInput {
+    width: 400px;
+}
+
+.btnConfirmLoad {
+    background-color: var(--lightBlue);
+    text-shadow: 0px 0px 3px var(--darkBlue);
+    margin-top: 5px;
 }
 
 .heroesBingoMessage {
