@@ -5201,7 +5201,7 @@
  },
  {
    "Nickname": "''Bullet Bill's Revenge''",
-   "Challenge": "Have 3 BFGs in one teamfight (Sgt. Hammer)",
+   "Challenge": "Have 3 BFGs present in one teamfight (Sgt. Hammer)",
    "Source": "HeroesBingoData.json",
    "Category": "Hero specific",
    "Universe": "S",
@@ -5272,7 +5272,7 @@
  },
  {
    "Nickname": "''chesslooter's Victory lap''",
-   "Challenge": "Finish '''Untouchable'' twice in one game (Tracer)",
+   "Challenge": "Finish ''Untouchable'' twice in one game (Tracer)",
    "Source": "HeroesBingoData.json",
    "Category": "Hero specific",
    "Universe": "O",
@@ -5405,7 +5405,7 @@
  },
  {
    "Nickname": "''The Void awaits you''",
-   "Challenge": "Kill a hero while another hero is locked in your Void Prison (Zeratul)",
+   "Challenge": "Kill an enemy hero while another hero is locked in your Void Prison (Zeratul)",
    "Source": "HeroesBingoData.json",
    "Category": "Hero specific",
    "Universe": "S",
@@ -7476,5 +7476,4865 @@
    "Player count": "Singleplayer",
    "Credit": "Stark",
    "IsRaynor": "Yes"
+ },
+ {
+   "Nickname": "''Curious strategy''",
+   "Challenge": "Kill someone with mines (Abathur)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsAbathur": "Yes"
+ },
+ {
+   "Nickname": "''Survival imperative''",
+   "Challenge": "Prevent lethal damage with your shield (Abathur)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsAbathur": "Yes"
+ },
+ {
+   "Nickname": "''Direct combat: Not recommended''",
+   "Challenge": "Hat your Mule (Abathur)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsAbathur": "Yes"
+ },
+ {
+   "Nickname": "''Tactic: Intriguing.''",
+   "Challenge": "Kill a keep before a fort (Abathur)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsAbathur": "Yes"
+ },
+ {
+   "Nickname": "The Mad Hatter",
+   "Challenge": "Never hat the same hero twice in a row (Abathur)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsAbathur": "Yes"
+ },
+ {
+   "Nickname": "''Not evolved for combat''",
+   "Challenge": "Take a camp (Abathur)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsAbathur": "Yes"
+ },
+ {
+   "Nickname": "The Chain of Ascension",
+   "Challenge": "Hit maximum sadism (Alarak)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsAlarak": "Yes"
+ },
+ {
+   "Nickname": "''You address the Highlord?''",
+   "Challenge": "Survive after using Last Laugh aggressively (Alarak)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsAlarak": "Yes"
+ },
+ {
+   "Nickname": "''Pft, a youngling would pose a greater challenge.''",
+   "Challenge": "Move an enemy into allied CC. (Alarak)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsAlarak": "Yes"
+ },
+ {
+   "Nickname": "''Is there no one who can pose a challenge?''",
+   "Challenge": "Hit 3 enemy Heroes with 1 Counterstrike. (Alarak)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsAlarak": "Yes"
+ },
+ {
+   "Nickname": "''Oh, dear. A pitiful display.''",
+   "Challenge": "Get a stack of Show of Force. (Alarak)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsAlarak": "Yes"
+ },
+ {
+   "Nickname": "''Oh? I didn't realise I could grow more powerful.''",
+   "Challenge": "Use both heroics to kill one enemy Hero. (Alarak)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsAlarak": "Yes"
+ },
+ {
+   "Nickname": "''This one time, stand in the fire.''",
+   "Challenge": "Heal 4 heroes at once. (Alexstrasza)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsAlexstrasza": "Yes"
+ },
+ {
+   "Nickname": "''Where I tread, life blooms.''",
+   "Challenge": "Pick up a flower. (Alexstrasza)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsAlexstrasza": "Yes"
+ },
+ {
+   "Nickname": "''It is the fires within that burn the brightest.''",
+   "Challenge": "Have three heroes ignited at once. (Alexstrasza)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsAlexstrasza": "Yes"
+ },
+ {
+   "Nickname": "''Witness the strength of life.''",
+   "Challenge": "Kill someone with Life Unbound. (Alexstrasza)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsAlexstrasza": "Yes"
+ },
+ {
+   "Nickname": "''I bring life and hope!''",
+   "Challenge": "Increase an ally's maximum health. (Alexstrasza)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsAlexstrasza": "Yes"
+ },
+ {
+   "Nickname": "''Perhaps now you respect your queen.''",
+   "Challenge": "Heal yourself with 3 different methods in one fight. (Alexstrasza)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsAlexstrasza": "Yes"
+ },
+ {
+   "Nickname": "''Feeling sleepy?''",
+   "Challenge": "Sleep three enemies at once. (Ana)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsAna": "Yes"
+ },
+ {
+   "Nickname": "''No healing for them today.''",
+   "Challenge": "Prevent over 1000 healing on one enemy. (Ana)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsAna": "Yes"
+ },
+ {
+   "Nickname": "''The ghost watches.''",
+   "Challenge": "Kill an enemy Hero with Eye of Horus. (Ana)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsAna": "Yes"
+ },
+ {
+   "Nickname": "''Just pretend its Air Strike''",
+   "Challenge": "Heal an allied Hero in a different lane to you (Ana)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsAna": "Yes"
+ },
+ {
+   "Nickname": "''The pain is coming.''",
+   "Challenge": "Maintain full dosage on an enemy Hero for 5 seconds (Ana)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsAna": "Yes"
+ },
+ {
+   "Nickname": "''I have you in my sights.''",
+   "Challenge": "Find a hidden enemy Hero with a healing dart (Ana)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsAna": "Yes"
+ },
+ {
+   "Nickname": "''What are you trying to pull?''",
+   "Challenge": "Leap of Faith an ally to engage. (Anduin)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsAnduin": "Yes"
+ },
+ {
+   "Nickname": "''You won't get past me.''",
+   "Challenge": "Root two enemies at once. (Anduin)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsAnduin": "Yes"
+ },
+ {
+   "Nickname": "''This won't go easy for you!''",
+   "Challenge": "Follow-up your Stun with your Stun. (Anduin)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsAnduin": "Yes"
+ },
+ {
+   "Nickname": "''Stand as one! For the Alliance!''",
+   "Challenge": "Fully channel your Holy Word: Salvation in a teamfight. (Anduin)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsAnduin": "Yes"
+ },
+ {
+   "Nickname": "''Light save you!''",
+   "Challenge": "Desperate Prayer to prevent lethal damage. (Anduin)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsAnduin": "Yes"
+ },
+ {
+   "Nickname": "''Head to a healing fountain. On the double.''",
+   "Challenge": "Heal an ally in a different lane to you. (Anduin)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsAnduin": "Yes"
+ },
+ {
+   "Nickname": "''Bugs this big become features.''",
+   "Challenge": "Have five Scarab Host beetles on screen at once. (Anub'arak)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsAnub'arak": "Yes"
+ },
+ {
+   "Nickname": "''From the depths, I... leave.''",
+   "Challenge": "Escape enemy Heroes with Burrow Charge. (Anub'arak)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsAnub'arak": "Yes"
+ },
+ {
+   "Nickname": "''Agony awaits you!''",
+   "Challenge": "Find a hidden Hero with Impale. (Anub'arak)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsAnub'arak": "Yes"
+ },
+ {
+   "Nickname": "''My might cannot be matched!''",
+   "Challenge": "Follow-up your Stun with your Stun with your Stun with your Stun. (Anub'arak)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsAnub'arak": "Yes"
+ },
+ {
+   "Nickname": "''Don't be a noob. Only I'm allowed to do that.''",
+   "Challenge": "Survive a teamfight with Locust Swarm active. (Anub'arak)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsAnub'arak": "Yes"
+ },
+ {
+   "Nickname": "''Power courses through me.''",
+   "Challenge": "Save yourself with Harden Carapace. (Anub'arak)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsAnub'arak": "Yes"
+ },
+ {
+   "Nickname": "''For a brick, he flew pretty good!''",
+   "Challenge": "Combo your Blade Dash and Phase Prism. (Artanis)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsArtanis": "Yes"
+ },
+ {
+   "Nickname": "''Those who are divided, fall.''",
+   "Challenge": "Hit an enemy Hero with Phase Prism over terrain. (Artanis)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsArtanis": "Yes"
+ },
+ {
+   "Nickname": "''The enemy threatens me.''",
+   "Challenge": "Get three Shield Battery activations in one fight. (Artanis)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsArtanis": "Yes"
+ },
+ {
+   "Nickname": "''Commence purification.''",
+   "Challenge": "Kill an enemy in a different lane with Purifier Beam. (Artanis)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsArtanis": "Yes"
+ },
+ {
+   "Nickname": "''Behold the powerof an arkship!''",
+   "Challenge": "Kill an enemy with Suppression Pulse. (Artanis)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsArtanis": "Yes"
+ },
+ {
+   "Nickname": "''They will meet justice.''",
+   "Challenge": "Chase down an escaping enemy with Twin Blades. (Artanis)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsArtanis": "Yes"
+ },
+ {
+   "Nickname": "''Your soul is mine.''",
+   "Challenge": "Kill an enemy Hero with Death Coil. (Arthas)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsArthas": "Yes"
+ },
+ {
+   "Nickname": "''All shall suffer.''",
+   "Challenge": "Root three enemy Heroes with one ability. (Arthas)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsArthas": "Yes"
+ },
+ {
+   "Nickname": "''Torment awaits.''",
+   "Challenge": "Slow three enemy Heroes with one ability. (Arthas)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsArthas": "Yes"
+ },
+ {
+   "Nickname": "''Frostmourne feeds!''",
+   "Challenge": "Kill an enemy Hero with Frostmourne Hungers. (Arthas)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsArthas": "Yes"
+ },
+ {
+   "Nickname": "''Rise, and serve your King!''",
+   "Challenge": "Survive a teamfight with Army of the Dead active. (Arthas)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsArthas": "Yes"
+ },
+ {
+   "Nickname": "''Know my cruelty.''",
+   "Challenge": "Kill an enemy Hero stuck in your Frozen Tempest. (Arthas)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsArthas": "Yes"
+ },
+ {
+   "Nickname": "''How may I aid you, mortal?''",
+   "Challenge": "Fly across the map to revive an ally. (Auriel)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsAuriel": "Yes"
+ },
+ {
+   "Nickname": "''A gift from the High Heavens.''",
+   "Challenge": "Stun 3 enemy Heroes at once. (Auriel)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsAuriel": "Yes"
+ },
+ {
+   "Nickname": "''When hope itself stands against you, what chance do you have left?''",
+   "Challenge": "Use Sacred Sweep three times in a teamfight. (Auriel)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsAuriel": "Yes"
+ },
+ {
+   "Nickname": "''Hold fast to hope, my friend.''",
+   "Challenge": "Win a teamfight using Resurrect. (Auriel)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsAuriel": "Yes"
+ },
+ {
+   "Nickname": "''I have you, know not fear!''",
+   "Challenge": "Keep an ally alive without using a full Energy heal. (Auriel)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsAuriel": "Yes"
+ },
+ {
+   "Nickname": "''Let my blessing be your shield!''",
+   "Challenge": "Prevent an allied death with Crystal Aegis. (Auriel)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsAuriel": "Yes"
+ },
+ {
+   "Nickname": "''I feast on your pride.''",
+   "Challenge": "Kill an enemy Hero with Globe of Annihilation. (Azmodan)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Bahamut",
+   "IsAzmodan": "Yes"
+ },
+ {
+   "Nickname": "''Arrogant fool!''",
+   "Challenge": "Kill an enemy Hero with All Shall Burn. (Azmodan)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Bahamut",
+   "IsAzmodan": "Yes"
+ },
+ {
+   "Nickname": "''I knew you were weak.''",
+   "Challenge": "Kill an enemy Hero with summoned demons. (Azmodan)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Bahamut",
+   "IsAzmodan": "Yes"
+ },
+ {
+   "Nickname": "''Behold the might of Hell.''",
+   "Challenge": "Finish your level 1 quest before you reach level 10. (Azmodan)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Bahamut",
+   "IsAzmodan": "Yes"
+ },
+ {
+   "Nickname": "''I am so azmodone with this.''",
+   "Challenge": "Finish Pride before you reach level 20. (Azmodan)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Bahamut",
+   "IsAzmodan": "Yes"
+ },
+ {
+   "Nickname": "''Forgive me, my friend, for I am about to sin.''",
+   "Challenge": "Delete a minion wave using Globe of Annihilation and All Shall Burn only. (Azmodan)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Bahamut",
+   "IsAzmodan": "Yes"
+ },
+ {
+   "Nickname": "''Let's get cooking.''",
+   "Challenge": "Stun three enemy Heroes at once. (Blaze)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsBlaze": "Yes"
+ },
+ {
+   "Nickname": "''Into the pillbox!''",
+   "Challenge": "Cleanse an ally's damage over time with Bunker. (Blaze)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsBlaze": "Yes"
+ },
+ {
+   "Nickname": "''Wanna turn up the heat?''",
+   "Challenge": "Dodge enemy CC with Bunker. (Blaze)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsBlaze": "Yes"
+ },
+ {
+   "Nickname": "''Need a light?''",
+   "Challenge": "Kill an enemy with your Flame Stream. (Blaze)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsBlaze": "Yes"
+ },
+ {
+   "Nickname": "''Fire it up.''",
+   "Challenge": "Create a 1000+ point shield. (Blaze)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsBlaze": "Yes"
+ },
+ {
+   "Nickname": "''Smokin'!''",
+   "Challenge": "Draw a funny picture with Oil! (Blaze)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsBlaze": "Yes"
+ },
+ {
+   "Nickname": "''Brightwing did good thing!''",
+   "Challenge": "Shift-queue a command after your Phase Shift. (Brightwing)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsBrightwing": "Yes"
+ },
+ {
+   "Nickname": "''No no no.''",
+   "Challenge": "Interrupt a channel with Arcane Flare. (Brightwing)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsBrightwing": "Yes"
+ },
+ {
+   "Nickname": "''Yay! Color!''",
+   "Challenge": "Use Pixie Dust to enable your engager. (Brightwing)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsBrightwing": "Yes"
+ },
+ {
+   "Nickname": "''Why no fight? Are you scared? Or dumb? Maybe both!''",
+   "Challenge": "Steal a camp with Emerald Wind. (Brightwing)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsBrightwing": "Yes"
+ },
+ {
+   "Nickname": "''Blessing upon friends!''",
+   "Challenge": "Ambush an enemy Hero with Invisible Friends. (Brightwing)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsBrightwing": "Yes"
+ },
+ {
+   "Nickname": "''I like happy things, like puppies and rainbows and... dead enemies.''",
+   "Challenge": "Polymorph a tank to prevent their engage. (Brightwing)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsBrightwing": "Yes"
+ },
+ {
+   "Nickname": "''Lightning never strikes twice. Javelins, however, do.''",
+   "Challenge": "Kill an enemy with the forked Lightning Fury shots. (Cassia)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsCassia": "Yes"
+ },
+ {
+   "Nickname": "''Your atrocities end here!''",
+   "Challenge": "Blind 3 enemy Heroes at once. (Cassia)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsCassia": "Yes"
+ },
+ {
+   "Nickname": "''I shall purge this land of the shadow.''",
+   "Challenge": "Use Surge of Light 3 times in one fight. (Cassia)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsCassia": "Yes"
+ },
+ {
+   "Nickname": "''With vigilance.''",
+   "Challenge": "Don't use Fend on anyone more than 50% hp. (Cassia)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsCassia": "Yes"
+ },
+ {
+   "Nickname": "''Never duel an amazon.''",
+   "Challenge": "Hook a healer with Valkyrie. (Cassia)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsCassia": "Yes"
+ },
+ {
+   "Nickname": "''Basically a tank''",
+   "Challenge": "Use 5 different forms of CC in one fight. (Cassia)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsCassia": "Yes"
+ },
+ {
+   "Nickname": "''Who needs a brew? Oh, I do!''",
+   "Challenge": "Die to Stagger (accidentally). (Chen)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsChen": "Yes"
+ },
+ {
+   "Nickname": "''Ah yes, I meant to do that.''",
+   "Challenge": "Jump over some terrain. (Chen)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsChen": "Yes"
+ },
+ {
+   "Nickname": "''Wait, I'm Earth, and he's Fire... Where's Storm?''",
+   "Challenge": "Escape with less than 3 pandas after using Storm, Earth, Fire. (Chen)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsChen": "Yes"
+ },
+ {
+   "Nickname": "''I bring pandamonium!''",
+   "Challenge": "Lock someone in a corner with Wandering Keg. (Chen)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsChen": "Yes"
+ },
+ {
+   "Nickname": "''Have one on the house.''",
+   "Challenge": "Heal more than 20,000 as Chen. Not self-healing! (Chen)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Hyva",
+   "IsChen": "Yes"
+ },
+ {
+   "Nickname": "''It is time you got smashed!''",
+   "Challenge": "Kill someone with Keg Smash. (Chen)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsChen": "Yes"
+ },
+ {
+   "Nickname": "''The Twilight's Hammer will find you.''",
+   "Challenge": "Stun 3 enemies at once. (Cho)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsCho": "Yes"
+ },
+ {
+   "Nickname": "''You have no hope.''",
+   "Challenge": "Keep Consuming Blaze active for 5 seconds. (Cho)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsCho": "Yes"
+ },
+ {
+   "Nickname": "''Strike!''",
+   "Challenge": "Destroy some scenery with Rune Bomb. (Cho)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsCho": "Yes"
+ },
+ {
+   "Nickname": "''Get over here!''",
+   "Challenge": "Interrupt an enemy with Upheaval. (Cho)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsCho": "Yes"
+ },
+ {
+   "Nickname": "''We are unbreakable.''",
+   "Challenge": "Respawn faster than usual. (Cho)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsCho": "Yes"
+ },
+ {
+   "Nickname": "''Molten armor.''",
+   "Challenge": "Survive a teamfight using Molten Block. (Cho)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsCho": "Yes"
+ },
+ {
+   "Nickname": "''Dormammu, I've come to bargain''",
+   "Challenge": "Fail to kill the looped Hero in both instances of Timeloop. (Chromie)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsChromie": "Yes"
+ },
+ {
+   "Nickname": "''Oh, we're almost to my favorite part!''",
+   "Challenge": "Hit an enemy hero with both Sand Blasts at once. (Chromie)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsChromie": "Yes"
+ },
+ {
+   "Nickname": "''Time to take things into my own hands!''",
+   "Challenge": "Hit an enemy hero with all three Dragon's Breath shots. (Chromie)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsChromie": "Yes"
+ },
+ {
+   "Nickname": "''Here we go again!''",
+   "Challenge": "Reveal all enemy heroes at once. (Chromie)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsChromie": "Yes"
+ },
+ {
+   "Nickname": "''Power of the bronze dragonflight!''",
+   "Challenge": "Lower someone's armor. (Chromie)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsChromie": "Yes"
+ },
+ {
+   "Nickname": "''Hmm, haven't I done this before?''",
+   "Challenge": "Kill an enemy Hero you cannot see. (Chromie)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsChromie": "Yes"
+ },
+ {
+   "Nickname": "'';)''",
+   "Challenge": "Kill an enemy Hero with Self-Destruct. (D.Va)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsD.Va": "Yes"
+ },
+ {
+   "Nickname": "''Taking the shot!''",
+   "Challenge": "Hit 3 enemy Heroes with 1 Big Shot. (D.Va)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsD.Va": "Yes"
+ },
+ {
+   "Nickname": "''Time to raise my APM!''",
+   "Challenge": "Reduce more than 3000 damage at once. (D.Va)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsD.Va": "Yes"
+ },
+ {
+   "Nickname": "''Ejecting!''",
+   "Challenge": "Use Torpedo Dash and Concussive Pulse in one teamfight. (D.Va)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsD.Va": "Yes"
+ },
+ {
+   "Nickname": "''AoE!''",
+   "Challenge": "Stun enemy Heroes 5 times with Bunny Hop. (D.Va)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsD.Va": "Yes"
+ },
+ {
+   "Nickname": "''I'm gonna have to shoot you down!''",
+   "Challenge": "Kill an enemy Hero with Micro Missiles. (D.Va)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsD.Va": "Yes"
+ },
+ {
+   "Nickname": "''Who will be the first to be blasted to ash?''",
+   "Challenge": "Affect two enemy Heroes with one Molten Breath's Conflagration. (Deathwing)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsDeathwing": "Yes"
+ },
+ {
+   "Nickname": "''I will tear your world apart!''",
+   "Challenge": "Stun three enemy Heroes with one Earth Shatter. (Deathwing)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsDeathwing": "Yes"
+ },
+ {
+   "Nickname": "''A true omen of things to come.''",
+   "Challenge": "Keep a Lava Burst in the same area for 30 seconds. (Deathwing)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsDeathwing": "Yes"
+ },
+ {
+   "Nickname": "''None shall escape!''",
+   "Challenge": "Use Skyfall to land outside your vision. (Deathwing)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsDeathwing": "Yes"
+ },
+ {
+   "Nickname": "''Life is weak.''",
+   "Challenge": "Fully repair your armor without flying. (Deathwing)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsDeathwing": "Yes"
+ },
+ {
+   "Nickname": "''Behold the jaws of the apocalypse.''",
+   "Challenge": "Bellowing Roar three enemy Heroes at once. (Deathwing)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsDeathwing": "Yes"
+ },
+ {
+   "Nickname": "''Stay Awhile! Just stay.''",
+   "Challenge": "Follow-up your Root with a Root. (Deckard Cain)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsDeckardCain": "Yes"
+ },
+ {
+   "Nickname": "''I must've had a spare potion.''",
+   "Challenge": "Have 12 or more Potions on screen. (Deckard Cain)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsDeckardCain": "Yes"
+ },
+ {
+   "Nickname": "''What is this strange magic? Was that me?''",
+   "Challenge": "Be a part of a -100 Anti-heal combo. (Deckard Cain)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsDeckardCain": "Yes"
+ },
+ {
+   "Nickname": "''It is magnificent watching you fight!''",
+   "Challenge": "Survive a teamfight with Ancient Blessings active. (Deckard Cain)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsDeckardCain": "Yes"
+ },
+ {
+   "Nickname": "''Hello! Yes, let me introduce myself...''",
+   "Challenge": "Send an enemy Hero to sleep from a bush. (Deckard Cain)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsDeckardCain": "Yes"
+ },
+ {
+   "Nickname": "''For the Horadrim!''",
+   "Challenge": "Use the same gem twice in one teamfight. (Deckard Cain)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsDeckardCain": "Yes"
+ },
+ {
+   "Nickname": "''One dies, one grows strong.''",
+   "Challenge": "Kill a Dragged Hero before your Drag expires. (Dehaka)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsDehaka": "Yes"
+ },
+ {
+   "Nickname": "''You failed to adapt.''",
+   "Challenge": "Burrow to save yourself from lethal danger. (Dehaka)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsDehaka": "Yes"
+ },
+ {
+   "Nickname": "''Change drives me.''",
+   "Challenge": "Follow-up your Dark Swarm with Dark Swarm. (Dehaka)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsDehaka": "Yes"
+ },
+ {
+   "Nickname": "''I adapt. You do not. I live. You will not.''",
+   "Challenge": "Splash your Isolation. (Dehaka)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsDehaka": "Yes"
+ },
+ {
+   "Nickname": "''Witness strength of primal zerg.''",
+   "Challenge": "Refill your HP twice in one teamfight. (Dehaka)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsDehaka": "Yes"
+ },
+ {
+   "Nickname": "''A clever use of essence.''",
+   "Challenge": "Use the Brushstalker bug to spook someone! (Dehaka)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsDehaka": "Yes"
+ },
+ {
+   "Nickname": "''Kneel before the Lord of Terror.''",
+   "Challenge": "Use Shadow Charge and Overpower to setup a kill. (Diablo)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsDiablo": "Yes"
+ },
+ {
+   "Nickname": "''Your fear betrays you!''",
+   "Challenge": "Use Shadow Charge and Overpower to setup your Apocalypse. (Diablo)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsDiablo": "Yes"
+ },
+ {
+   "Nickname": "''You cannot hide from me!''",
+   "Challenge": "Find a hidden enemy with Fire Stomp. (Diablo)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsDiablo": "Yes"
+ },
+ {
+   "Nickname": "''All will be consumed by terror!''",
+   "Challenge": "Use five Fire Stomps in one teamfight. (Diablo)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsDiablo": "Yes"
+ },
+ {
+   "Nickname": "''Pain. Endless pain.''",
+   "Challenge": "Overflow your HP with Devil's Due before a teamfight. (Diablo)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsDiablo": "Yes"
+ },
+ {
+   "Nickname": "''Your destruction will be swift!''",
+   "Challenge": "Overpower someone into your Hellgate. (Diablo)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsDiablo": "Yes"
+ },
+ {
+   "Nickname": "''Give 'em the horns!''",
+   "Challenge": "Use Powerslide to enable allied CC. (ETC)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsETC": "Yes"
+ },
+ {
+   "Nickname": "''Tuned up and good to go!''",
+   "Challenge": "Prevent lethal damage with Guitar Solo. (ETC)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsETC": "Yes"
+ },
+ {
+   "Nickname": "''Get outta there! Show's going south!''",
+   "Challenge": "Prevent an allied Hero from dying with Prog Rock. (ETC)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsETC": "Yes"
+ },
+ {
+   "Nickname": "''You got something for me to sign? Twenty bucks.''",
+   "Challenge": "Use Face Melt to prevent an enemy from chasing you. (ETC)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsETC": "Yes"
+ },
+ {
+   "Nickname": "''Hey, free swag!''",
+   "Challenge": "Find a hidden enemy with Face Melt. (ETC)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsETC": "Yes"
+ },
+ {
+   "Nickname": "''Always a crowd pleaser!''",
+   "Challenge": "Powerslide twice in one teamfight. (ETC)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsETC": "Yes"
+ },
+ {
+   "Nickname": "''Rumors of me death have been greatly exaggerated.''",
+   "Challenge": "Escape from behind enemy lines with Flight. (Falstad)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsFalstad": "Yes"
+ },
+ {
+   "Nickname": "Ranged Mosh Pit",
+   "Challenge": "Wind Tunnel some enemy Heroes into terrain. (Falstad)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsFalstad": "Yes"
+ },
+ {
+   "Nickname": "''Do a barrel roll! Eh?''",
+   "Challenge": "Gain a shield from two different sources at once. (Falstad)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsFalstad": "Yes"
+ },
+ {
+   "Nickname": "''Gotta be faster than that, and tougher too.''",
+   "Challenge": "Fully channel your Lightning Rod on an enemy Hero. (Falstad)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsFalstad": "Yes"
+ },
+ {
+   "Nickname": "''Could use a wee bit o' help here.''",
+   "Challenge": "Miss a minion wave with Hammerrang. (Falstad)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsFalstad": "Yes"
+ },
+ {
+   "Nickname": "''Ho, that was a close one.''",
+   "Challenge": "Evade pursuers across terrain with Barrel Roll. (Falstad)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsFalstad": "Yes"
+ },
+ {
+   "Nickname": "''Behold the power of the Firstborn!''",
+   "Challenge": "Kill someone in a different lane with Planet Cracker. (Fenix)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsFenix": "Yes"
+ },
+ {
+   "Nickname": "''I live to fight again!''",
+   "Challenge": "Warp to dodge damage effects. (Fenix)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsFenix": "Yes"
+ },
+ {
+   "Nickname": "''The best defense is a good offense!''",
+   "Challenge": "Make the microwave noise (Use Arsenal Synergy). (Fenix)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsFenix": "Yes"
+ },
+ {
+   "Nickname": "''You cannot evade me.''",
+   "Challenge": "Use Warp twice in one teamfight. (Fenix)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsFenix": "Yes"
+ },
+ {
+   "Nickname": "''Come, join me in glorious battle!''",
+   "Challenge": "Use Purification Salvo on five enemy Heroes at once. (Fenix)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsFenix": "Yes"
+ },
+ {
+   "Nickname": "''My spirit cannot be conquered!''",
+   "Challenge": "Prevent lethal damage by gaining shields with Shield Capacitor. (Fenix)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsFenix": "Yes"
+ },
+ {
+   "Nickname": "''No, that way!''",
+   "Challenge": "Shove Cho the best way at the right time! (Gall)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGall": "Yes"
+ },
+ {
+   "Nickname": "''Embrace the shadow!''",
+   "Challenge": "Stun the same enemy twice with your Dread Orb. (Gall)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGall": "Yes"
+ },
+ {
+   "Nickname": "''Detonate!''",
+   "Challenge": "Silence a channelled ability with Runic Blast. (Gall)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGall": "Yes"
+ },
+ {
+   "Nickname": "''Flame of shadow!''",
+   "Challenge": "Shadowflame 3 times in 5 seconds. (Gall)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGall": "Yes"
+ },
+ {
+   "Nickname": "''Come havoc! Come infinite night!''",
+   "Challenge": "Capture a mercenary camp after Cho has died. (Gall)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGall": "Yes"
+ },
+ {
+   "Nickname": "''Oblivion has come!''",
+   "Challenge": "Ambush an enemy with Shifting Nether. (Gall)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGall": "Yes"
+ },
+ {
+   "Nickname": "''Know your place!''",
+   "Challenge": "Save an ally from lethal damage with Into the Fray. (Garrosh)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGarrosh": "Yes"
+ },
+ {
+   "Nickname": "''I've got you now!''",
+   "Challenge": "Find a hidden enemy with Groundbreaker. (Garrosh)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGarrosh": "Yes"
+ },
+ {
+   "Nickname": "''You can't stop me!''",
+   "Challenge": "Bait an enemy to kill you with Bloodthirst and heal at the last moment. (Garrosh)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGarrosh": "Yes"
+ },
+ {
+   "Nickname": "''For the true Horde!''",
+   "Challenge": "Throw an enemy into your team with Wrecking Ball. (Garrosh)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGarrosh": "Yes"
+ },
+ {
+   "Nickname": "''Enough of you!''",
+   "Challenge": "Throw an enemy over terrain with Wrecking Ball. (Garrosh)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGarrosh": "Yes"
+ },
+ {
+   "Nickname": "''You are all unworthy of the Horde!''",
+   "Challenge": "Never kill a minion. (Garrosh)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGarrosh": "Yes"
+ },
+ {
+   "Nickname": "''What's this button do again?''",
+   "Challenge": "Hit 3 enemy Heroes at once with Deth Lazor. (Gazlowe)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGazlowe": "Yes"
+ },
+ {
+   "Nickname": "''Hey, buddy! Catch!''",
+   "Challenge": "Find a hidden enemy with Xplodium Charge. (Gazlowe)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGazlowe": "Yes"
+ },
+ {
+   "Nickname": "''Kill switch engaged.''",
+   "Challenge": "Re-engage on an enemy team and get a kill after they try to kill you. (Gazlowe)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGazlowe": "Yes"
+ },
+ {
+   "Nickname": "''Here comes the mother of all explosions!''",
+   "Challenge": "Hit 3 enemy Heroes at once with Grav-O-Bomb 3000. (Gazlowe)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGazlowe": "Yes"
+ },
+ {
+   "Nickname": "''That's what this baby is built for!''",
+   "Challenge": "Safely escape from danger with Robo-Goblin. (Gazlowe)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGazlowe": "Yes"
+ },
+ {
+   "Nickname": "''My friends call me the Master-blaster.''",
+   "Challenge": "Shoot 3 Deth Lazors in one teamfight. (Gazlowe)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGazlowe": "Yes"
+ },
+ {
+   "Nickname": "''My soul seeks balance.''",
+   "Challenge": "Finish Zanshin before level 20. (Genji)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsGenji": "Yes"
+ },
+ {
+   "Nickname": "''Like cutting through silk.''",
+   "Challenge": "Get 3 procs of Shingan in one teamfight. (Genji)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsGenji": "Yes"
+ },
+ {
+   "Nickname": "''You were prepared: Genji Edition''",
+   "Challenge": "Kill an enemy behind their gate and live to tell the tale. (Genji)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsGenji": "Yes"
+ },
+ {
+   "Nickname": "''You'll need more practice to evade me.''",
+   "Challenge": "Use Swift Strike 3 times in one teamfight. (Genji)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsGenji": "Yes"
+ },
+ {
+   "Nickname": "''Ryujin no ken wo kurae!''",
+   "Challenge": "Dragonblade for 10 seconds. (Genji)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsGenji": "Yes"
+ },
+ {
+   "Nickname": "''Ryu gekken''",
+   "Challenge": "Combine Swift Strike and X-Strike to execute an enemy Hero and escape. (Genji)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsGenji": "Yes"
+ },
+ {
+   "Nickname": "''*Ahem* Next...''",
+   "Challenge": "Kill an enemy hero you cannot see with Gilnean Cocktail. (Greymane)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGreymane": "Yes"
+ },
+ {
+   "Nickname": "''That's my secret... : Greymane Edition''",
+   "Challenge": "Activate Inner Beast when your Inner Beast finishes. (Greymane)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGreymane": "Yes"
+ },
+ {
+   "Nickname": "''A little vicious, don't you think?''",
+   "Challenge": "Darkflight over terrain. (Greymane)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGreymane": "Yes"
+ },
+ {
+   "Nickname": "''Perhaps I underestimated you.''",
+   "Challenge": "Use Stealth to escape danger. (Greymane)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGreymane": "Yes"
+ },
+ {
+   "Nickname": "''You cannot hide from me!''",
+   "Challenge": "Setup a kill with Cursed Bullet. (Greymane)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGreymane": "Yes"
+ },
+ {
+   "Nickname": "''The beast within!''",
+   "Challenge": "Execute a kill with Go for the Throat. (Greymane)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGreymane": "Yes"
+ },
+ {
+   "Nickname": "''Bear witness to the dark master's power!''",
+   "Challenge": "Hit 3 enemy Heroes with one Corruption. (Gul'dan)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGul'dan": "Yes"
+ },
+ {
+   "Nickname": "''Their suffering will be legendary.''",
+   "Challenge": "Finish Pursuit of Flame before level 4. (Gul'dan)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGul'dan": "Yes"
+ },
+ {
+   "Nickname": "''I believe a Life Tap is in order.''",
+   "Challenge": "Only Life Tap when you cannot cast a mana costing spell. (Gul'dan)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGul'dan": "Yes"
+ },
+ {
+   "Nickname": "''Know the true essence of fear.''",
+   "Challenge": "Horrify to re-engage a teamfight. (Gul'dan)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGul'dan": "Yes"
+ },
+ {
+   "Nickname": "''The shattering is upon you!''",
+   "Challenge": "Get a kill with Rain of Destruction. (Gul'dan)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGul'dan": "Yes"
+ },
+ {
+   "Nickname": "''Juice Pirates for one please!''",
+   "Challenge": "Demonic Circle into the enemy base, kill a fort/keep and (hopefully) Hearthstone to safety. Without allied help. (Gul'dan)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsGul'dan": "Yes"
+ },
+ {
+   "Nickname": "''Let the dragon consume you!''",
+   "Challenge": "Kill someone with Dragon's Arrow. (Hanzo)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsHanzo": "Yes"
+ },
+ {
+   "Nickname": "''My arrow finds its mark.''",
+   "Challenge": "Shoot 3 Scatter Arrows in one fight. (Hanzo)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsHanzo": "Yes"
+ },
+ {
+   "Nickname": "''Marked by the dragon.''",
+   "Challenge": "Find a hidden enemy Hero with Sonic Arrow. (Hanzo)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsHanzo": "Yes"
+ },
+ {
+   "Nickname": "''Witness my skill!''",
+   "Challenge": "Natural Agility to safety when pursued. (Hanzo)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsHanzo": "Yes"
+ },
+ {
+   "Nickname": "''Ryu ga waga teki wo kurau!''",
+   "Challenge": "Keep an enemy hero in your Dragonstrike for its entirety. (Hanzo)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsHanzo": "Yes"
+ },
+ {
+   "Nickname": "''See through the dragon's eyes.''",
+   "Challenge": "Follow-up your Stun with your Stun. (Hanzo)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsHanzo": "Yes"
+ },
+ {
+   "Nickname": "''Hogger kill them all!''",
+   "Challenge": "Stun two enemy Heroes at once. (Hogger)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsHogger": "Yes"
+ },
+ {
+   "Nickname": "''Bite at soft parts!'",
+   "Challenge": "Pummel three enemy Heroes in one teamfight. (Hogger)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsHogger": "Yes"
+ },
+ {
+   "Nickname": "''Give... small break?''",
+   "Challenge": "Heal yourself in 3 different ways in one teamfight. (Hogger)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsHogger": "Yes"
+ },
+ {
+   "Nickname": "''Where Hogger going?''",
+   "Challenge": "Spin to safety after being engaged on by enemy Heroes. (Hogger)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsHogger": "Yes"
+ },
+ {
+   "Nickname": "''Hogger go!''",
+   "Challenge": "Create a re-engage opportunity with Shockwave. (Hogger)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsHogger": "Yes"
+ },
+ {
+   "Nickname": "''Hogger share!''",
+   "Challenge": "Explode 10 Ez-Thro Dynamite sticks in one fight. (Hogger)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsHogger": "Yes"
+ },
+ {
+   "Nickname": "''This ends now!''",
+   "Challenge": "Kill an enemy with Dive. (Illidan)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsIllidan": "Yes"
+ },
+ {
+   "Nickname": "''Taste the Blades of Azzinoth!''",
+   "Challenge": "Keep Battered Assault active for an entire teamfight. (Illidan)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsIllidan": "Yes"
+ },
+ {
+   "Nickname": "''Dagger, Dagger, Dagger... wait, wrong universe.''",
+   "Challenge": "Attack the same enemy Hero with 3 different methods. (Illidan)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsIllidan": "Yes"
+ },
+ {
+   "Nickname": "''Is that all?''",
+   "Challenge": "Tower dive and take no damage from towers. (Illidan)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsIllidan": "Yes"
+ },
+ {
+   "Nickname": "''Now I am complete!''",
+   "Challenge": "Dodge fatal damage with Metamorphasis. (Illidan)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsIllidan": "Yes"
+ },
+ {
+   "Nickname": "''Feel the hatred of 10,000 years!''",
+   "Challenge": "Kill an enemy with The Hunt. (Illidan)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsIllidan": "Yes"
+ },
+ {
+   "Nickname": "''Who dares stand against me?''",
+   "Challenge": "Celestial Charge 3 enemy Heroes at once. (Imperius)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsImperius": "Yes"
+ },
+ {
+   "Nickname": "''Li-Ming's Mirrorball Simulator''",
+   "Challenge": "Kill an enemy with Angelic Armaments. (Imperius)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsImperius": "Yes"
+ },
+ {
+   "Nickname": "''Patience is not one of my virtues.''",
+   "Challenge": "Valorous Pursuit next to an enemy for a kill. (Imperius)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsImperius": "Yes"
+ },
+ {
+   "Nickname": "''Evil cannot hide from me.''",
+   "Challenge": "Find a hidden enemy Hero with Solarian's Fire. (Imperius)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsImperius": "Yes"
+ },
+ {
+   "Nickname": "''Bring your attacks against me! Let them fail!''",
+   "Challenge": "Celestial Charge over terrain to escape lethal damage. (Imperius)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsImperius": "Yes"
+ },
+ {
+   "Nickname": "''The Eternal Conflict rages on!''",
+   "Challenge": "Win any kind of battle involving enemy Heroes with Press Forward active for its entirety. (Imperius)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsImperius": "Yes"
+ },
+ {
+   "Nickname": "''I'm rooting for you!''",
+   "Challenge": "Root your Root your Root. (Jaina)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsJaina": "Yes"
+ },
+ {
+   "Nickname": "''Walter's time to shine''",
+   "Challenge": "Let your Water Elemental 100-0 an enemy hero. (Jaina)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsJaina": "Yes"
+ },
+ {
+   "Nickname": "''Your time has come, friend.''",
+   "Challenge": "Find a hidden enemy Hero with Frostbolt. (Jaina)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsJaina": "Yes"
+ },
+ {
+   "Nickname": "''Now that's a magic moment!''",
+   "Challenge": "Have all waves of Blizzard land on the same enemy Hero. (Jaina)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsJaina": "Yes"
+ },
+ {
+   "Nickname": "''The old fashioned k1pro flank''",
+   "Challenge": "Use Jaina's entire burst from a flank position in a teamfight. (Jaina)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsJaina": "Yes"
+ },
+ {
+   "Nickname": "''The Perfidy special''",
+   "Challenge": "Play as Jaina in the tank slot. (Jaina)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Perfidy",
+   "IsJaina": "Yes"
+ },
+ {
+   "Nickname": "''Let the Heavens' wrath fall!''",
+   "Challenge": "Use 3 Falling Swords in one teamfight. (Johanna)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsJohanna": "Yes"
+ },
+ {
+   "Nickname": "''If your side has any real heroes, please, send them my way.''",
+   "Challenge": "Follow-up your Falling Sword with Falling Sword. (Johanna)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsJohanna": "Yes"
+ },
+ {
+   "Nickname": "''Hammer time!''",
+   "Challenge": "Kill an enemy hero with Blessed Hammer. (Johanna)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsJohanna": "Yes"
+ },
+ {
+   "Nickname": "''Akarat smiles.''",
+   "Challenge": "Find a hidden enemy Hero with Shield Glare. (Johanna)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsJohanna": "Yes"
+ },
+ {
+   "Nickname": "''You would not last long on the Crusade.''",
+   "Challenge": "Finish Subdue. (Johanna)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsJohanna": "Yes"
+ },
+ {
+   "Nickname": "''The Crusade calls.''",
+   "Challenge": "Use Blinded By The Light twice in one teamfight. (Johanna)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsJohanna": "Yes"
+ },
+ {
+   "Nickname": "''This bomb's for you!''",
+   "Challenge": "Find a hidden enemy with Frag Launcher. (Junkrat)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsJunkrat": "Yes"
+ },
+ {
+   "Nickname": "''Oh, that's where I left it!''",
+   "Challenge": "Concussion Mine an enemy hero into your Steel Trap. (Junkrat)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsJunkrat": "Yes"
+ },
+ {
+   "Nickname": "''Surprise!''",
+   "Challenge": "Concussion Mine an enemy hero over terrain. (Junkrat)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsJunkrat": "Yes"
+ },
+ {
+   "Nickname": "''I'm on a roll, get it?''",
+   "Challenge": "Maintain your RIP-Tire for 12 consecutive seconds. (Junkrat)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsJunkrat": "Yes"
+ },
+ {
+   "Nickname": "''Oh you really stepped in it, mate!''",
+   "Challenge": "Prevent a camp from being stolen. (Junkrat)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsJunkrat": "Yes"
+ },
+ {
+   "Nickname": "''Baby, I'm a firework!''",
+   "Challenge": "Use two Heroic abilities in one teamfight. (Junkrat)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsJunkrat": "Yes"
+ },
+ {
+   "Nickname": "''The Veckies!''",
+   "Challenge": "Finish Convection. (I'm sorry, Kael'thas mains). (Kael'thas)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsKael'thas": "Yes"
+ },
+ {
+   "Nickname": "''Your world is upside-down!''",
+   "Challenge": "Use Gravity Lapse on enemy Heroes twice in one teamfight. (Kael'thas)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsKael'thas": "Yes"
+ },
+ {
+   "Nickname": "''Having trouble staying grounded?''",
+   "Challenge": "Stun three enemy Heroes at once. (Kael'thas)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsKael'thas": "Yes"
+ },
+ {
+   "Nickname": "''Now you will taste true power.''",
+   "Challenge": "Prevent lethal damage with Arcane Barrier. (Kael'thas)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsKael'thas": "Yes"
+ },
+ {
+   "Nickname": "''Anar'anel belore!''",
+   "Challenge": "Damage an enemy Hero with Flamestrike twice in two seconds. (Kael'thas)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsKael'thas": "Yes"
+ },
+ {
+   "Nickname": "''Fire consume you!''",
+   "Challenge": "Kill an enemy Hero with Pyroblast. (Kael'thas)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsKael'thas": "Yes"
+ },
+ {
+   "Nickname": "''The master has granted me true strength!''",
+   "Challenge": "Finish Master of the Cold Dark before level 10. (Kel'Thuzad)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Hyva",
+   "IsKel'Thuzad": "Yes"
+ },
+ {
+   "Nickname": "''Yes, this is the power promised me!''",
+   "Challenge": "Summon Mr Bigglesworth! (Kel'Thuzad)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsKel'Thuzad": "Yes"
+ },
+ {
+   "Nickname": "''All according to my designs.''",
+   "Challenge": "Chain two enemy Heroes in your root. (Kel'Thuzad)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsKel'Thuzad": "Yes"
+ },
+ {
+   "Nickname": "''I will freeze the blood in your veins.''",
+   "Challenge": "Frost Blast 4 enemy Heroes at once. (Kel'Thuzad)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsKel'Thuzad": "Yes"
+ },
+ {
+   "Nickname": "''Know the infinite abyss.''",
+   "Challenge": "Kill an enemy in a separate lane with Shadow Fissure. (Kel'Thuzad)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsKel'Thuzad": "Yes"
+ },
+ {
+   "Nickname": "''Lich Strike''",
+   "Challenge": "Kill an enemy with Shifting Malice. (Kel'Thuzad)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsKel'Thuzad": "Yes"
+ },
+ {
+   "Nickname": "''My conquest continues.''",
+   "Challenge": "Use Ravage 7 times in one teamfight. (Kerrigan)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsKerrigan": "Yes"
+ },
+ {
+   "Nickname": "''It's not easy being queen.''",
+   "Challenge": "Stun 2 enemy Heroes at once. (Kerrigan)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsKerrigan": "Yes"
+ },
+ {
+   "Nickname": "''Learn to combo: Kerrigan edition''",
+   "Challenge": "Always use Impaling Blades before Primal Grasp. (Kerrigan)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsKerrigan": "Yes"
+ },
+ {
+   "Nickname": "''Unbridled fury.''",
+   "Challenge": "Survive a teamfight with Maelstrom active. (Kerrigan)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsKerrigan": "Yes"
+ },
+ {
+   "Nickname": "''Never cross the queen.''",
+   "Challenge": "Ambush an enemy from a bush. (Kerrigan)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsKerrigan": "Yes"
+ },
+ {
+   "Nickname": "''I'm not done with you yet.''",
+   "Challenge": "Kill an enemy Hero using Psionic Shift and Chrysallis as part of your combo. (Kerrigan)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsKerrigan": "Yes"
+ },
+ {
+   "Nickname": "''The balance is kept.''",
+   "Challenge": "Choose a Trait you wouldn't normally pick. (Kharazim)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsKharazim": "Yes"
+ },
+ {
+   "Nickname": "''The gods strike through me!''",
+   "Challenge": "Radiant Dash into a teamfight, get a takedown, then Radiant Dash out of the teamfight. (Kharazim)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsKharazim": "Yes"
+ },
+ {
+   "Nickname": "''My understanding grows.''",
+   "Challenge": "Have a level 4 Ally survive a teamfight. (Kharazim)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsKharazim": "Yes"
+ },
+ {
+   "Nickname": "''Feel the wrath of Ytar!''",
+   "Challenge": "Kill an enemy Hero with Seven-Sided Strike. (Kharazim)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsKharazim": "Yes"
+ },
+ {
+   "Nickname": "''A thousand and one blessings upon you.''",
+   "Challenge": "Prevent a death using Divine Palm. (Kharazim)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsKharazim": "Yes"
+ },
+ {
+   "Nickname": "''My time has not yet come.''",
+   "Challenge": "Prevent your own death using Seven-Sided Strike. (Kharazim)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsKharazim": "Yes"
+ },
+ {
+   "Nickname": "''You dare bring the warmth of life into my tomb?''",
+   "Challenge": "Use Entomb to kill an enemy Hero. (Leoric)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsLeoric": "Yes"
+ },
+ {
+   "Nickname": "''KingCaffeine's Tomb''",
+   "Challenge": "Use Entomb to save an allied Hero. (Leoric)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsLeoric": "Yes"
+ },
+ {
+   "Nickname": "''A king deserves no less.''",
+   "Challenge": "Fully channel your Drain Hope. (Leoric)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsLeoric": "Yes"
+ },
+ {
+   "Nickname": "''Who disturbs the king of Khanduras?''",
+   "Challenge": "Use Wraith Walk twice in one teamfight. (Leoric)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsLeoric": "Yes"
+ },
+ {
+   "Nickname": "''The damned March 4th!''",
+   "Challenge": "Survive a teamfight where you used March of the Black King. (Leoric)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsLeoric": "Yes"
+ },
+ {
+   "Nickname": "''I am already dead. So when I am killed, what am I then? More dead? Deader? ...Alive?''",
+   "Challenge": "Cheat death for 20 seconds during one (un)death. (Leoric)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsLeoric": "Yes"
+ },
+ {
+   "Nickname": "''Hey, here's the good stuff!''",
+   "Challenge": "Use Let's Go! twice in 1 minute. (Li Li)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsLiLi": "Yes"
+ },
+ {
+   "Nickname": "''That got crazy quick, huh?''",
+   "Challenge": "Have Armor for an entire teamfight. (Li Li)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsLiLi": "Yes"
+ },
+ {
+   "Nickname": "''Aww man, these guys don't play nice.''",
+   "Challenge": "Blind an Assassin. (Li Li)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsLiLi": "Yes"
+ },
+ {
+   "Nickname": "''Come on, draggy, do your thing!''",
+   "Challenge": "Hit 3 enemy Heroes with one cast of Water Dragon. (Li Li)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsLiLi": "Yes"
+ },
+ {
+   "Nickname": "''Tasty and life-saving!''",
+   "Challenge": "Save an ally with Jug of 1000 Cups. (Li Li)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsLiLi": "Yes"
+ },
+ {
+   "Nickname": "''I love it, it's so nifty!''",
+   "Challenge": "Use Mistweaver twice in one teamfight. (Li Li)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsLiLi": "Yes"
+ },
+ {
+   "Nickname": "''That. Is. Enough!''",
+   "Challenge": "Wave of Force an enemy Hero into your Arcane Orb. (Li-Ming)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsLi-Ming": "Yes"
+ },
+ {
+   "Nickname": "''Magic is no mere toy to play with, but... just this once.''",
+   "Challenge": "Have the Seeker audio play 3 times in a row. (Li-Ming)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsLi-Ming": "Yes"
+ },
+ {
+   "Nickname": "''If this were easy, everyone would do it... Oh, they do.''",
+   "Challenge": "Hit 3 different enemies with 1 Magic Missile cast. (Li-Ming)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsLi-Ming": "Yes"
+ },
+ {
+   "Nickname": "''This is your end!''",
+   "Challenge": "Kill an enemy Hero with Disintegrate. (Li-Ming)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsLi-Ming": "Yes"
+ },
+ {
+   "Nickname": "''Hah! Got you... nevermind the rest.''",
+   "Challenge": "Survive a teamfight using Critical Mass. (Li-Ming)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsLi-Ming": "Yes"
+ },
+ {
+   "Nickname": "''I'm not very good at the game, but I'm over here.''",
+   "Challenge": "Escape pursuers with Teleport. (Li-Ming)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsLi-Ming": "Yes"
+ },
+ {
+   "Nickname": "''I'll be right behind you. Let's get going.''",
+   "Challenge": "Keep a minion alive until it reaches enemy towers. (Lt. Morales)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsLt.Morales": "Yes"
+ },
+ {
+   "Nickname": "''Oh, better alert the trauma ward.''",
+   "Challenge": "Knock an escaping enemy Hero towards you with Displacement Grenade. (Lt. Morales)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsLt.Morales": "Yes"
+ },
+ {
+   "Nickname": "''The doctor is in.''",
+   "Challenge": "Medivac your team onto an enemy camp or structure. (Lt. Morales)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsLt.Morales": "Yes"
+ },
+ {
+   "Nickname": "''The doctor is i- Out!''",
+   "Challenge": "Escape from lethal damage using Medivac. (Lt. Morales)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsLt.Morales": "Yes"
+ },
+ {
+   "Nickname": "''Here you go, soldier!''",
+   "Challenge": "Enable an ally to kill an enemy Hero with Stim Drone. (Lt. Morales)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsLt.Morales": "Yes"
+ },
+ {
+   "Nickname": "''One out of one doctors approve.''",
+   "Challenge": "Prevent an engage with Safeguard. (Lt. Morales)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsLt.Morales": "Yes"
+ },
+ {
+   "Nickname": "''Let's hustle!''",
+   "Challenge": "Speed Boost your allies towards fleeing enemy Heroes. (Lucio)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsLucio": "Yes"
+ },
+ {
+   "Nickname": "''Let's up the tempo!''",
+   "Challenge": "Combine Push Off with Soundwave to create an engage on an enemy Hero. (Lucio)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsLucio": "Yes"
+ },
+ {
+   "Nickname": "''Audio medic!''",
+   "Challenge": "Heal an ally in a different lane. (Lucio)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsLucio": "Yes"
+ },
+ {
+   "Nickname": "''This is gonna make you feel better!''",
+   "Challenge": "Prevent an enemy engage with your Heroic ability. (Lucio)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsLucio": "Yes"
+ },
+ {
+   "Nickname": "''Whoa, nothing's gonna stop me!''",
+   "Challenge": "Intentionally block CC while Unstoppable. (Lucio)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsLucio": "Yes"
+ },
+ {
+   "Nickname": "''Step to this!''",
+   "Challenge": "Stun two enemy Heroes at once. (Lucio)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsLucio": "Yes"
+ },
+ {
+   "Nickname": "''Facecheck''",
+   "Challenge": "Use your Wisp to find a hidden enemy Hero. (Lunara)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsLunara": "Yes"
+ },
+ {
+   "Nickname": "''Let's get to the root of this problem.''",
+   "Challenge": "Kill an enemy hero with Leaping Strike. (Lunara)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsLunara": "Yes"
+ },
+ {
+   "Nickname": "''Nature bestows many gifts.''",
+   "Challenge": "Kill an enemy hero you cannot see. (Lunara)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsLunara": "Yes"
+ },
+ {
+   "Nickname": "''Suffer as the wildlands have suffered.''",
+   "Challenge": "Spread Nature's Toxin to 4 enemies at once. (Lunara)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsLunara": "Yes"
+ },
+ {
+   "Nickname": "''Leaps and bounds ahead of you.''",
+   "Challenge": "Keep a Wisp moving for its duration. (Lunara)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsLunara": "Yes"
+ },
+ {
+   "Nickname": "''You can't run from nature.''",
+   "Challenge": "Chase down a fleeing enemy Hero and spread Nature's Toxin to them. (Lunara)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsLunara": "Yes"
+ },
+ {
+   "Nickname": "''A warden always hits her mark!''",
+   "Challenge": "Get 3 Fan of Knives resets in a row. (Maiev)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMaiev": "Yes"
+ },
+ {
+   "Nickname": "''None can escape my fury!''",
+   "Challenge": "Umbral Bind two enemy Heroes at once. (Maiev)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMaiev": "Yes"
+ },
+ {
+   "Nickname": "''My skills are sharper than any blade.''",
+   "Challenge": "Enter and escape a teamfight using Spirit of Vengeance. (Maiev)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMaiev": "Yes"
+ },
+ {
+   "Nickname": "''You never stood a chance.''",
+   "Challenge": "Use Vault of the Wardens to prevent lethal damage. (Maiev)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMaiev": "Yes"
+ },
+ {
+   "Nickname": "''The Cult has come to collect you.''",
+   "Challenge": "Surround three enemy Heroes with Wardens. (Maiev)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMaiev": "Yes"
+ },
+ {
+   "Nickname": "''Just watch out for photographers.''",
+   "Challenge": "Put your spider friend on somebody's head. (Shadow Orb: Shadow Strike) (Maiev)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMaiev": "Yes"
+ },
+ {
+   "Nickname": "''None can oppose me!''",
+   "Challenge": "Stun 3 enemy Heroes at once. (Mal'Ganis)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMal'Ganis": "Yes"
+ },
+ {
+   "Nickname": "''Vanquish the weak!''",
+   "Challenge": "Survive a teamfight where you used Carrion Swarm. (Mal'Ganis)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMal'Ganis": "Yes"
+ },
+ {
+   "Nickname": "''Your life will sustain me.''",
+   "Challenge": "Survive a teamfight where you used Dark Conversion. (Mal'Ganis)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMal'Ganis": "Yes"
+ },
+ {
+   "Nickname": "''And now, to crush their hopes of victory.''",
+   "Challenge": "Kill an enemy with the assistance of Dark Conversion. (Mal'Ganis)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMal'Ganis": "Yes"
+ },
+ {
+   "Nickname": "''Sleep now.''",
+   "Challenge": "Follow-up your Stun with your Stun. (Mal'Ganis)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMal'Ganis": "Yes"
+ },
+ {
+   "Nickname": "''The Dark Titan grants me power. They grant you a tiny amount of power too.''",
+   "Challenge": "Heal your allies. (Mal'Ganis)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMal'Ganis": "Yes"
+ },
+ {
+   "Nickname": "''Blessings upon you, friends.''",
+   "Challenge": "Have your Regrowth active on every hero at once. (Malfurion)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMalfurion": "Yes"
+ },
+ {
+   "Nickname": "''The land and I are one.''",
+   "Challenge": "Use Moonfire to find a hidden enemy Hero. (Malfurion)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMalfurion": "Yes"
+ },
+ {
+   "Nickname": "''Hmm, a worthwhile exchange!''",
+   "Challenge": "Affect 4 Heroes at once with your Heroic. (Malfurion)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMalfurion": "Yes"
+ },
+ {
+   "Nickname": "''That should teach them a lesson.''",
+   "Challenge": "Sleep two enemy Heroes at once. (Malfurion)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMalfurion": "Yes"
+ },
+ {
+   "Nickname": "''Beware of testing nature, you might not like the result.''",
+   "Challenge": "Ambush an enemy Hero with Astral Communion. (Malfurion)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMalfurion": "Yes"
+ },
+ {
+   "Nickname": "''Fear not, I have returned.''",
+   "Challenge": "Cleanse yourself with Nature's Cure. (Malfurion)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMalfurion": "Yes"
+ },
+ {
+   "Nickname": "''Death is beyond your reach.''",
+   "Challenge": "Dodge an enemy Hero's ability with Wraith Strike. (Malthael)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsMalthael": "Yes"
+ },
+ {
+   "Nickname": "''None escape...''",
+   "Challenge": "Walk through an enemy Hero. (Malthael)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsMalthael": "Yes"
+ },
+ {
+   "Nickname": "''All bow.''",
+   "Challenge": "Use Wraith Strike 3 times in one teamfight. (Malthael)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsMalthael": "Yes"
+ },
+ {
+   "Nickname": "''The end.''",
+   "Challenge": "Survive a teamfight where you used Tormented Souls. (Malthael)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsMalthael": "Yes"
+ },
+ {
+   "Nickname": "''In the absence of wisdom, only death remains.''",
+   "Challenge": "Prevent lethal damage with a level 13 activatable talent. (Malthael)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsMalthael": "Yes"
+ },
+ {
+   "Nickname": "''I shall return.''",
+   "Challenge": "Only respawn with No One Can Stop Death. (Malthael)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsMalthael": "Yes"
+ },
+ {
+   "Nickname": "''I will set things right.''",
+   "Challenge": "Finish Arcane Rift's quest before level 10. (Medivh)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMedivh": "Yes"
+ },
+ {
+   "Nickname": "''Even now, my power grows.''",
+   "Challenge": "Kill an enemy Hero without using Arcane Rift or Auto Attacks. (Medivh)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMedivh": "Yes"
+ },
+ {
+   "Nickname": "''Ah, the whimsical flows of magic!''",
+   "Challenge": "Steal a camp. (Medivh)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMedivh": "Yes"
+ },
+ {
+   "Nickname": "''I don't have a bird brain.''",
+   "Challenge": "Pick Portal Mastery. (Medivh)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMedivh": "Yes"
+ },
+ {
+   "Nickname": "''I still have a few tricks up my sleeve.''",
+   "Challenge": "Make an ally Invisible. (Medivh)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMedivh": "Yes"
+ },
+ {
+   "Nickname": "''Yours is a transparent stratagem.''",
+   "Challenge": "Find a hidden enemy in a bush. (Medivh)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMedivh": "Yes"
+ },
+ {
+   "Nickname": "''Get them, Snowball!''",
+   "Challenge": "Icing an enemy Hero into your Blizzard. (Mei)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsMei": "Yes"
+ },
+ {
+   "Nickname": "''Oh, a visitor! Hi!''",
+   "Challenge": "Find a hidden enemy Hero with Snow Blind. (Mei)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsMei": "Yes"
+ },
+ {
+   "Nickname": "''That's cold!''",
+   "Challenge": "Prevent lethal damage with Cryofreeze. (Mei)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsMei": "Yes"
+ },
+ {
+   "Nickname": "''We're not on ice yet!''",
+   "Challenge": "Obstruct an enemy Hero's escape route with Ice Wall and kill them before it expires. (Mei)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsMei": "Yes"
+ },
+ {
+   "Nickname": "''Its just science.''",
+   "Challenge": "Stasis multiple enemy Heroes at once. (Mei)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsMei": "Yes"
+ },
+ {
+   "Nickname": "''Get out of there! C'mon!''",
+   "Challenge": "Blind an enemy Hero 3 times in one fight. (Mei)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsMei": "Yes"
+ },
+ {
+   "Nickname": "''There you are... suffer!''",
+   "Challenge": "Kill an enemy Hero with Shade of Mephisto. (Mephisto)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsMephisto": "Yes"
+ },
+ {
+   "Nickname": "''Hatred is strength. Give in to it.''",
+   "Challenge": "Survive a teamfight where your Spite talent was active for its entirety. (Mephisto)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsMephisto": "Yes"
+ },
+ {
+   "Nickname": "''More suffering!''",
+   "Challenge": "Have a shield larger than your current hit points. (Mephisto)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsMephisto": "Yes"
+ },
+ {
+   "Nickname": "''None can hide from the Lord of Hatred!''",
+   "Challenge": "Kill an enemy Hero with Consume Souls. (Mephisto)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsMephisto": "Yes"
+ },
+ {
+   "Nickname": "''Know now, the indignity of imprisonment!''",
+   "Challenge": "Root 3 enemy Heroes with one Durance of Hate. (Mephisto)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsMephisto": "Yes"
+ },
+ {
+   "Nickname": "''Another of me? There are few things I could hate more.''",
+   "Challenge": "Swap places with your Shade. (Mephisto)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsMephisto": "Yes"
+ },
+ {
+   "Nickname": "''D-D-Divine Storm!: Muradin edition\"",
+   "Challenge": "Follow-up your Stun with your Stun with your Stun. (Muradin)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMuradin": "Yes"
+ },
+ {
+   "Nickname": "''Point me at 'em.''",
+   "Challenge": "Find a hidden enemy with Storm Bolt. (Muradin)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMuradin": "Yes"
+ },
+ {
+   "Nickname": "''Nothing stops a Bronzebeard!''",
+   "Challenge": "Escape enemy pursuers by jumping over terrain. (Muradin)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMuradin": "Yes"
+ },
+ {
+   "Nickname": "''Let's crack some skulls!''",
+   "Challenge": "Heal yourself with Thunderclap. (Muradin)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMuradin": "Yes"
+ },
+ {
+   "Nickname": "''Whew, that got out of hand quick.''",
+   "Challenge": "Refill your health in a teamfight and re-engage with Avatar. (Muradin)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMuradin": "Yes"
+ },
+ {
+   "Nickname": "''Alright, who wants some of this?''",
+   "Challenge": "Kill an enemy with Dwarf Toss. (Muradin)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMuradin": "Yes"
+ },
+ {
+   "Nickname": "Surfing the minion waves.",
+   "Challenge": "Kill an enemy wave before it reaches the middle of the map. (Murky)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMurky": "Yes"
+ },
+ {
+   "Nickname": "''Mother bird, but also a fish?''",
+   "Challenge": "Protect your Pufferfish by sitting on top of it. (Murky)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMurky": "Yes"
+ },
+ {
+   "Nickname": "''Just keep swimming!''",
+   "Challenge": "Escape two or more enemy Heroes with Safety Bubble. (Murky)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMurky": "Yes"
+ },
+ {
+   "Nickname": "Nomadic lifestyles.",
+   "Challenge": "Every time you respawn, move your egg. (Murky)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMurky": "Yes"
+ },
+ {
+   "Nickname": "''...and then I was slapped to death with a fish.''",
+   "Challenge": "Kill an enemy with Octograb. (Murky)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMurky": "Yes"
+ },
+ {
+   "Nickname": "''Maybe this is what Leoric is so upset about?''",
+   "Challenge": "Channel March of the Murlocs for 30 seconds. (Murky)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsMurky": "Yes"
+ },
+ {
+   "Nickname": "Oh, I forgot to set the Torment level.",
+   "Challenge": "Kill an enemy with the Spider Jar. (Spiders won't spawn!) (Nazeebo)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsNazeebo": "Yes"
+ },
+ {
+   "Nickname": "''I have a PhD in PvP.''",
+   "Challenge": "Trap an unstoppable enemy Hero within Zombie Wall. (Nazeebo)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsNazeebo": "Yes"
+ },
+ {
+   "Nickname": "''The spirits say it is not my time.''",
+   "Challenge": "Block a path with Zombie Wall. (Nazeebo)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsNazeebo": "Yes"
+ },
+ {
+   "Nickname": "''Shotgun Toads''",
+   "Challenge": "With one cast of Plague of Toads, hit the same Hero 3 times. (Nazeebo)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsNazeebo": "Yes"
+ },
+ {
+   "Nickname": "''Frogs don't give you warts, but this will!''",
+   "Challenge": "Find a hidden enemy Hero with Plague of Toads. (Nazeebo)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsNazeebo": "Yes"
+ },
+ {
+   "Nickname": "''Haha, yes!''",
+   "Challenge": "Fully channel your Ravenous Spirit during a teamfight. (Nazeebo)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsNazeebo": "Yes"
+ },
+ {
+   "Nickname": "''Keep the bullet to remember me by.''",
+   "Challenge": "Never lose your Snipe Master stacks. (Nova)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsNova": "Yes"
+ },
+ {
+   "Nickname": "''Got it anyway.''",
+   "Challenge": "Bribe an enemy camp twice in one game. (Nova)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsNova": "Yes"
+ },
+ {
+   "Nickname": "''#JustSamuroThings: Nova Edition''",
+   "Challenge": "Bait an enemy Heroic with a clone. (Nova)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsNova": "Yes"
+ },
+ {
+   "Nickname": "''Orbital cannon synchronized.''",
+   "Challenge": "Kill an enemy Hero you do not see on your monitor. (Nova)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsNova": "Yes"
+ },
+ {
+   "Nickname": "''Mobile Ward: Nova Edition''",
+   "Challenge": "Observe an enemy go past you whilst in true stealth. (Nova)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "ZergyMonster",
+   "IsNova": "Yes"
+ },
+ {
+   "Nickname": "''What can I say, I do have the best equipment.''",
+   "Challenge": "Kill an enemy Hero with your clone. (Nova)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsNova": "Yes"
+ },
+ {
+   "Nickname": "''Stay together now.''",
+   "Challenge": "Hit two enemy Heroes with one Crushing Jaws. (Orphea)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "N",
+   "Credit": "Stark",
+   "IsOrphea": "Yes"
+ },
+ {
+   "Nickname": "''Jaws of Life''",
+   "Challenge": "Save an allied Hero from enemy pursuers with Crushing Jaws. (Orphea)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "N",
+   "Credit": "chesslooter",
+   "IsOrphea": "Yes"
+ },
+ {
+   "Nickname": "''It's just what I imagined.''",
+   "Challenge": "Hit two enemy Heroes with one Chomp. (Orphea)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "N",
+   "Credit": "Stark",
+   "IsOrphea": "Yes"
+ },
+ {
+   "Nickname": "''Are you trying to show me up?''",
+   "Challenge": "Hit two enemy Heroes with one Shadow Waltz. (Orphea)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "N",
+   "Credit": "Stark",
+   "IsOrphea": "Yes"
+ },
+ {
+   "Nickname": "''You really want to see what I can do? Hmph.''",
+   "Challenge": "Survive a teamfight where 4 enemy Heroes die. (Orphea)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "N",
+   "Credit": "Stark",
+   "IsOrphea": "Yes"
+ },
+ {
+   "Nickname": "''You really don't want to know what's in the box.''",
+   "Challenge": "Get 50 stacks of Ravenous Hunger. (Orphea)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "N",
+   "Credit": "Stark",
+   "IsOrphea": "Yes"
+ },
+ {
+   "Nickname": "''Stark's patented Cannon Push''",
+   "Challenge": "Have two Photon Cannons active at once. (Probius)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsProbius": "Yes"
+ },
+ {
+   "Nickname": "''The Great Wall of Protoss... or something''",
+   "Challenge": "Have three Null Gates active at once. (Probius)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "TheLazyHydra",
+   "IsProbius": "Yes"
+ },
+ {
+   "Nickname": "HuK's Probe",
+   "Challenge": "Find a hidden enemy with Disruption Pulse. (Probius)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsProbius": "Yes"
+ },
+ {
+   "Nickname": "Battery Overcharge",
+   "Challenge": "Prevent lethal damage on an ally with Shield Battery. (Probius)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsProbius": "Yes"
+ },
+ {
+   "Nickname": "''Double Soak Simulator: Probius Edition''",
+   "Challenge": "Double soak with Turbo Charged. (Probius)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "TheLazyHydra",
+   "IsProbius": "Yes"
+ },
+ {
+   "Nickname": "''tahts halo dont worry o_o''",
+   "Challenge": "Ambush an enemy with hidden abilities. (Probius)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsProbius": "Yes"
+ },
+ {
+   "Nickname": "''A new trick in my arsenal.''",
+   "Challenge": "Reset your Heroic cooldown. (Qhira)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "N",
+   "Credit": "TheLazyHydra",
+   "IsQhira": "Yes"
+ },
+ {
+   "Nickname": "''My focus intensifies.''",
+   "Challenge": "Stun two enemy Heroes at once. (Qhira)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "N",
+   "Credit": "TheLazyHydra",
+   "IsQhira": "Yes"
+ },
+ {
+   "Nickname": "''All of you... and only one of me.''",
+   "Challenge": "Spread your bleed effect to 4 enemy Heroes at once. (Qhira)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "N",
+   "Credit": "TheLazyHydra",
+   "IsQhira": "Yes"
+ },
+ {
+   "Nickname": "''Take your time, these are your last moments after all.''",
+   "Challenge": "Use Revolving Sweep twice in one teamfight. (Qhira)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "N",
+   "Credit": "Stark",
+   "IsQhira": "Yes"
+ },
+ {
+   "Nickname": "''Let's see them escape me now.''",
+   "Challenge": "Kill an enemy Hero you cannot see. (Qhira)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "N",
+   "Credit": "Stark",
+   "IsQhira": "Yes"
+ },
+ {
+   "Nickname": "''No one gets away that easily.''",
+   "Challenge": "Escape from pursuers with Grappling Hook. (Qhira)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "N",
+   "Credit": "Stark",
+   "IsQhira": "Yes"
+ },
+ {
+   "Nickname": "''I SHALL CRUSH YOU FIRSTHAND! ...but from over here.''",
+   "Challenge": "Use Sulfuras Smash on an enemy Hero whilst in Molten Core. (Ragnaros)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "TheLazyHydra",
+   "IsRagnaros": "Yes"
+ },
+ {
+   "Nickname": "''WHAT IS THE MEANING OF THIS INTRUSION?''",
+   "Challenge": "Use Molten Core to save a fort from lethal damage. (Ragnaros)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "TheLazyHydra",
+   "IsRagnaros": "Yes"
+ },
+ {
+   "Nickname": "''Lava Ball!''",
+   "Challenge": "Kill an enemy Hero with Living Meteor. (Ragnaros)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsRagnaros": "Yes"
+ },
+ {
+   "Nickname": "''A GAME WITH AN ACRONYM LIKE \"HOTS\" SHOULD HAVE MORE FIRE IN IT. THAT'S WHY I'M HERE.''",
+   "Challenge": "Use Empower Sulfuras 3 times in one teamfight. (Ragnaros)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsRagnaros": "Yes"
+ },
+ {
+   "Nickname": "''THIS SERVANT IS FAILING ME! ASSIST THEM!''",
+   "Challenge": "Save an allied hero from danger with Blast Wave. (Ragnaros)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsRagnaros": "Yes"
+ },
+ {
+   "Nickname": "''TOO LONG! I HAVE WAITED TOO LONG!''",
+   "Challenge": "Chase an escaping hero with Blast Wave. (Ragnaros)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsRagnaros": "Yes"
+ },
+ {
+   "Nickname": "''One in the chamber.''",
+   "Challenge": "Interrupt a channelled ability with Penetrating Round. (Raynor)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsRaynor": "Yes"
+ },
+ {
+   "Nickname": "''Fusion Core Dance''",
+   "Challenge": "Hyperion must always Yamato Cannon a structure. (Raynor)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "TheLazyHydra",
+   "IsRaynor": "Yes"
+ },
+ {
+   "Nickname": "''You know you want a piece of ol' Jimmy.''",
+   "Challenge": "Fully heal yourself in a teamfight. (Raynor)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsRaynor": "Yes"
+ },
+ {
+   "Nickname": "''Raiders roll.''",
+   "Challenge": "Have 200 quest stacks. (Raynor)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "TheLazyHydra",
+   "IsRaynor": "Yes"
+ },
+ {
+   "Nickname": "''Wonder if Swann could make me one of those.''",
+   "Challenge": "Permanently Inspire every mercenary camp your team takes. (Raynor)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsRaynor": "Yes"
+ },
+ {
+   "Nickname": "''Fill 'em full of daylight!''",
+   "Challenge": "Use Penetrating Round 3 times in one teamfight. (Raynor)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsRaynor": "Yes"
+ },
+ {
+   "Nickname": "''The smart money's on me, whelp.''",
+   "Challenge": "Take a mercenary camp by yourself before your team hits level 4. (Rehgar)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "TheLazyHydra",
+   "IsRehgar": "Yes"
+ },
+ {
+   "Nickname": "''Mmm, I hate sitting on the sidelines.''",
+   "Challenge": "Purge an escaping enemy in order to catch and kill them. (Rehgar)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsRehgar": "Yes"
+ },
+ {
+   "Nickname": "''I'm a melee assassin!''",
+   "Challenge": "Only Ancestral yourself. (Rehgar)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsRehgar": "Yes"
+ },
+ {
+   "Nickname": "''Ancestors watch over you.''",
+   "Challenge": "Save an allied hero with Purge. (Rehgar)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "TheLazyHydra",
+   "IsRehgar": "Yes"
+ },
+ {
+   "Nickname": "''Bathe in the power of the Horde!''",
+   "Challenge": "Your team kills at least two enemy Heroes during one Bloodlust. (Rehgar)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsRehgar": "Yes"
+ },
+ {
+   "Nickname": "''Party Bush: Extreme''",
+   "Challenge": "Only cast Bloodlust when your entire team is in the same bush. (Rehgar)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsRehgar": "Yes"
+ },
+ {
+   "Nickname": "''Method Actor''",
+   "Challenge": "Die immediately after using Feign Death. (Rexxar)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "TheLazyHydra",
+   "IsRexxar": "Yes"
+ },
+ {
+   "Nickname": "''Regular Actor''",
+   "Challenge": "Escape death using Feign Death. (Rexxar)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "TheLazyHydra",
+   "IsRexxar": "Yes"
+ },
+ {
+   "Nickname": "I'm playing angry birds.",
+   "Challenge": "Find a hidden enemy with Spirit Swoop. (Rexxar)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsRexxar": "Yes"
+ },
+ {
+   "Nickname": "''Misha, here!''",
+   "Challenge": "Hold an objective point with Misha. (Rexxar)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsRexxar": "Yes"
+ },
+ {
+   "Nickname": "''Tear them apart, Misha!''",
+   "Challenge": "Win a teamfight without Rexxar auto attacking any Heroes. (Rexxar)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "TheLazyHydra",
+   "IsRexxar": "Yes"
+ },
+ {
+   "Nickname": "''Suppression Pulse''",
+   "Challenge": "Cast Flare off cooldown, declaring that the enemy team is all blinded in voice chat. (Rexxar)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsRexxar": "Yes"
+ },
+ {
+   "Nickname": "''Learn to play Samuro''",
+   "Challenge": "Play Samuro, but don't pick Bladestorm. (Samuro)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsSamuro": "Yes"
+ },
+ {
+   "Nickname": "''Mobile Ward: Samuro Edition''",
+   "Challenge": "Observe an enemy hero go past you whilst in true stealth. (Samuro)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "ZergyMonster",
+   "IsSamuro": "Yes"
+ },
+ {
+   "Nickname": "''Blademaster vanish!''",
+   "Challenge": "Teleport over terrain with Shukuchi. (Samuro)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsSamuro": "Yes"
+ },
+ {
+   "Nickname": "''Hearth Trick 1.0''",
+   "Challenge": "Shift queue your Image Transmission to a clone after Hearthstoning. (Samuro)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsSamuro": "Yes"
+ },
+ {
+   "Nickname": "''Hearth Trick 2.0: Instant Mount''",
+   "Challenge": "Shift queue your Image Transmission to a clone after Hearthstoning, then tap Mount when you return. Instant Mount! (Samuro)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsSamuro": "Yes"
+ },
+ {
+   "Nickname": "''Strike unseen.''",
+   "Challenge": "Only control your clones during a teamfight. (Samuro)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsSamuro": "Yes"
+ },
+ {
+   "Nickname": "''She's a beaut, ain't she?''",
+   "Challenge": "Fully stealth at an objective before it spawns using Ambush. (Sgt. Hammer)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "TheLazyHydra",
+   "IsSgt.Hammer": "Yes"
+ },
+ {
+   "Nickname": "''Blast that sucker to pieces!''",
+   "Challenge": "Kill an enemy Hero with Spider Mines. (Sgt. Hammer)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsSgt.Hammer": "Yes"
+ },
+ {
+   "Nickname": "''Just got 'er washed.''",
+   "Challenge": "Use your Unstoppable to prevent enemy CC. (Sgt. Hammer)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "TheLazyHydra",
+   "IsSgt.Hammer": "Yes"
+ },
+ {
+   "Nickname": "''Move it or lose it!''",
+   "Challenge": "Kill an enemy Hero without using Siege Mode. (Sgt. Hammer)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsSgt.Hammer": "Yes"
+ },
+ {
+   "Nickname": "''This'll be a blast.''",
+   "Challenge": "Block a passage with Barricade. (Sgt. Hammer)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsSgt.Hammer": "Yes"
+ },
+ {
+   "Nickname": "''It's what I do.''",
+   "Challenge": "Win a teamfight in Siege Mode by only A-Moving once. (Sgt. Hammer)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsSgt.Hammer": "Yes"
+ },
+ {
+   "Nickname": "''The Ancients grant me strength.''",
+   "Challenge": "Kill an enemy Hero with Ancient Spear. (Sonya)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsSonya": "Yes"
+ },
+ {
+   "Nickname": "''Feel the fury of Arreat!''",
+   "Challenge": "Kill a secondary Hero with Slam. (Sonya)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "TheLazyHydra",
+   "IsSonya": "Yes"
+ },
+ {
+   "Nickname": "''Aa-ah!''",
+   "Challenge": "Leap into an enemy camp to steal it. (Sonya)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsSonya": "Yes"
+ },
+ {
+   "Nickname": "''Have you no pride? Fight!''",
+   "Challenge": "Escape enemy pursuers using Mystical Spear over terrain. (Sonya)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsSonya": "Yes"
+ },
+ {
+   "Nickname": "''I shall meet death head on!''",
+   "Challenge": "Engage with Composite Spear. (Sonya)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsSonya": "Yes"
+ },
+ {
+   "Nickname": "''None may stand against me.''",
+   "Challenge": "Take a camp before level 4. (Sonya)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsSonya": "Yes"
+ },
+ {
+   "Nickname": "''You... need heal! Go to Fountain.''",
+   "Challenge": "Save an ally with Helping Hand. (Stitches)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "TheLazyHydra",
+   "IsStitches": "Yes"
+ },
+ {
+   "Nickname": "''You hurt bad. Should heal now.''",
+   "Challenge": "Save an ally with Master Hooker. (Stitches)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsStitches": "Yes"
+ },
+ {
+   "Nickname": "''Ready to play?''",
+   "Challenge": "Hook a Hero across terrain. (Stitches)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "TheLazyHydra",
+   "IsStitches": "Yes"
+ },
+ {
+   "Nickname": "''Stitches back for more!''",
+   "Challenge": "Increase your speed beyond mount speed. (Stitches)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsStitches": "Yes"
+ },
+ {
+   "Nickname": "''Stitches gonna find you!''",
+   "Challenge": "Hook an enemy Hero you cannot see. (Stitches)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsStitches": "Yes"
+ },
+ {
+   "Nickname": "''Ha! Nothing stop Stitches.''",
+   "Challenge": "Have 40+ armor before level 4. (Stitches)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsStitches": "Yes"
+ },
+ {
+   "Nickname": "''LOW BLOW! LOW BLOW!''",
+   "Challenge": "Say Low Blow whenever you see someone taking Low Blow damage. (Stukov)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "TheLazyHydra",
+   "IsStukov": "Yes"
+ },
+ {
+   "Nickname": "''Just like duck hunting.''",
+   "Challenge": "Kill an enemy with Weighted Pustule. (Stukov)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsStukov": "Yes"
+ },
+ {
+   "Nickname": "''There is nowhere I can not reach.''",
+   "Challenge": "Massive Shove an enemy Hero behind one of their structures. (Stukov)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "TheLazyHydra",
+   "IsStukov": "Yes"
+ },
+ {
+   "Nickname": "''Extra Controlled Chaos''",
+   "Challenge": "Use Flailing Swipe in a teamfight, then pick Controlled Chaos. (Stukov)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsStukov": "Yes"
+ },
+ {
+   "Nickname": "''Stukov is OP 1.0''",
+   "Challenge": "Root two enemy Heroes in one Lurking Arm. (Stukov)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsStukov": "Yes"
+ },
+ {
+   "Nickname": "''Stukov is OP 2.0''",
+   "Challenge": "Use Lurking Arm 4 times in one teamfight. (Stukov)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsStukov": "Yes"
+ },
+ {
+   "Nickname": "''Hear the Banshee Queen.''",
+   "Challenge": "Have at least one stack of Banshee's Curse on every enemy Hero at once. (Sylvanas)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsSylvanas": "Yes"
+ },
+ {
+   "Nickname": "''You toy with a power you cannot comprehend.''",
+   "Challenge": "Have 3 stacks of Banshee's Curse on every enemy Hero at once. (Sylvanas)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "TheLazyHydra",
+   "IsSylvanas": "Yes"
+ },
+ {
+   "Nickname": "''Sylvanas WINTrunner''",
+   "Challenge": "Only use Haunting Wave towards enemy Heroes. (Sylvanas)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "TheLazyHydra",
+   "IsSylvanas": "Yes"
+ },
+ {
+   "Nickname": "''Such a feeble mind.''",
+   "Challenge": "Interrupt a channelled ability using your Heroic. (Sylvanas)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsSylvanas": "Yes"
+ },
+ {
+   "Nickname": "''Serve the Dark Lady!''",
+   "Challenge": "Land two Mind Controls in one teamfight. (Sylvanas)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "TheLazyHydra",
+   "IsSylvanas": "Yes"
+ },
+ {
+   "Nickname": "''My will is my own.''",
+   "Challenge": "Cleanse yourself from CC. (Sylvanas)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsSylvanas": "Yes"
+ },
+ {
+   "Nickname": "''Barrier formed!''",
+   "Challenge": "Kill an enemy blocked by Force Wall. (Tassadar)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsTassadar": "Yes"
+ },
+ {
+   "Nickname": "''Tassadar's true Mage experience''",
+   "Challenge": "Win a game without picking any talents or Heroics that give you healing, shielding or armor. (Tassadar)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "TheLazyHydra",
+   "IsTassadar": "Yes"
+ },
+ {
+   "Nickname": "''It is destined.''",
+   "Challenge": "Kill an enemy behind their structures. (Tassadar)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsTassadar": "Yes"
+ },
+ {
+   "Nickname": "''I suppose I could use this time to meditate.''",
+   "Challenge": "Win a teamfight without issuing move commands. (Tassadar)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "TheLazyHydra",
+   "IsTassadar": "Yes"
+ },
+ {
+   "Nickname": "''Void and Khala as one!''",
+   "Challenge": "Pick and never drop Twilight Archon. (Tassadar)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsTassadar": "Yes"
+ },
+ {
+   "Nickname": "''Lore accuracy: Tassadar Edition''",
+   "Challenge": "Win a teamfight where the only allied death is Tassadar. (Tassadar)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "TheLazyHydra",
+   "IsTassadar": "Yes"
+ },
+ {
+   "Nickname": "''My Meat senses are tingling''",
+   "Challenge": "Lamb to the Slaughter an enemy Hero you cannot see. (The Butcher)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsTheButcher": "Yes"
+ },
+ {
+   "Nickname": "''They should have had at least 55 Dexterity.''",
+   "Challenge": "Solo a boss. (The Butcher)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "TheLazyHydra",
+   "IsTheButcher": "Yes"
+ },
+ {
+   "Nickname": "''Where is Archbishop Lazarus? He was meant to be here by now!''",
+   "Challenge": "Finish Fresh Meat without picking up Hero meat. (The Butcher)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsTheButcher": "Yes"
+ },
+ {
+   "Nickname": "''Man vs Food: Any%''",
+   "Challenge": "Finish Fresh Meat before level 10. (The Butcher)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsTheButcher": "Yes"
+ },
+ {
+   "Nickname": "''I've had enough of this ''Cast Firewall + shut my door'' cheese!''",
+   "Challenge": "Hit the same enemy Hero with Furnace Blast twice in one teamfight. (The Butcher)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsTheButcher": "Yes"
+ },
+ {
+   "Nickname": "''Oh you're not glitching me on the stairs again.''",
+   "Challenge": "Use Ruthless Onslaught to escape pursuers. (The Butcher)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsTheButcher": "Yes"
+ },
+ {
+   "Nickname": "''Huh? And what kind of Viking are you?''",
+   "Challenge": "Bribe an enemy camp. (The Lost Vikings)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "N",
+   "Credit": "Stark",
+   "IsTheLostVikings": "Yes"
+ },
+ {
+   "Nickname": "''Well, at least I have infinite lives in this game.''",
+   "Challenge": "Self-Cleanse a Viking. (The Lost Vikings)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "N",
+   "Credit": "Stark",
+   "IsTheLostVikings": "Yes"
+ },
+ {
+   "Nickname": "''Hope you wrote down the level's password!''",
+   "Challenge": "Nominate a Viking who cannot die for the entire game. Make sure they don't die. (The Lost Vikings)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "N",
+   "Credit": "TheLazyHydra",
+   "IsTheLostVikings": "Yes"
+ },
+ {
+   "Nickname": "''Valhalla rises.''",
+   "Challenge": "Have seven Vikings present in one teamfight. (The Lost Vikings)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "N",
+   "Credit": "Stark",
+   "IsTheLostVikings": "Yes"
+ },
+ {
+   "Nickname": "''By the power of Odin!''",
+   "Challenge": "Soak 25,000 experience in a game. (The Lost Vikings)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "N",
+   "Credit": "Stark",
+   "IsTheLostVikings": "Yes"
+ },
+ {
+   "Nickname": "''I gotta put that on Lifestyles of the Large and Bearded!''",
+   "Challenge": "100-0 an enemy Hero. (Kill them without assistance) (The Lost Vikings)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "N",
+   "Credit": "Stark",
+   "IsTheLostVikings": "Yes"
+ },
+ {
+   "Nickname": "''The spirits are restless.''",
+   "Challenge": "Root 5 enemy Heroes in one teamfight. (Thrall)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsThrall": "Yes"
+ },
+ {
+   "Nickname": "Not a questgiver any longer.",
+   "Challenge": "Win without taking any quest talents. (Thrall)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "TheLazyHydra",
+   "IsThrall": "Yes"
+ },
+ {
+   "Nickname": "''The elements rise against you!''",
+   "Challenge": "Kill an enemy blocked by Worldbreaker. (Thrall)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsThrall": "Yes"
+ },
+ {
+   "Nickname": "''Earth, swallow my enemies!''",
+   "Challenge": "Knock an enemy towards your team with Sundering. (Thrall)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsThrall": "Yes"
+ },
+ {
+   "Nickname": "''The elements will destroy you.''",
+   "Challenge": "Kill an enemy with a Chain Lightning bounce. (Thrall)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsThrall": "Yes"
+ },
+ {
+   "Nickname": "''Power of the Horde!''",
+   "Challenge": "Wind Rush into the enemy team before using your Heroic. (Thrall)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "TheLazyHydra",
+   "IsThrall": "Yes"
+ },
+ {
+   "Nickname": "''Ever get that feeling of deja vu?''",
+   "Challenge": "Hit Locked and Loaded 5 times in a row. (Tracer)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "TheLazyHydra",
+   "IsTracer": "Yes"
+ },
+ {
+   "Nickname": "''You need a time out!''",
+   "Challenge": "Knock an enemy into your team with Get Stuffed! (Tracer)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsTracer": "Yes"
+ },
+ {
+   "Nickname": "''A gift in the present''",
+   "Challenge": "Kill an enemy Hero with Parting Gift. (Tracer)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsTracer": "Yes"
+ },
+ {
+   "Nickname": "''Locked on!''",
+   "Challenge": "Kill an enemy Hero slowed by Sticky Bomb. (Tracer)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsTracer": "Yes"
+ },
+ {
+   "Nickname": "''Let's try that again!''",
+   "Challenge": "Bait an enemy engagement with Recall. (Tracer)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsTracer": "Yes"
+ },
+ {
+   "Nickname": "''Hah, smashin'!''",
+   "Challenge": "Use two Pulse Bombs in one teamfight. (Tracer)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsTracer": "Yes"
+ },
+ {
+   "Nickname": "''When in doubt, empty your magazine''",
+   "Challenge": "Finish Master Assassin. (Tychus)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsTychus": "Yes"
+ },
+ {
+   "Nickname": "''Hey freak! Catch!''",
+   "Challenge": "Kill an enemy Hero with Frag Grenade. (Tychus)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsTychus": "Yes"
+ },
+ {
+   "Nickname": "''Walk the walk.''",
+   "Challenge": "Get 100 stacks of In the Rhythm. (Tychus)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsTychus": "Yes"
+ },
+ {
+   "Nickname": "''Full auto.''",
+   "Challenge": "Use Minigun twice in one teamfight. (Tychus)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsTychus": "Yes"
+ },
+ {
+   "Nickname": "''Now how'd I miss this button with a skull on it?''",
+   "Challenge": "Kill an enemy Hero with a Nuclear Missile. (Tychus)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsTychus": "Yes"
+ },
+ {
+   "Nickname": "''Uh, Jimmy? There's no artifact fragment in here.''",
+   "Challenge": "Kill an enemy Hero with Drakken Laser Drill. (Tychus)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsTychus": "Yes"
+ },
+ {
+   "Nickname": "''I can smell you sins from here, mortal.''",
+   "Challenge": "Find a hidden enemy with El'druin's Might. (Tyrael)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsTyrael": "Yes"
+ },
+ {
+   "Nickname": "''Stand still and face your judgment.''",
+   "Challenge": "Block an enemy escape path with Holy Ground and kill an enemy Hero with it. (Tyrael)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsTyrael": "Yes"
+ },
+ {
+   "Nickname": "''Embrace judgment!''",
+   "Challenge": "Use Judgement on every enemy Hero at least once. (Tyrael)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsTyrael": "Yes"
+ },
+ {
+   "Nickname": "''Defensive shielding online!''",
+   "Challenge": "Prevent damage from an enemy Heroic ability using Sanctification. (Tyrael)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsTyrael": "Yes"
+ },
+ {
+   "Nickname": "''Not even death impedes justice.''",
+   "Challenge": "Win a teamfight where the only allied death is Tyrael. (Tyrael)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsTyrael": "Yes"
+ },
+ {
+   "Nickname": "Bring back Even in Death!",
+   "Challenge": "Kill an enemy Hero with Archangel's Wrath. (Tyrael)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsTyrael": "Yes"
+ },
+ {
+   "Nickname": "''Elune hides me, not you.''",
+   "Challenge": "Find a hidden enemy Hero with Sentinel. (Tyrande)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsTyrande": "Yes"
+ },
+ {
+   "Nickname": "''We meld with the shadow!''",
+   "Challenge": "Ambush and kill an enemy Hero using Shadowstalk. (Tyrande)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsTyrande": "Yes"
+ },
+ {
+   "Nickname": "''Burn with the goddess' light!''",
+   "Challenge": "Finish Lunar Blaze. (Tyrande)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsTyrande": "Yes"
+ },
+ {
+   "Nickname": "''Feel the wrath of the heavens!''",
+   "Challenge": "Follow-up your Sentinel or Lunar Flare with the same ability on the same enemy Hero. (Tyrande)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsTyrande": "Yes"
+ },
+ {
+   "Nickname": "''Elune, I choose you!''",
+   "Challenge": "Keep an ally alive using Elune's Chosen. (Tyrande)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsTyrande": "Yes"
+ },
+ {
+   "Nickname": "''Chymo's Tyrande Standards''",
+   "Challenge": "Outdamage your Ranged Assassins when the game is over. (Tyrande)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsTyrande": "Yes"
+ },
+ {
+   "Nickname": "''I'm getting too old for this.''",
+   "Challenge": "Kill an enemy Hero with Holy Shock. (Uther)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsUther": "Yes"
+ },
+ {
+   "Nickname": "''The Light shines on us all.''",
+   "Challenge": "Find a hidden enemy Hero with Holy Radiance. (Uther)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsUther": "Yes"
+ },
+ {
+   "Nickname": "''Fear not, the Light is with you!''",
+   "Challenge": "Affect 15 targets with one Holy Radiance. (Uther)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsUther": "Yes"
+ },
+ {
+   "Nickname": "''Today, I'm Uther the Painbringer!''",
+   "Challenge": "Stun an enemy Melee Assassin as soon as they engage on your team. (Uther)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsUther": "Yes"
+ },
+ {
+   "Nickname": "''I'd head to a healing fountain if I were me.''",
+   "Challenge": "Win a teamfight where the only allied death is Uther. (Uther)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsUther": "Yes"
+ },
+ {
+   "Nickname": "''Divine Storm!''",
+   "Challenge": "Stun 3 enemy Heroes at once. (Uther)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsUther": "Yes"
+ },
+ {
+   "Nickname": "''Mobile Ward: Valeera Edition''",
+   "Challenge": "Observe an enemy hero go past you whilst in true stealth. (Valeera)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "ZergyMonster",
+   "IsValeera": "Yes"
+ },
+ {
+   "Nickname": "''Now you're thinking like a rogue!''",
+   "Challenge": "100-0 an enemy Hero. (Kill them without assistance) (Valeera)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsValeera": "Yes"
+ },
+ {
+   "Nickname": "''Hope you like blinding powder.''",
+   "Challenge": "Survive a teamfight where Smoke Bomb is used. (Valeera)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsValeera": "Yes"
+ },
+ {
+   "Nickname": "''I'm gone!''",
+   "Challenge": "Escape pursuers using Vanish. (Valeera)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsValeera": "Yes"
+ },
+ {
+   "Nickname": "''Completely worth it.''",
+   "Challenge": "Upgrade Sinister Strike and Ambush twice in the same game. (Valeera)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsValeera": "Yes"
+ },
+ {
+   "Nickname": "''Shadows envelop me!''",
+   "Challenge": "Bait an enemy engage with Cloak of Shadows. (Valeera)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsValeera": "Yes"
+ },
+ {
+   "Nickname": "''No mercy for the wicked.''",
+   "Challenge": "Strafe for 10 seconds. (Valla)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsValla": "Yes"
+ },
+ {
+   "Nickname": "''Bleed, you filth.''",
+   "Challenge": "Use Hungering Arrow 4 times in one teamfight. (Valla)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsValla": "Yes"
+ },
+ {
+   "Nickname": "''The path leads this way.''",
+   "Challenge": "Get a Vault reset from an enemy Hero. (Valla)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsValla": "Yes"
+ },
+ {
+   "Nickname": "''I'm ready to continue the hunt.''",
+   "Challenge": "Survive a teamfight where Gloom is activated. (Valla)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsValla": "Yes"
+ },
+ {
+   "Nickname": "''Vengeance is mine.''",
+   "Challenge": "Get 20 stacks of Fire At Will before level 10. (Valla)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsValla": "Yes"
+ },
+ {
+   "Nickname": "''Let none survive... except me.''",
+   "Challenge": "Never lose any Creed of the Hunter stacks. (Valla)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsValla": "Yes"
+ },
+ {
+   "Nickname": "''On the winds of the storm.''",
+   "Challenge": "Escape from enemy pursuers using Warbringer. (Varian)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsVarian": "Yes"
+ },
+ {
+   "Nickname": "''Wisdom of the Kirin Tor.''",
+   "Challenge": "Find an enemy Hero using a Banner. (Varian)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsVarian": "Yes"
+ },
+ {
+   "Nickname": "''Face me!''",
+   "Challenge": "Find an enemy Hero using Lion's Fang. (Varian)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsVarian": "Yes"
+ },
+ {
+   "Nickname": "''No potions!''",
+   "Challenge": "Kill an enemy Hero while they are Taunted. (Varian)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsVarian": "Yes"
+ },
+ {
+   "Nickname": "''Strength forged in iron.''",
+   "Challenge": "Survive lethal damage with Shield Wall. (Varian)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsVarian": "Yes"
+ },
+ {
+   "Nickname": "''Your defenses are nothing!''",
+   "Challenge": "Delete a shield with Shattering Throw. (Varian)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsVarian": "Yes"
+ },
+ {
+   "Nickname": "''We are unbreakable!''",
+   "Challenge": "Keep an ally alive while an enemy engages on them. (Whitemane)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsWhitemane": "Yes"
+ },
+ {
+   "Nickname": "''The devout shall be rewarded.''",
+   "Challenge": "Subjugate an enemy Hero using Clemency. (Not Inquisition) (Whitemane)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsWhitemane": "Yes"
+ },
+ {
+   "Nickname": "''Uncivilized brutes!''",
+   "Challenge": "Hit 3 enemy Heroes with one Searing Lash. (Whitemane)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsWhitemane": "Yes"
+ },
+ {
+   "Nickname": "''Repent, then you may die!''",
+   "Challenge": "Use Searing Lash 3 times in one teamfight. (Whitemane)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsWhitemane": "Yes"
+ },
+ {
+   "Nickname": "''The Light shall protect you, champions!''",
+   "Challenge": "Survive a teamfight where you affected all allies with Scarlet Aegis. (Whitemane)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsWhitemane": "Yes"
+ },
+ {
+   "Nickname": "''Let corruption know the flame!''",
+   "Challenge": "Kill an enemy Hero while Purge the Wicked affects them. (Whitemane)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsWhitemane": "Yes"
+ },
+ {
+   "Nickname": "''Death? I am the master of death.''",
+   "Challenge": "Kill an engaging enemy with Bone Prison and Backlash. (Xul)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsXul": "Yes"
+ },
+ {
+   "Nickname": "''Now that I shall savor.''",
+   "Challenge": "Survive a teamfight with Harvest Vitality. (Xul)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsXul": "Yes"
+ },
+ {
+   "Nickname": "''So that's what death feels like... I miss it already.''",
+   "Challenge": "Prevent lethal damage with Wall of Bones. (Xul)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsXul": "Yes"
+ },
+ {
+   "Nickname": "''Befouled breath of the lifeless.''",
+   "Challenge": "Use two Poison Novas in one teamfight. (Xul)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsXul": "Yes"
+ },
+ {
+   "Nickname": "''chesslooter's second favourite talent in the game''",
+   "Challenge": "Pick Bone Spear. (Xul)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsXul": "Yes"
+ },
+ {
+   "Nickname": "''Do not let death defeat you. Use it and take revenge.''",
+   "Challenge": "Escape enemy pursuers using Decrepify. (Xul)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "D",
+   "Credit": "Stark",
+   "IsXul": "Yes"
+ },
+ {
+   "Nickname": "''Light, guide my hand!''",
+   "Challenge": "Escape enemy pursuers using Avenging Wrath over terrain. (Yrel)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsYrel": "Yes"
+ },
+ {
+   "Nickname": "''The Naaru are with me!''",
+   "Challenge": "Survive a teamfight where you used Sacred Ground. (Yrel)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsYrel": "Yes"
+ },
+ {
+   "Nickname": "Mario simulator",
+   "Challenge": "Use Avenging Wrath 3 times in a teamfight. (Yrel)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsYrel": "Yes"
+ },
+ {
+   "Nickname": "''There is still much to learn.''",
+   "Challenge": "Cleanse an ally of CC. (Yrel)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsYrel": "Yes"
+ },
+ {
+   "Nickname": "''The burden is mine to bear!''",
+   "Challenge": "Survive lethal tower shots with Ardent Defender. (Yrel)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsYrel": "Yes"
+ },
+ {
+   "Nickname": "''My faith is rewarded.''",
+   "Challenge": "Heal another allied Hero. (Yrel)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsYrel": "Yes"
+ },
+ {
+   "Nickname": "''Know our hunger.''",
+   "Challenge": "Hit two enemy Heroes with one Devouring Maw. (Zagara)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsZagara": "Yes"
+ },
+ {
+   "Nickname": "They should have played Marine Split Challenge",
+   "Challenge": "Kill an enemy Hero with Banelings. (Zagara)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsZagara": "Yes"
+ },
+ {
+   "Nickname": "''So so so so so many Banelings!''",
+   "Challenge": "Launch 10 Banelings in one teamfight. (Zagara)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsZagara": "Yes"
+ },
+ {
+   "Nickname": "''I'm going Roach Hydra''",
+   "Challenge": "Kill an enemy Hero with your Hunter Killers and Roachlings alone. (Zagara)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsZagara": "Yes"
+ },
+ {
+   "Nickname": "''Or just take Medusa Blades.''",
+   "Challenge": "Get 100 stacks of Serrated Spines. (Zagara)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsZagara": "Yes"
+ },
+ {
+   "Nickname": "Just play like Scarlett 4Head",
+   "Challenge": "Put Creep in the enemy base with Endless Creep. (Zagara)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsZagara": "Yes"
+ },
+ {
+   "Nickname": "''Is that all you've got?''",
+   "Challenge": "Kill an enemy Hero with Particle Grenade. (Zarya)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsZarya": "Yes"
+ },
+ {
+   "Nickname": "''Don't be shy. Hit me!''",
+   "Challenge": "Find an enemy Hero with Particle Grenade. (Zarya)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsZarya": "Yes"
+ },
+ {
+   "Nickname": "''Maximum charge!''",
+   "Challenge": "Finish Maximum Charge without dropping below 50 energy. (Zarya)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsZarya": "Yes"
+ },
+ {
+   "Nickname": "''Barrier's on you, go!''",
+   "Challenge": "Speed Barrier an allied engager when they get dismounted. (Zarya)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsZarya": "Yes"
+ },
+ {
+   "Nickname": "''Feel the gravity!''",
+   "Challenge": "Use Expulsion Zone on an escape route to kill an enemy Hero. (Zarya)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsZarya": "Yes"
+ },
+ {
+   "Nickname": "''Give me your best shot.''",
+   "Challenge": "Give yourself 75 Armor. (Zarya)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "O",
+   "Credit": "Stark",
+   "IsZarya": "Yes"
+ },
+ {
+   "Nickname": "''Zerashk Gulida!''",
+   "Challenge": "Use 3 Cleaves in one teamfight. (Zeratul)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsZeratul": "Yes"
+ },
+ {
+   "Nickname": "''Oblivion descends.''",
+   "Challenge": "Use Vorpal Blade 3 times in one teamfight. (Zeratul)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsZeratul": "Yes"
+ },
+ {
+   "Nickname": "''The dark templar rise against you.''",
+   "Challenge": "Use Blink twice before using Wormhole. (Zeratul)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsZeratul": "Yes"
+ },
+ {
+   "Nickname": "''Mobile Ward: Zeratul Edition''",
+   "Challenge": "Observe an enemy hero go past you whilst in true stealth. (Zeratul)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "ZergyMonster",
+   "IsZeratul": "Yes"
+ },
+ {
+   "Nickname": "Demoted to killing workers again",
+   "Challenge": "Solo a camp. (Zeratul)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsZeratul": "Yes"
+ },
+ {
+   "Nickname": "''Shadow, guide my blade.''",
+   "Challenge": "100-0 an enemy Hero. (Kill them without assistance) (Zeratul)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "S",
+   "Credit": "Stark",
+   "IsZeratul": "Yes"
+ },
+ {
+   "Nickname": "''Say hello to my little friend.''",
+   "Challenge": "Kill an enemy trapped in your net. (Zul'jin)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsZul'jin": "Yes"
+ },
+ {
+   "Nickname": "''I think they might not want axe any more.''",
+   "Challenge": "Finish You Want Axe? before you pick Arcanite Axes. (Zul'jin)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsZul'jin": "Yes"
+ },
+ {
+   "Nickname": "''Here come da big axe!''",
+   "Challenge": "Kill two enemy Heroes with Guillotine. (Zul'jin)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsZul'jin": "Yes"
+ },
+ {
+   "Nickname": "''Mmm. Love dat healing mojo.''",
+   "Challenge": "Cleanse yourself. (Zul'jin)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsZul'jin": "Yes"
+ },
+ {
+   "Nickname": "''Let da killing begin!''",
+   "Challenge": "Always activate Berserker in a teamfight. (Zul'jin)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsZul'jin": "Yes"
+ },
+ {
+   "Nickname": "''Da Amani di chuka!''",
+   "Challenge": "Get 300 stacks of You Want Axe? (Zul'jin)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Universe": "W",
+   "Credit": "Stark",
+   "IsZul'jin": "Yes"
  }
 ]
