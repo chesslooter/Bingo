@@ -353,7 +353,6 @@
    "Category": "Map specific",
    "Difficulty": 1,
    "Player count": "Singleplayer",
-   "IsCustom": "Yes",
    "IsQuickMaps": "Yes",
    "Credit": "Stark"
  },
@@ -396,7 +395,6 @@
    "Category": "Map specific",
    "Difficulty": 1,
    "Player count": "Singleplayer",
-   "IsCustom": "Yes",
    "IsQuickMaps": "Yes",
    "IsRankedMaps": "Yes",
    "Credit": "Stark"
@@ -407,7 +405,6 @@
    "Category": "Map specific",
    "Difficulty": 1,
    "Player count": "Singleplayer",
-   "IsCustom": "Yes",
    "IsQuickMaps": "Yes",
    "IsRankedMaps": "Yes",
    "Credit": "Stark"
@@ -480,7 +477,6 @@
    "Category": "Map specific",
    "Difficulty": 1,
    "Player count": "Singleplayer",
-   "IsCustom": "Yes",
    "IsQuickMaps": "Yes",
    "IsRankedMaps": "Yes",
    "Credit": "Stark"
@@ -564,7 +560,6 @@
    "Source": "HeroesBingoData.json",
    "Category": "Map specific",
    "Player count": "Multiplayer",
-   "IsCustom": "Yes",
    "IsQuickMaps": "Yes",
    "Credit": "Stark"
  },
@@ -608,7 +603,6 @@
    "Source": "HeroesBingoData.json",
    "Category": "Map specific",
    "Player count": "Multiplayer",
-   "IsCustom": "Yes",
    "IsQuickMaps": "Yes",
    "IsRankedMaps": "Yes",
    "Credit": "Stark"
@@ -620,9 +614,16 @@
    "Category": "Map specific",
    "Universe": "O",
    "Player count": "Multiplayer",
-   "IsCustom": "Yes",
    "IsQuickMaps": "Yes",
    "IsRankedMaps": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''Nice bones.''",
+   "Challenge": "69 Skull Golem (Haunted Mines)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Map specific",
+   "Player count": "Multiplayer",
    "Credit": "Stark"
  },
  {
@@ -690,7 +691,6 @@
    "Category": "Map specific",
    "Universe": "S",
    "Player count": "Multiplayer",
-   "IsCustom": "Yes",
    "IsQuickMaps": "Yes",
    "IsRankedMaps": "Yes",
    "Credit": "Stark"
@@ -2025,7 +2025,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Season 4 confirmed!",
+   "Nickname": "Season 5 confirmed!",
    "Challenge": "Thanks, Jules <3",
    "Source": "HeroesBingoData.json",
    "Category": "CCL viewer",
@@ -2112,6 +2112,20 @@
    "Category": "CCL viewer",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Braxis Holdout picked",
+   "Source": "HeroesBingoData.json",
+   "Category": "Draft specific",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Braxis Holdout banned",
+   "Source": "HeroesBingoData.json",
+   "Category": "Draft specific",
+   "IsCustom": "Yes",
    "Credit": "Stark"
  },
  {
@@ -12294,7 +12308,7 @@
  },
  {
    "Nickname": "''I think they might not want axe any more.''",
-   "Challenge": "Finish You Want Axe? before you pick Arcanite Axes. (Zul'jin)",
+   "Challenge": "Finish You Want Axe?'s double revolving axes before you pick Arcanite Axes. (Zul'jin)",
    "Source": "HeroesBingoData.json",
    "Category": "Hero specific",
    "Universe": "W",
@@ -12422,7 +12436,7 @@
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
-   "Credit": "Stark"
+   "Credit": "Chymotrypsin"
  },
  {
    "Nickname": "''Killing Frenzy.''",
@@ -12433,7 +12447,7 @@
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
-   "Credit": "Stark"
+   "Credit": "Chymotrypsin"
  },
  {
    "Nickname": "''Running Riot.''",
@@ -12444,7 +12458,7 @@
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
-   "Credit": "Stark"
+   "Credit": "Chymotrypsin"
  },
  {
    "Nickname": "''Rampage.''",
@@ -12455,7 +12469,7 @@
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
-   "Credit": "Stark"
+   "Credit": "Chymotrypsin"
  },
  {
    "Nickname": "''Double Kill.''",
@@ -13369,7 +13383,6 @@
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
    "Difficulty": 3,
-   "IsSingleplayer": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -13379,7 +13392,6 @@
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
    "Difficulty": 4,
-   "IsSingleplayer": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -13389,7 +13401,6 @@
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
    "Difficulty": 5,
-   "IsSingleplayer": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -13399,7 +13410,6 @@
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
    "Difficulty": 5,
-   "IsSingleplayer": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -13409,7 +13419,6 @@
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
    "Difficulty": 5,
-   "IsSingleplayer": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -13419,7 +13428,6 @@
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
    "Difficulty": 5,
-   "IsSingleplayer": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -13429,7 +13437,6 @@
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
    "Difficulty": 5,
-   "IsSingleplayer": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -13439,7 +13446,6 @@
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
    "Difficulty": 5,
-   "IsSingleplayer": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -14381,7 +14387,7 @@
  },
  {
    "Nickname": "''Build your own Cho'Gall''",
-   "Challenge": "You and a consenting teammate cannot be a screen apart for more than 10 seconds at a time.",
+   "Challenge": "You and a consenting teammate cannot be a screen apart for more than 10 seconds at a time. (If you dislike this, reroll your bingo square!)",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "Difficulty": 3,
@@ -14597,5 +14603,211 @@
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Win with 0 Warcraft Heroes on your team",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 1,
+   "Universe": "W",
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsAramMaps": "Yes",
+   "IsQuickMaps": "Yes",
+   "IsRankedMaps": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Win with 0 StarCraft Heroes on your team",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 1,
+   "Universe": "S",
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsAramMaps": "Yes",
+   "IsQuickMaps": "Yes",
+   "IsRankedMaps": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Win with 0 Diablo Heroes on your team",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 1,
+   "Universe": "D",
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsAramMaps": "Yes",
+   "IsQuickMaps": "Yes",
+   "IsRankedMaps": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Win with 0 Overwatch Heroes on your team",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 1,
+   "Universe": "O",
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsAramMaps": "Yes",
+   "IsQuickMaps": "Yes",
+   "IsRankedMaps": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Win with 0 Nexus Heroes on your team",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 1,
+   "Universe": "N",
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsAramMaps": "Yes",
+   "IsQuickMaps": "Yes",
+   "IsRankedMaps": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Play with 0 Warcraft Heroes on your team",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 1,
+   "Universe": "W",
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsAramMaps": "Yes",
+   "IsQuickMaps": "Yes",
+   "IsRankedMaps": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Play with 0 StarCraft Heroes on your team",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 1,
+   "Universe": "S",
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsAramMaps": "Yes",
+   "IsQuickMaps": "Yes",
+   "IsRankedMaps": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Play with 0 Diablo Heroes on your team",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 1,
+   "Universe": "D",
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsAramMaps": "Yes",
+   "IsQuickMaps": "Yes",
+   "IsRankedMaps": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Play with 0 Overwatch Heroes on your team",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 1,
+   "Universe": "O",
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsAramMaps": "Yes",
+   "IsQuickMaps": "Yes",
+   "IsRankedMaps": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Play with 0 Nexus Heroes on your team",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 1,
+   "Universe": "N",
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsAramMaps": "Yes",
+   "IsQuickMaps": "Yes",
+   "IsRankedMaps": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''It was a tactical loss'' - Bahamut, 2022",
+   "Challenge": "Your Hero dies.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Bahamut"
+ },
+ {
+   "Nickname": "''#worth''",
+   "Challenge": "Someone dies in order to secure a kill.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "chesslooter"
+ },
+ {
+   "Nickname": "''NASL Sound Guy''",
+   "Challenge": "Play a game without game sound.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 2,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''Nature Documentary''",
+   "Challenge": "Narrate a teamfight as if you were covering a nature documentary",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 2,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "chesslooter"
+ },
+ {
+   "Nickname": "''Loremaster''",
+   "Challenge": "Document one lore-specific fact about your hero every time you get a kill.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 2,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "chesslooter"
+ },
+ {
+   "Nickname": "CC stacking",
+   "Challenge": "Every hero on your team must have the same type of CC by the end of the game. (example, 5 blinds, 5 slows)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 3,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Iron"
  }
 ]
