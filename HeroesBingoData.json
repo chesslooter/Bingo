@@ -14809,5 +14809,18 @@
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Iron"
+ },
+ {
+   "Nickname": "Chat Challenge",
+   "Challenge": "Ask a chat \"What HOTS Hero/Build should I play?\" and play the first actual answer.  (Ignore party members and ok if no build)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsQuickMaps": "Yes",
+   "IsRankedMaps": "Yes",
+   "Credit": "Shuman"
  }
 ]
