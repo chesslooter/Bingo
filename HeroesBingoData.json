@@ -783,7 +783,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Try this wombo: ''Holy Cow''",
+   "Nickname": "Try this wombo: ''The Holy Cow''",
    "Challenge": "Divine Shield + Mosh Pit. (Uther + ETC)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
@@ -9252,7 +9252,7 @@
  },
  {
    "Nickname": "''Now I am complete!''",
-   "Challenge": "Dodge fatal damage with Metamorphasis. (Illidan)",
+   "Challenge": "Dodge fatal damage with Metamorphosis. (Illidan)",
    "Source": "HeroesBingoData.json",
    "Category": "Hero specific",
    "Universe": "W",
@@ -12835,9 +12835,6 @@
    "IsSingleplayer": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
    "Credit": "Stark"
  },
  {
@@ -12848,9 +12845,6 @@
    "Player count": "Multiplayer",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
    "Credit": "Stark"
  },
  {
@@ -12861,9 +12855,6 @@
    "Player count": "Multiplayer",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
    "Credit": "Stark"
  },
  {
@@ -12874,9 +12865,6 @@
    "Player count": "Multiplayer",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
    "Credit": "Stark"
  },
  {
@@ -12888,9 +12876,6 @@
    "IsSingleplayer": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
    "Credit": "Stark"
  },
  {
@@ -12901,9 +12886,6 @@
    "Player count": "Multiplayer",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
    "Credit": "Stark"
  },
  {
@@ -12914,9 +12896,6 @@
    "Player count": "Multiplayer",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
    "Credit": "Stark"
  },
  {
@@ -12927,9 +12906,6 @@
    "Player count": "Multiplayer",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
    "Credit": "Stark"
  },
  {
@@ -12941,9 +12917,6 @@
    "IsSingleplayer": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
    "Credit": "Stark"
  },
  {
@@ -12954,9 +12927,6 @@
    "Player count": "Multiplayer",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
    "Credit": "Stark"
  },
  {
@@ -12967,9 +12937,6 @@
    "Player count": "Multiplayer",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
    "Credit": "Stark"
  },
  {
@@ -12980,9 +12947,6 @@
    "Player count": "Multiplayer",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
    "Credit": "Stark"
  },
  {
@@ -12994,9 +12958,6 @@
    "IsSingleplayer": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
    "Credit": "Stark"
  },
  {
@@ -13007,9 +12968,6 @@
    "Player count": "Multiplayer",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
    "Credit": "Stark"
  },
  {
@@ -13020,9 +12978,6 @@
    "Player count": "Multiplayer",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
    "Credit": "Stark"
  },
  {
@@ -13033,9 +12988,6 @@
    "Player count": "Multiplayer",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
    "Credit": "Stark"
  },
  {
@@ -13046,9 +12998,6 @@
    "Player count": "Multiplayer",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
    "Credit": "Stark"
  },
  {
@@ -13059,9 +13008,6 @@
    "Player count": "Multiplayer",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
    "Credit": "Stark"
  },
  {
@@ -13072,9 +13018,6 @@
    "Player count": "Multiplayer",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
    "Credit": "Stark"
  },
  {
@@ -13085,9 +13028,6 @@
    "Player count": "Multiplayer",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
    "Credit": "Stark"
  },
  {
@@ -13099,9 +13039,6 @@
    "Player count": "Multiplayer",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
    "Credit": "Stark"
  },
  {
@@ -13113,9 +13050,6 @@
    "Player count": "Multiplayer",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
    "Credit": "Stark"
  },
  {
@@ -13127,9 +13061,6 @@
    "Player count": "Multiplayer",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
    "Credit": "Stark"
  },
  {
@@ -13142,9 +13073,6 @@
    "IsSingleplayer": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
    "Credit": "Stark"
  },
  {
@@ -13155,8 +13083,6 @@
    "Difficulty": 5,
    "Player count": "Multiplayer",
    "IsCustom": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
    "Credit": "Stark"
  },
  {
@@ -15110,7 +15036,7 @@
    "Nickname": "Join the Bingo Discord! Link below.",
    "Challenge": "Enjoy the easy square :)",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Meta squares",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
    "IsMultiplayer": "Yes",
@@ -15552,22 +15478,24 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Only 5v5 teamfight on the top half of the map.",
+   "Nickname": "''Power Top''",
+   "Challenge": "Only 5v5 teamfight on the top half of the map.",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "Difficulty": 5,
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "Credit": "Stark"
+   "Credit": "Iron"
  },
  {
-   "Nickname": "Only 5v5 teamfight on the bottom half of the map.",
+   "Nickname": "''Power Bottom''",
+   "Challenge": "Only 5v5 teamfight on the bottom half of the map.",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "Difficulty": 5,
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "Credit": "Stark"
+   "Credit": "Iron"
  },
  {
    "Nickname": "Play as a team of all female heroes.",
@@ -16118,7 +16046,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Play as 2 Heroes with the same role.",
+   "Nickname": "Play with 2 Heroes with the same role.",
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
    "Difficulty": 2,
@@ -16430,5 +16358,1147 @@
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
+ },
+ {
+   "Nickname": "Post this square's Save code in #share-your-bingos",
+   "Challenge": "Join the discord below!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Meta squares",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Post a new bingo idea in #ideas-and-bugs",
+   "Challenge": "Join the discord below!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Meta squares",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "One of your group must only play Heroes from 2014",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 4,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "One of your group must only play Heroes from 2015",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 4,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "One of your group must only play Heroes from 2016",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 4,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "One of your group must only play Heroes from 2017",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 4,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "One of your group must only play Heroes from 2018",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 4,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "One of your group must only play Heroes from 2019",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 4,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "''Prepping the lanes''",
+   "Challenge": "Kill all small walls first, before ANY other structure.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 5,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Iron"
+ },
+ {
+   "Nickname": "''Nano Boost administered''",
+   "Challenge": "Nano Boost every allied hero at least once in a game. (Ana)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Difficulty": 3,
+   "Credit": "Iron",
+   "IsAna": "Yes"
+ },
+ {
+   "Nickname": "''Heroic Heroics''",
+   "Challenge": "Everyone on your team must upgrade their Heroic ability with a duration increase or cooldown reduction.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 5,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Iron"
+ },
+ {
+   "Nickname": "''Stormy McStormface''",
+   "Challenge": "The comms refer to the map objective by a different name each time it is mentioned.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 2,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''Not a cover band, the real deal's right here!''",
+   "Challenge": "You must never cancel your own Mosh Pit. (ETC)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Difficulty": 2,
+   "Credit": "Bahamut",
+   "IsETC": "Yes"
+ },
+ {
+   "Nickname": "Try this wombo: ''Lights Out''",
+   "Challenge": "No Control + Lightbomb. (Hogger + Anduin)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Wombo combo",
+   "Difficulty": 3,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Secure a stack of Headhunter using Guillotine.",
+   "Challenge": "Guillotine with the killing blow!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Difficulty": 5,
+   "Credit": "Iron",
+   "IsZul'jin": "Yes"
+ },
+ {
+   "Nickname": "Your opposing team drafts for you for a game",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Iron"
+ },
+ {
+   "Nickname": "Try this wombo: ''Mephisto APM''",
+   "Challenge": "Spite + Nano Boost + Innervate. (Mephisto + Ana + Malfurion)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Wombo combo",
+   "Difficulty": 5,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Hyva"
+ },
+ {
+   "Nickname": "''Floor Juice''",
+   "Challenge": "Pick Ruby, and say Floor Juice every time you create Lesser Healing Potions.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Difficulty": 1,
+   "Credit": "Stark",
+   "IsDeckardCain": "Yes"
+ },
+ {
+   "Nickname": "Be or become Stealthed",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''Hogger put Hogger in corner.''",
+   "Challenge": "Trap yourself against terrain with Loot Horde(s).",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Difficulty": 3,
+   "Credit": "chesslooter",
+   "IsHogger": "Yes"
+ },
+ {
+   "Nickname": "Copy your recent match x1",
+   "Challenge": "For a game, 1 player in your group must play as a hero involved in the most recent game in their match history.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 3,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Copy your recent match x2",
+   "Challenge": "For a game, 2 players in your group must play as a hero involved in the most recent game in their match history.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 3,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Copy your recent match x3",
+   "Challenge": "For a game, 3 players in your group must play as a hero involved in the most recent game in their match history.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 3,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Copy your recent match x4",
+   "Challenge": "For a game, 4 players in your group must play as a hero involved in the most recent game in their match history.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 3,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Copy your recent match x5",
+   "Challenge": "For a game, 5 players in your group must play as a hero involved in the most recent game in their match history.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 3,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Copy your oldest match x1",
+   "Challenge": "For a game, 1 player in your group must play as a hero involved in the oldest game in their match history.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 3,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Copy your oldest match x2",
+   "Challenge": "For a game, 2 players in your group must play as a hero involved in the oldest game in their match history.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 3,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Copy your oldest match x3",
+   "Challenge": "For a game, 3 players in your group must play as a hero involved in the oldest game in their match history.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 3,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Copy your oldest match x4",
+   "Challenge": "For a game, 4 players in your group must play as a hero involved in the oldest game in their match history.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 3,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Copy your oldest match x5",
+   "Challenge": "For a game, 5 players in your group must play as a hero involved in the oldest game in their match history.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 3,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Death by Brocolli",
+   "Challenge": "Kill someone with a Treant, or die to a Treant.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Difficulty": 5,
+   "Credit": "chesslooter",
+   "IsMalfurion": "Yes"
+ },
+ {
+   "Nickname": "''Hyva hates fun''",
+   "Challenge": "Hyva would like you to block every type of enemy projectile possible at least once with a clone or summon. He hates fun.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 5,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Hyva"
+ },
+ {
+   "Nickname": "Always pick the top talent option for a game.",
+   "Challenge": "Top of your talent list.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 2,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Never pick the top talent option for a game.",
+   "Challenge": "Top of your talent list.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 2,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Always pick the bottom talent option for a game.",
+   "Challenge": "Bottom of your talent list.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 2,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Never pick the bottom talent option for a game.",
+   "Challenge": "Bottom of your talent list.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 2,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''Musical lanes''",
+   "Challenge": "Every minute, your bingo party must swap lanes to a different one.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 4,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''Hi, my name is...''",
+   "Challenge": "Refer to your hero by their first name, where applicable, for a game.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''Hi, your name is...''",
+   "Challenge": "Refer to your party's hero by their first name, where applicable, for a game.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''Hi, our names are...''",
+   "Challenge": "Refer to all heroes by their first name, where applicable, for a game.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Go Q build",
+   "Challenge": "Take every talent that upgrades your first (Q) ability.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Go W build",
+   "Challenge": "Take every talent that upgrades your second (W) ability.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Go E build",
+   "Challenge": "Take every talent that upgrades your third (E) ability.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Go AA build",
+   "Challenge": "Take every talent that upgrades your Auto Attack.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Cosplay time!",
+   "Challenge": "Pick a skin that looks like something else familiar!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Campbellaz"
+ },
+ {
+   "Nickname": "Two Heroes on your team share a main color",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Three Heroes on your team share a main color",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Four Heroes on your team share a main color",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Five Heroes on your team share a main color",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Two Heroes on your team share a minor color",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Three Heroes on your team share a minor color",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Four Heroes on your team share a minor color",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Five Heroes on your team share a minor color",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''Bounty''",
+   "Challenge": "A player in your party requests a Hero/Player on the enemy team to be brought to them, dead or alive.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 5,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''Phatchcrase!''",
+   "Challenge": "For a game, say the wrong Hero's catchphrase when you or your Hero does something cool/catchphrase worthy.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 3,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''Phatchcrase extreme!''",
+   "Challenge": "For your bingo session, say the wrong Hero's catchphrase when you or your Hero does something cool/catchphrase worthy.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 3,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''Difficult Terrain''",
+   "Challenge": "Have Rubies on the ground for 30 consecutive seconds.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Difficulty": 3,
+   "Credit": "Iron",
+   "IsDeckardCain": "Yes"
+ },
+ {
+   "Nickname": "''Shuman's Quest''",
+   "Challenge": "Gather 20 Regen Globes. Reward: This square! (Abathur)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Difficulty": 1,
+   "Credit": "Shuman",
+   "IsAbathur": "Yes"
+ },
+ {
+   "Nickname": "Alphabetical Basic Abilities",
+   "Challenge": "For a game, you must always use your basic abilities in alphabetical order.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 2,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Ascending Basic Abilities",
+   "Challenge": "For a game, you must always use your basic abilities in ascending cooldown order.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 2,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Descending Basic Abilities",
+   "Challenge": "For a game, you must always use your basic abilities in descending cooldown order.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 2,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Left to Right Basic Abilities",
+   "Challenge": "For a game, you must always use your basic abilities from left to right (QWE).",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 2,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Right to Left Basic Abilities",
+   "Challenge": "For a game, you must always use your basic abilities from right to left (EWQ).",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 2,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''Its not just a phase, mom!''",
+   "Challenge": "A team wins during the first objective phase.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 4,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''Let's 39 it.''",
+   "Challenge": "Almost finish an objective, do something else noteworthy on the map's macro side of things, then finish the objective.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 3,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Wear a hat",
+   "Challenge": "Ingame or IRL",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''I can see the darkness within you.''",
+   "Challenge": "Kill an enemy Hero with Metamorphosis",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Difficulty": 5,
+   "Credit": "EkeeB",
+   "IsIllidan": "Yes"
+ },
+ {
+   "Nickname": "''Oops! Dropped something!''",
+   "Challenge": "Kill an enemy Hero with Total Mayhem AFTER your death.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Difficulty": 5,
+   "Credit": "Bahamut",
+   "IsJunkrat": "Yes"
+ },
+ {
+   "Nickname": "Game ends before level 13",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Game ends before level 14",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Game ends before level 15",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Game ends before level 16",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Game ends before level 17",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Game ends before level 18",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Game ends before level 19",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Game ends before level 20",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Game ends before level 21",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Game ends before level 22",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Game ends before level 23",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Game ends before level 24",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Game ends before level 25",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Game ends before 9:00",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Game ends before 10:00",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Game ends before 11:00",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Game ends before 12:00",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Game ends before 13:00",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Game ends before 14:00",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Game ends before 15:00",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Game ends before 16:00",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Game ends before 17:00",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Game ends before 18:00",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Game ends before 19:00",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Game ends before 20:00",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "The Storm League Experience x1",
+   "Challenge": "1 member of your group must communicate only using incoherent noises for a game. (Basically your average SL teammate)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 3,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "The Storm League Experience x2",
+   "Challenge": "2 members of your group must communicate only using incoherent noises for a game. (Basically your average SL teammate)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 3,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "The Storm League Experience x3",
+   "Challenge": "3 members of your group must communicate only using incoherent noises for a game. (Basically your average SL teammate)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 3,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "The Storm League Experience x4",
+   "Challenge": "4 members of your group must communicate only using incoherent noises for a game. (Basically your average SL teammate)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 3,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "The Storm League Experience x5",
+   "Challenge": "5 members of your group must communicate only using incoherent noises for a game. (Basically your average SL teammate)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 3,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Get 1 stack of a quest",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Get 3 stacks of a quest",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Get 5 stacks of a quest",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Get 10 stacks of a quest",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Get 20 stacks of a quest",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Get 40 stacks of a quest",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Get 100 stacks of a quest",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Put an enemy Hero to sleep",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Stand in fire",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Drink something",
+   "Challenge": "Ingame or IRL",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Consume something",
+   "Challenge": "Ingame or IRL",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''Stay Stay Awhile Awhile and and Listen Listen''",
+   "Challenge": "Begin reading a book into your comms every time you use Stay Awhile and Listen. (Deckard)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Difficulty": 4,
+   "Credit": "Stark",
+   "IsDeckardCain": "Yes"
+ },
+ {
+   "Nickname": "''Gal'lCho''",
+   "Challenge": "Playing Cho'gall, each player must follow the voice commands of the other head. Time to swap heads without swapping heads.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Difficulty": 3,
+   "Credit": "Stark",
+   "IsCho": "Yes",
+   "IsGall": "Yes"
+ },
+ {
+   "Nickname": "Kill an enemy Hero with a healing ability.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 3,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Nuubee"
  }
 ]
