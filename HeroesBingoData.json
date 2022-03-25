@@ -15252,7 +15252,7 @@
  },
  {
    "Nickname": "''The Global Gank''",
-   "Challenge": "Use Heroic and/or Global abilities to kill a hero. Get creative!",
+   "Challenge": "Use Global Heroic and/or Basic abilities to kill a hero. Get creative!",
    "Source": "HeroesBingoData.json",
    "Category": "Draft specific",
    "Difficulty": 5,
@@ -17031,7 +17031,7 @@
  },
  {
    "Nickname": "''I can see the darkness within you.''",
-   "Challenge": "Kill an enemy Hero with Metamorphosis",
+   "Challenge": "Kill an enemy Hero with Metamorphosis. (Illidan)",
    "Source": "HeroesBingoData.json",
    "Category": "Hero specific",
    "Difficulty": 5,
@@ -17500,5 +17500,2016 @@
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Nuubee"
+ },
+ {
+   "Nickname": "No blue team Heroes visible as the core dies",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "No red team Heroes visible as the core dies",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''Dancing with Myself''",
+   "Challenge": "Any time an ETC Moshes nobody, your entire team dances anyway. (ETC)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Difficulty": 3,
+   "Credit": "Thunderkatz",
+   "IsETC": "Yes"
+ },
+ {
+   "Nickname": "''Meat Shield''",
+   "Challenge": "Play as The Butcher in your tank slot.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Draft specific",
+   "Difficulty": 5,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Idioms"
+ },
+ {
+   "Nickname": "The Nexus Forces get a kill",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Spend an entire game doing your best ASMR in comms",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''You can't catch me!''",
+   "Challenge": "Escape lethal damage as Gingerdread Nazeebo. (Sorry, Halorin)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Difficulty": 3,
+   "Credit": "Stark",
+   "IsNazeebo": "Yes"
+ },
+ {
+   "Nickname": "Play as a hero with 6 legs",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Thunderkatz"
+ },
+ {
+   "Nickname": "Play as a hero with 4 legs",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Thunderkatz"
+ },
+ {
+   "Nickname": "Play as a hero with 0 legs",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Thunderkatz"
+ },
+ {
+   "Nickname": "Play as a hero with wings",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Thunderkatz"
+ },
+ {
+   "Nickname": "''When behind, Dark Shrine''",
+   "Challenge": "Someone plays as Zeratul after losing a game.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 3,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark",
+   "IsZeratul": "Yes"
+ },
+ {
+   "Nickname": "''Ooo, a globe!''",
+   "Challenge": "Say ''Ooo, a globe!'' in a funny or silly voice every time you see a globe.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "''Idioms APM''",
+   "Challenge": "Every time you use Minigun, right click once until the Minigun finishes. (Tychus)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Difficulty": 4,
+   "Credit": "Idioms",
+   "IsTychus": "Yes"
+ },
+ {
+   "Nickname": "''Its Friday. I'm cold and tired.''",
+   "Challenge": "Describe how you're feeling in two adjectives before you start playing bingo.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Never Control",
+   "Challenge": "For a game, never cancel your Hogg Wild. (Hogger)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Difficulty": 3,
+   "Credit": "Stark",
+   "IsHogger": "Yes"
+ },
+ {
+   "Nickname": "''Describe taste''",
+   "Challenge": "Describe the taste of every potion you drink for a game. (Deckard)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Difficulty": 1,
+   "Credit": "Justing",
+   "IsDeckardCain": "Yes"
+ },
+ {
+   "Nickname": "Crowd Control 2 enemy Heroes at once",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 2,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Crowd Control 3 enemy Heroes at once",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 3,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Crowd Control 4 enemy Heroes at once",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 4,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Crowd Control 5 enemy Heroes at once",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 5,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Stop an Unstoppable enemy Hero",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 3,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''Wraith awaiting orders''",
+   "Challenge": "Do a whole game impersonating the Wraith from SC1.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 3,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''Vermillion Live''",
+   "Challenge": "Do a whole game impersonating Donny Vermillion from SC2.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 3,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''Looks like you could use some healing!''",
+   "Challenge": "End a game as a healer with the highest kills.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 4,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Jamster"
+ },
+ {
+   "Nickname": "''Tag, I'm it''",
+   "Challenge": "You or one of your bingo party is It. Any hero they kill becomes It. Your team must NOT have It when the game finishes.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 4,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''Stark, why?''",
+   "Challenge": "Do a whole game impersonating Donald Duck.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 3,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''Know when to hold'em''",
+   "Challenge": "Do not select a talent until level 10.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 5,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "chesslooter"
+ },
+ {
+   "Nickname": "''Know when to fold'em''",
+   "Challenge": "Do not select a talent until level 20.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 5,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "chesslooter"
+ },
+ {
+   "Nickname": "''Howdy Cowboy''",
+   "Challenge": "Your bingo party yells ''yeehaw'' during a successful wombo combo.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "EkeeB"
+ },
+ {
+   "Nickname": "''Banned word''",
+   "Challenge": "A friend bans a word. You cannot say this word in comms for a game.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 3,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Go Green build",
+   "Challenge": "All your talents must be green.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Go Red build",
+   "Challenge": "All your talents must be red.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Go Yellow build",
+   "Challenge": "All your talents must be yellow.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Go Blue build",
+   "Challenge": "All your talents must be blue.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Go Orange build",
+   "Challenge": "All your talents must be orange.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Go Purple build",
+   "Challenge": "All your talents must be purple.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''Murgglgglggl''",
+   "Challenge": "Your bingo party does a whole game impersonating murlocs.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "EkeeB"
+ },
+ {
+   "Nickname": "Try this wombo: ''We can hold?''",
+   "Challenge": "Adrenal Overload + Shield Overload (Abathur + Artanis)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''You're carried!''",
+   "Challenge": "Adrenal Overload + Betrayer's Thirst (Abathur + Illidan)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Induced Amnesia''",
+   "Challenge": "Adrenal Overload + Skull Cracker (Abathur + Muradin)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Nuubee"
+ },
+ {
+   "Nickname": "Try this wombo: ''Evo-Illusion Master''",
+   "Challenge": "Adrenal Overload + Critical Strike (Abathur + Samuro)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''The QM Special''",
+   "Challenge": "Adrenal Overload + Twin Blades (Abathur + Varian)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Try this wombo: ''Invisible Man with Hat",
+   "Challenge": "Adrenal Overload + Might of the Nerazim (Abathur + Zeratul)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Evolve a Snowman''",
+   "Challenge": "Ultimate Evolution + Frostbite (Abathur + Jaina)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Fun and Uninteractive''",
+   "Challenge": "Ultimate Evolution + Concussion Mine (Abathur + Junkrat)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Try this wombo: ''Reapers of Souls''",
+   "Challenge": "Ultimate Evolution + Reaper's Mark (Abathur + Malthael)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Its like Abathur Jaina''",
+   "Challenge": "Ultimate Evolution + Blood Rage (Abathur + Qhira)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''For the swarm''",
+   "Challenge": "Evolutionary Link + Blind as a Bat (Abathur + Mal'Ganis)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Call ambulance, maybe for me''",
+   "Challenge": "Deadly Charge + Lightbomb (Alarak + Anduin)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Suddenly, Heroes''",
+   "Challenge": "Deadly Charge + Falling Sword (Alarak + Johanna)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''I'll race ya''",
+   "Challenge": "Deadly Charge + Rocket Ride (Alarak + Junkrat)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Hole in one''",
+   "Challenge": "Deadly Charge + Entomb (Alarak + Leoric)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Death flashed before my eyes''",
+   "Challenge": "Deadly Charge + Ley Line Seal (Alarak + Medivh)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Breath of Cre-ater''",
+   "Challenge": "Deadly Charge + Leap (Alarak + Sonya)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Anime FMV''",
+   "Challenge": "Deadly Charge + Judgement (Alarak + Tyrael)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Lifehacks''",
+   "Challenge": "Circle of Life + New Habits (Alexstrasza + Blaze)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Global Warming''",
+   "Challenge": "Circle of Life + Devil's Due (Alexstrasza + Diablo)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Fast Forward''",
+   "Challenge": "Circle of Life + Press Forward (Alexstrasza + Imperius)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''I bring life and hope''",
+   "Challenge": "Circle of Life + Laws of Hope (Alexstrasza + Johanna)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Enabling Bad Habits''",
+   "Challenge": "Circle of Life + Mana Addict (Alexstrasza + Kael'thas)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Queens take King''",
+   "Challenge": "Circle of Life + Assimilation Mastery (Alexstrasza + Kerrigan)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Powah Hangry''",
+   "Challenge": "Circle of Life + Power Hungry (Alexstrasza + Li-Ming)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Circle of Spite''",
+   "Challenge": "Circle of Life + Spite (Alexstrasza + Mephisto)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Slimming down?''",
+   "Challenge": "Circle of Life + Hungry for More (Alexstrasza + Stitches)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Boost it! Twist it!''",
+   "Challenge": "Nano Boost + Twisting Nether (Ana + Cho'Gall)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Chrono Boost''",
+   "Challenge": "Nano Boost + Temporal Loop (Ana + Chromie)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Zero Kelvin''",
+   "Challenge": "Nano Boost + Ring of Frost (Ana + Jaina)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''I shall call them Boosty''",
+   "Challenge": "Nano Boost + Water Elemental (Ana + Jaina)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''The Spirit Bomb''",
+   "Challenge": "Nano Boost + Pyroblast (Ana + Kael'thas)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "EkeeB"
+ },
+ {
+   "Nickname": "Try this wombo: ''Shadow Boost''",
+   "Challenge": "Nano Boost + Shadow Fissure (Ana + Kel'Thuzad)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Artificial Trait Enhancement''",
+   "Challenge": "Nano Boost + Disintegrate (Ana + Li-Ming)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''The Real Dark Conversion''",
+   "Challenge": "Nano Boost + Dark Conversion (Ana + Mal'Ganis)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Turbo Succ''",
+   "Challenge": "Nano Boost + Tormented Souls (Ana + Malthael)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Try this wombo: ''Consume Boosts''",
+   "Challenge": "Nano Boost + Consume Souls (Ana + Mephisto)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Static cling wrap party''",
+   "Challenge": "Nano Boost + Durance of Hate (Ana + Mephisto)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "ProstmanPAT"
+ },
+ {
+   "Nickname": "Try this wombo: ''Boosting your spirits''",
+   "Challenge": "Nano Boost + Ravenous Spirit (Ana + Nazeebo)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Spicy hot wrap''",
+   "Challenge": "Cocoon + Molten Breath (Anub'arak + Deathwing)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''It all blew away but my wrap''",
+   "Challenge": "Cocoon + Mighty Gust (Anub'arak + Falstad)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Crackers and Wrap''",
+   "Challenge": "Cocoon + Planet Cracker (Anub'arak + Fenix)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Dragonwrap''",
+   "Challenge": "Cocoon + Dragonstrike (Anub'arak + Hanzo)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Rocketwrap''",
+   "Challenge": "Cocoon + Rocket Ride (Anub'arak + Junkrat)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Magicwrap''",
+   "Challenge": "Cocoon + Arcane Orb (Anub'arak + Li-Ming)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''This wrap is smashing!''",
+   "Challenge": "Cocoon + Sulfuras Smash (Anub'arak + Ragnaros)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Lava hot wrap''",
+   "Challenge": "Cocoon + Lava Wave (Anub'arak + Ragnaros)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Roasted Lamb Leg''",
+   "Challenge": "Lamb to the Slaughter + Molten Breath (Butcher + Deathwing)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Thunderkatz"
+ },
+ {
+   "Nickname": "Try this wombo: ''A full course meal''",
+   "Challenge": "Lamb to the Slaughter + Healing Potion (Butcher + Deckard)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Mary HAD a little lamb.''",
+   "Challenge": "Lamb to the Slaughter + Mighty Gust (Butcher + Falstad)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Thunderkatz"
+ },
+ {
+   "Nickname": "Try this wombo: ''Cheese and Venison''",
+   "Challenge": "Lamb to the Slaughter + Planet Cracker (Butcher + Fenix)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "chesslooter"
+ },
+ {
+   "Nickname": "Try this wombo: ''Meat and Pretzels''",
+   "Challenge": "Lamb to the Slaughter + Dragonstrike (Butcher + Hanzo)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Grubby"
+ },
+ {
+   "Nickname": "Try this wombo: ''Lambs to the Slaughter''",
+   "Challenge": "Lamb to the Slaughter + Poly Bomb (Butcher + Medivh)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Try this wombo: ''Spooky Sheeps''",
+   "Challenge": "Lamb to the Slaughter + Ravenous Spirit (Butcher + Nazeebo)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Silence of the Lambs''",
+   "Challenge": "Lamb to the Slaughter + Wailing Arrow (Butcher + Sylvanas)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Thunderkatz"
+ },
+ {
+   "Nickname": "Try this wombo: ''Updog''",
+   "Challenge": "Upheaval + Cursed Bullet (Cho + Greymane)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Collision Course''",
+   "Challenge": "Upheaval + RIP-Tire (Cho + Junkrat)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Gravedigger''",
+   "Challenge": "Upheaval + Wailing Arrow (Cho + Sylvanas)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Chemistry for Dummies''",
+   "Challenge": "Stay Awhile and Listen + Combustion (Deckard Cain + Blaze)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''World-ending events for Dummies''",
+   "Challenge": "Stay Awhile and Listen + Cataclysm (Deckard Cain + Deathwing)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Hell for Dummies''",
+   "Challenge": "Stay Awhile and Listen + Apocalypse (Deckard Cain + Diablo)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Meteorology for Dummies''",
+   "Challenge": "Stay Awhile and Listen + Hinterlands Blast (Deckard Cain + Falstad)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Mythology for Dummies''",
+   "Challenge": "Stay Awhile and Listen + Dragonstrike (Deckard Cain + Hanzo)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Cryotherapy for Dummies''",
+   "Challenge": "Stay Awhile and Listen + Ring of Frost (Deckard Cain + Jaina)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Natural Disaster''",
+   "Challenge": "Apocalypse + Wind Tunnel (Diablo + Falstad)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''The real Dragon Strike''",
+   "Challenge": "Apocalypse + Dragon's Arrow (Diablo + Hanzo)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Hell in a Cell''",
+   "Challenge": "Apocalypse + Warden's Cage (Diablo + Maiev)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "7thAce"
+ },
+ {
+   "Nickname": "Try this wombo: ''The Evil Seal''",
+   "Challenge": "Apocalypse + Ley Line Seal (Diablo + Medivh)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Evil Imprisoned''",
+   "Challenge": "Apocalypse + Void Prison (Diablo + Zeratul)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Theramore 2.0''",
+   "Challenge": "Self-Destruct + Into the Fray (D.Va + Garrosh)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Try this wombo: ''The Holiest Cow''",
+   "Challenge": "Mosh Pit + Light of Stormwind (ETC + Anduin)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Dancing Bovine, Striking Dragon''",
+   "Challenge": "Mosh Pit + Dragonstrike (ETC + Hanzo)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "EkeeB"
+ },
+ {
+   "Nickname": "Try this wombo: ''Coldplay''",
+   "Challenge": "Mosh Pit + Ring of Frost (ETC + Jaina)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Wubwubwubwub''",
+   "Challenge": "Mosh Pit + Planet Cracker (ETC + Fenix)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Gorgeous Gust''",
+   "Challenge": "Mighty Gust + Gorge (Falstad + Stitches)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''How to annoy your Garrosh''",
+   "Challenge": "Warlord's Challenge + RIP-Tire (Garrosh + Junkrat)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''The Shepherd''",
+   "Challenge": "Warlord's Challenge + Poly Bomb (Garrosh + Medivh)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Build your own Leap''",
+   "Challenge": "Into the Fray + Lightbomb (Garrosh + Anduin)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''The Blue Screen''",
+   "Challenge": "Grav-O-Bomb + Purification Salvo (Gazlowe + Fenix)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Aim here?''",
+   "Challenge": "Grav-O-Bomb + Planet Cracker (Gazlowe + Fenix)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Tech Smash''",
+   "Challenge": "Grav-O-Bomb + Master at Arms (Gazlowe + Varian)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Iron"
+ },
+ {
+   "Nickname": "Try this wombo: ''!suckathon''",
+   "Challenge": "Grav-O-Bomb + Graviton Surge (Gazlowe + Zarya)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "tahngarah"
+ },
+ {
+   "Nickname": "Try this wombo: ''Lightsaber''",
+   "Challenge": "Dragonblade + Lightbomb (Genji + Anduin)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Panic at the disco''",
+   "Challenge": "Horrify + Purification Salvo (Gul'dan + Fenix)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Fel Infused Taco''",
+   "Challenge": "The Hunt + Hinterlands Blast (Illidan + Falstad)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''I hate Protoss''",
+   "Challenge": "The Hunt + Planet Cracker (Illidan + Fenix)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''The Arrow becomes me''",
+   "Challenge": "The Hunt + Dragon's Arrow (Illidan + Hanzo)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''I hate salami''",
+   "Challenge": "The Hunt + Pyroblast (Illidan + Kael'thas)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''I hate Terran''",
+   "Challenge": "The Hunt + Precision Strike (Illidan + Nova)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''I hate Mech''",
+   "Challenge": "The Hunt + Blunt Force Gun (Illidan + Sgt. Hammer)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Thumb Wrestling''",
+   "Challenge": "Entomb + Surging Fist (Leoric + Cho)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''The Air Fryer''",
+   "Challenge": "Entomb + Molten Breath (Leoric + Deathwing)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Thunderkatz"
+ },
+ {
+   "Nickname": "Try this wombo: ''The Pretzel Stand''",
+   "Challenge": "Entomb + Dragonstrike (Leoric + Hanzo)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Bahamut"
+ },
+ {
+   "Nickname": "Try this wombo: ''Putting the round tire in the square box''",
+   "Challenge": "Entomb + RIP-Tire (Leoric + Junkrat)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Anonymous"
+ },
+ {
+   "Nickname": "Try this wombo: ''Build your own Buried Alive''",
+   "Challenge": "Entomb + Lurking Arm (Leoric + Stukov)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Stream Sniper''",
+   "Challenge": "Water Dragon + Triple Tap (Li Li + Nova)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Caelis87"
+ },
+ {
+   "Nickname": "Try this wombo: ''Old and New''",
+   "Challenge": "Stim Drone + Ancient Flame (Lt. Morales + Alexstrasza)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Dark Forces''",
+   "Challenge": "Force of Will + Dark Conversion (Medivh + Mal'Ganis)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Cheat Day Taco''",
+   "Challenge": "Ley Line Seal + Hinterlands Blast (Medivh + Falstad)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Suddenly, babies''",
+   "Challenge": "Ley Line Seal + March of the Murlocs (Medivh + Murky)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Milk Carton''",
+   "Challenge": "Portal + Gorge (Medivh + Stitches)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "chesslooter"
+ },
+ {
+   "Nickname": "Try this wombo: ''Who farted?''",
+   "Challenge": "Portal + Poison Nova (Medivh + Xul)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Anonymous"
+ },
+ {
+   "Nickname": "Try this wombo: ''A song of Ice and Fire''",
+   "Challenge": "Ice Wall + Molten Breath (Mei + Deathwing)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Cold Taco''",
+   "Challenge": "Ice Wall + Hinterlands Blast (Mei + Falstad)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Just like Kaldir''",
+   "Challenge": "Ice Wall + Purification Salvo (Mei + Fenix)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Ice Laser''",
+   "Challenge": "Ice Wall + Planet Cracker (Mei + Fenix)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Iron"
+ },
+ {
+   "Nickname": "Try this wombo: ''Sindragosa 2.0''",
+   "Challenge": "Ice Wall + Dragonstrike (Mei + Hanzo)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Ice, ice, babies''",
+   "Challenge": "Ice Wall + Ring of Frost + March of the Murlocs (Mei + Jaina + Murky)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Ice Cold Boogan Special''",
+   "Challenge": "Ice Wall + Lurking Arm (Mei + Stukov)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Frozen Harvest''",
+   "Challenge": "Haymaker + Frost Blast (Muradin + Kel'Thuzad)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Fish Taco''",
+   "Challenge": "Octograb + Hinterlands Blast (Murky + Falstad)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Gillyweed"
+ },
+ {
+   "Nickname": "Try this wombo: ''Octocracker''",
+   "Challenge": "Octograb + Planet Cracker (Murky + Fenix)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "XulRules"
+ },
+ {
+   "Nickname": "Try this wombo: ''Octoslash''",
+   "Challenge": "Octograb + Dragonblade (Murky + Genji)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Water Dragon 2.0''",
+   "Challenge": "Octograb + Dragonstrike (Murky + Hanzo)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Dragonfish''",
+   "Challenge": "Octograb + Dragon's Arrow (Murky + Hanzo)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Revenge Best Served: Cold''",
+   "Challenge": "Octograb + Ring of Frost (Murky + Jaina)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "EkeeB"
+ },
+ {
+   "Nickname": "Try this wombo: ''Spicy Kalamari''",
+   "Challenge": "Octograb + Pyroblast (Murky + Kael'thas)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "EkeeB"
+ },
+ {
+   "Nickname": "Try this wombo: ''I think that was a Zergling?''",
+   "Challenge": "Octograb + Precision Strike (Murky + Nova)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Collateral Damage''",
+   "Challenge": "Octograb + Blunt Force Gun (Murky + Sgt. Hammer)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Leapfrog''",
+   "Challenge": "Octograb + Leap (Murky + Sonya)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Doc Ock''",
+   "Challenge": "Octograb + Lurking Arm (Murky + Stukov)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''The Oogie Boogie''",
+   "Challenge": "Zombie Wall + Lurking Arm (Nazeebo + Stukov)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Bahamut"
+ },
+ {
+   "Nickname": "Try this wombo: ''Super Smash Bros''",
+   "Challenge": "Sulfuras Smash + Colossus Smash (Ragnaros + Varian)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Iron"
+ },
+ {
+   "Nickname": "Try this wombo: ''Two become one''",
+   "Challenge": "Bloodlust + Archon Form (Rehgar + Tassadar)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Pacific Rim''",
+   "Challenge": "Bloodlust + Comandeer Odin (Rehgar + Tychus)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''The QM Varian experience''",
+   "Challenge": "Bloodlust + Twin Blades (Rehgar + Varian)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Raid Boss Xul''",
+   "Challenge": "Bloodlust + Cursed Strikes (Rehgar + Xul)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''You get axe! You get axe!''",
+   "Challenge": "Bloodlust + Taz'dingo! (Rehgar + Zul'jin)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Band of Might''",
+   "Challenge": "Leap + Lightbomb (Sonya + Anduin)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Flying Taco''",
+   "Challenge": "Leap + Hinterlands Blast (Sonya + Falstad)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Baha's love hate relationship''",
+   "Challenge": "Leap + Purification Salvo (Sonya + Fenix)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Baha's other love hate relationship''",
+   "Challenge": "Leap + Planet Cracker (Sonya + Fenix)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''A hole pretzel''",
+   "Challenge": "Arreat Crater + Dragonstrike (Sonya + Hanzo)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Grubby"
+ },
+ {
+   "Nickname": "Try this wombo: ''Crouching Archer, Leaping Dragon''",
+   "Challenge": "Leap + Dragon's Arrow (Sonya + Hanzo)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''I am the Avalanche''",
+   "Challenge": "Leap + Ring of Frost (Sonya + Jaina)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Leapquake''",
+   "Challenge": "Leap + Earthquake (Sonya + Thrall)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Royal Gorge''",
+   "Challenge": "Gorge + Leap of Faith",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "chesslooter"
+ },
+ {
+   "Nickname": "Try this wombo: ''Aim for the knee!''",
+   "Challenge": "Wailing Arrow + Dragon's Arrow (Sylvanas + Hanzo)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Try this wombo: ''The Librarian''",
+   "Challenge": "Wailing Arrow + Twilight Dream (Sylvanas + Malfurion)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Gillyweed"
+ },
+ {
+   "Nickname": "Try this wombo: ''Hands off keyboard''",
+   "Challenge": "Mind Control + Taunt (Sylvanas + Varian)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Danger Hole''",
+   "Challenge": "Black Hole + Sulfuras Smash (Tassadar + Ragnaros)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Try this wombo: ''Grubby's Cork in a Bottle''",
+   "Challenge": "Force Wall + Entomb (Tassadar + Leoric)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Grubby"
+ },
+ {
+   "Nickname": "Try this wombo: ''Protoss Farseer''",
+   "Challenge": "Earthquake + Purification Salvo (Thrall + Fenix)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''For the Earthen Ring''",
+   "Challenge": "Earthquake + Bloodlust (Thrall + Rehgar)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Smashment''",
+   "Challenge": "Judgement + Sulfuras Smash (Tyrael + Ragnaros)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Crispy Taco''",
+   "Challenge": "Judgement + Hinterlands Blast (Tyrael + Falstad)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Gillyweed"
+ },
+ {
+   "Nickname": "Try this wombo: ''The Holier Cow''",
+   "Challenge": "Sanctification + Mosh Pit (Tyrael + ETC)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Blessed Blade''",
+   "Challenge": "Sanctification + Dragonblade (Tyrael + Genji)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Our Morales got banned''",
+   "Challenge": "Sanctification + Go for the Throat (Tyrael + Greymane)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Assimilation Overflow''",
+   "Challenge": "Sanctification + Maelstrom (Tyrael + Kerrigan)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Its our objective''",
+   "Challenge": "Sanctification + Divine Shield (Tyrael + Uther)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''1hp and a dream 3.0''",
+   "Challenge": "Sanctification + Taz'dingo! (Tyrael + Zul'jin)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Gold farming''",
+   "Challenge": "Holy Arena + Death Siphon (Tyrael + Valla)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Its our objective 2.0''",
+   "Challenge": "Holy Arena + Bulwark of Light (Tyrael + Uther)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Dragon Shield''",
+   "Challenge": "Divine Shield + Dragonblade (Uther + Genji)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Go for all the Throats''",
+   "Challenge": "Divine Shield + Go for the Throat (Uther + Greymane)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Hands off Keyboard''",
+   "Challenge": "Divine Shield + No Control (Uther + Hogger)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Assimilation Overflow 2.0''",
+   "Challenge": "Divine Shield + Maelstrom (Uther + Kerrigan)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Soul Shield 2.0''",
+   "Challenge": "Divine Shield + Tormented Souls (Uther + Malthael)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Overcompensation''",
+   "Challenge": "Divine Shield + Safety Bubble (Uther + Murky)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Bahamut"
+ },
+ {
+   "Nickname": "Try this wombo: ''1hp and a dream 2.0''",
+   "Challenge": "Divine Shield + Taz'dingo! (Uther + Zul'jin)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''7 seconds of Heaven''",
+   "Challenge": "Bulwark of Light + Safety Bubble (Uther + Murky)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "XulRules"
+ },
+ {
+   "Nickname": "Try this wombo: ''Taco Bell''",
+   "Challenge": "Divine Storm + Hinterlands Blast (Uther + Falstad)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Never talk to me or my son ever again''",
+   "Challenge": "Taunt + Lightbomb (Varian + Anduin)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Thunderkatz"
+ },
+ {
+   "Nickname": "Try this wombo: ''Dishonourable 1v1''",
+   "Challenge": "Taunt + Valkyrie (Varian + Cassia)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Just a taco''",
+   "Challenge": "Taunt + Hinterlands Blast (Varian + Falstad)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Standing in Fire: Extreme''",
+   "Challenge": "Taunt + Planet Cracker (Varian + Fenix)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Hold my beer''",
+   "Challenge": "Taunt + Warlord's Challenge (Varian + Garrosh)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Varian liked it''",
+   "Challenge": "Taunt + Ring of Frost (Varian + Jaina)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''You tired yet?''",
+   "Challenge": "Taunt + RIP-Tire (Varian + Junkrat)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Give em the Gustav''",
+   "Challenge": "Taunt + Blunt Force Gun (Varian + Sgt. Hammer)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Thunderkatz"
+ },
+ {
+   "Nickname": "Try this wombo: ''The Boogan Special''",
+   "Challenge": "Taunt + Low Blow (Varian + Stukov)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Thunderkatz"
+ },
+ {
+   "Nickname": "Try this wombo: ''No gameplay for you''",
+   "Challenge": "Taunt + Mind Control (Varian + Sylvanas)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Molten Maw''",
+   "Challenge": "Devouring Maw + Molten Breath (Zagara + Deathwing)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Zergy Taco''",
+   "Challenge": "Devouring Maw + Hinterlands Blast (Zagara + Falstad)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Eating Crackers''",
+   "Challenge": "Devouring Maw + Planet Cracker (Zagara + Fenix)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Hungry hungry dragons''",
+   "Challenge": "Devouring Maw + Dragonstrike (Zagara + Hanzo)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Eating ice cubes''",
+   "Challenge": "Devouring Maw + Ring of Frost (Zagara + Jaina)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''DevouRIP''",
+   "Challenge": "Devouring Maw + RIP-Tire (Zagara + Junkrat)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Quick Match MacGyver''",
+   "Challenge": "Devouring Maw + Rocket Ride (Zagara + Junkrat)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''The Specialist Special''",
+   "Challenge": "Devouring Maw + Ravenous Spirit (Zagara + Nazeebo)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Smashmouth''",
+   "Challenge": "Devouring Maw + Sulfuras Smash (Zagara + Ragnaros)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Mawmaw''",
+   "Challenge": "Devouring Maw + Lurking Arm (Zagara + Stukov)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Molten Surge''",
+   "Challenge": "Graviton Surge + Molten Breath (Zarya + Deathwing)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Gravity Taco''",
+   "Challenge": "Graviton Surge + Hinterlands Blast (Zarya + Falstad)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''My laser is bigger''",
+   "Challenge": "Graviton Surge + Planet Cracker (Zarya + Fenix)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Just like in Overwatch''",
+   "Challenge": "Graviton Surge + Dragonstrike (Zarya + Hanzo)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Its cold in here and its not just me''",
+   "Challenge": "Graviton Surge + Ring of Frost (Zarya + Jaina)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''TLH's extreme scream''",
+   "Challenge": "Graviton Surge + Zombie Wall (Zarya + Nazeebo)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''El Taco Caliente''",
+   "Challenge": "Graviton Surge + Sulfuras Smash (Zarya + Ragnaros)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Nuubee"
+ },
+ {
+   "Nickname": "Try this wombo: ''New age Buried Alive''",
+   "Challenge": "Graviton Surge + Lurking Arm (Zarya + Stukov)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Flames make it go faster''",
+   "Challenge": "Speed Barrier + Combustion (Zarya + Blaze)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Racecar Garrosh''",
+   "Challenge": "Speed Barrier + Wrecking Ball (Zarya + Garrosh)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Nuubee"
+ },
+ {
+   "Nickname": "Try this wombo: ''Is that frog in a bubble in a bubble?''",
+   "Challenge": "Speed Barrier + Safety Bubble (Zarya + Murky)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''En Taco Adun''",
+   "Challenge": "Void Prison + Hinterlands Blast (Zeratul + Falstad)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Going full Protoss''",
+   "Challenge": "Void Prison + Purification Salvo (Zeratul + Fenix)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Going full Protoss 2.0''",
+   "Challenge": "Void Prison + Planet Cracker (Zeratul + Fenix)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Prisonstrike''",
+   "Challenge": "Void Prison + Dragonstrike (Zeratul + Hanzo)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Popsicle''",
+   "Challenge": "Void Prison + Ring of Frost (Zeratul + Jaina)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Bahamut"
+ },
+ {
+   "Nickname": "Try this wombo: ''TLH's extreme scream 2.0''",
+   "Challenge": "Void Prison + Zombie Wall (Zeratul + Nazeebo)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Smashing Prison''",
+   "Challenge": "Void Prison + Sulfuras Smash (Zeratul + Ragnaros)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''1hp and a dream 1.0''",
+   "Challenge": "Taz'dingo! + Divine Palm (Zul'jin + Kharazim)",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
  }
 ]
