@@ -6,6 +6,7 @@
    "Difficulty": 2,
    "Player count": "Multiplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -20,6 +21,7 @@
    "Category": "Team restrictions",
    "Difficulty": 3,
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -60,6 +62,7 @@
    "Difficulty": 2,
    "Player count": "Multiplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -74,6 +77,7 @@
    "Category": "Team restrictions",
    "Difficulty": 2,
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -114,6 +118,7 @@
    "Difficulty": 2,
    "Player count": "Multiplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -128,6 +133,7 @@
    "Category": "Team restrictions",
    "Difficulty": 3,
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -168,6 +174,7 @@
    "Difficulty": 2,
    "Player count": "Multiplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -182,6 +189,7 @@
    "Category": "Team restrictions",
    "Difficulty": 3,
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -221,6 +229,7 @@
    "Category": "Team restrictions",
    "Difficulty": 2,
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -235,6 +244,7 @@
    "Category": "Team restrictions",
    "Difficulty": 3,
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -275,6 +285,7 @@
    "Category": "Team restrictions",
    "Difficulty": 3,
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -318,6 +329,7 @@
    "Difficulty": 3,
    "Player count": "Singleplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -524,6 +536,7 @@
    "Difficulty": 4,
    "Player count": "Singleplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsAramMaps": "Yes",
    "IsQuickMaps": "Yes",
@@ -745,6 +758,7 @@
    "Category": "Wombo combo",
    "Difficulty": 4,
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -789,6 +803,7 @@
    "Category": "Wombo combo",
    "Difficulty": 1,
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -800,6 +815,7 @@
    "Category": "Wombo combo",
    "Difficulty": 2,
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -811,6 +827,7 @@
    "Category": "Wombo combo",
    "Difficulty": 3,
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -822,6 +839,7 @@
    "Category": "Wombo combo",
    "Difficulty": 4,
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -833,6 +851,7 @@
    "Category": "Wombo combo",
    "Difficulty": 3,
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -844,6 +863,7 @@
    "Category": "Specific strategy",
    "Difficulty": 2,
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -888,6 +908,7 @@
    "Category": "Specific strategy",
    "Difficulty": 4,
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -899,6 +920,7 @@
    "Category": "Player restrictions",
    "Player count": "Singleplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -910,6 +932,7 @@
    "Category": "Player restrictions",
    "Player count": "Singleplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -920,6 +943,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Player restrictions",
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -931,6 +955,7 @@
    "Category": "Player restrictions",
    "Player count": "Singleplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -952,6 +977,7 @@
    "Category": "Player restrictions",
    "Player count": "Singleplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -972,6 +998,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -1077,19 +1104,19 @@
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Chymotrypsin"
  },
  {
    "Nickname": "''Frequent Flyer''",
-   "Challenge": "Medivac to the opposite side of the map as often as possible (as soon as medivac is off cooldown)",
+   "Challenge": "Medivac to the opposite side of the map as often as possible (as soon as medivac is off cooldown). (Lt. Morales)",
    "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
+   "Category": "Hero specific",
    "Player count": "Multiplayer",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Chymotrypsin"
+   "Credit": "Chymotrypsin",
+   "IsLt.Morales": "Yes"
  },
  {
    "Nickname": "''We only play PvP''",
@@ -1489,6 +1516,7 @@
    "Category": "Draft specific",
    "Universe": "W",
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
@@ -1505,20 +1533,22 @@
  },
  {
    "Nickname": "''Transformers''",
-   "Challenge": "Play only heroes who can transform",
+   "Challenge": "Play only heroes who can transform for a game.",
    "Source": "HeroesBingoData.json",
    "Category": "Draft specific",
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Chymotrypsin"
  },
  {
    "Nickname": "''The sky is falling''",
-   "Challenge": "Play only heroes whose heroics fall from the sky",
+   "Challenge": "Play only heroes whose heroics fall from the sky for a game.",
    "Source": "HeroesBingoData.json",
    "Category": "Draft specific",
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Chymotrypsin"
@@ -1610,6 +1640,7 @@
    "Universe": "D",
    "Player count": "Singleplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -1715,15 +1746,13 @@
  },
  {
    "Nickname": "''I'm blind...''",
-   "Challenge": "Blind Illidan",
+   "Challenge": "Illidan gets Blinded",
    "Source": "HeroesBingoData.json",
-   "Category": "Lore specific",
+   "Category": "Hero specific",
    "Universe": "W",
    "Player count": "Singleplayer",
-   "IsSingleplayer": "Yes",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "chesslooter"
+   "Credit": "chesslooter",
+   "IsIllidan": "Yes"
  },
  {
    "Nickname": "''Snarlmane the Bloodgorger''",
@@ -1831,6 +1860,7 @@
    "Difficulty": 2,
    "Player count": "Singleplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -1842,6 +1872,7 @@
    "Difficulty": 2,
    "Player count": "Singleplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "Credit": "chesslooter"
  },
@@ -1853,6 +1884,7 @@
    "Difficulty": 4,
    "Player count": "Singleplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -2369,45 +2401,50 @@
  },
  {
    "Nickname": "Try this combo: ''Homemade Dragon's Arrow''",
-   "Challenge": "Portal or Into the Fray a Divine Storm",
+   "Challenge": "Portal or Into the Fray a Divine Storm. (Medivh/Garrosh + Uther)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
  },
  {
    "Nickname": "Try this combo: ''Homemade Wailing Arrow''",
-   "Challenge": "Portal or Into the Fray a Twilight Dream",
+   "Challenge": "Portal or Into the Fray a Twilight Dream. (Medivh/Garrosh + Malfurion)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
  },
  {
    "Nickname": "Try this combo: ''Homemade Repulsion''",
-   "Challenge": "Portal or Into the Fray an Emerald Wind",
+   "Challenge": "Portal or Into the Fray an Emerald Wind. (Medivh/Garrosh + Brightwing)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
  },
  {
    "Nickname": "Try this combo: ''Homemade Self-Destruct''",
-   "Challenge": "Portal or Into the Fray a Combustion",
+   "Challenge": "Portal or Into the Fray a Combustion. (Medivh/Garrosh + Blaze)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
  },
  {
    "Nickname": "Try this combo: ''Homemade Unleash the Boars''",
-   "Challenge": "Portal or Into the Fray an Earthquake",
+   "Challenge": "Portal or Into the Fray an Earthquake. (Medivh/Garrosh + Thrall)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -2419,6 +2456,7 @@
    "Category": "Hero specific",
    "Universe": "O",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -2434,11 +2472,12 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "''Dynouh's Flight Bomb''",
-   "Challenge": "Epic Mount Falstad + Light Bomb",
+   "Nickname": "Try this combo: ''Dynouh's Flight Bomb''",
+   "Challenge": "Epic Mount + Light Bomb. (Falstad + Anduin)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
    "Universe": "W",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -2464,10 +2503,11 @@
  },
  {
    "Nickname": "''One of everything build''",
-   "Challenge": "Only upgrade your abilities once",
+   "Challenge": "Only upgrade each of your abilities once",
    "Source": "HeroesBingoData.json",
    "Category": "Player restrictions",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -2478,6 +2518,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Player restrictions",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -2488,6 +2529,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Player restrictions",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
@@ -2530,6 +2572,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -2550,6 +2593,7 @@
    "Difficulty": 2,
    "Player count": "Multiplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -2562,6 +2606,7 @@
    "Difficulty": 2,
    "Player count": "Multiplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -2574,6 +2619,7 @@
    "Difficulty": 2,
    "Player count": "Multiplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -2585,6 +2631,7 @@
    "Difficulty": 2,
    "Player count": "Multiplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -2597,6 +2644,7 @@
    "Difficulty": 2,
    "Player count": "Multiplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -2609,6 +2657,7 @@
    "Difficulty": 2,
    "Player count": "Multiplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -2633,6 +2682,7 @@
    "Difficulty": 1,
    "Player count": "Singleplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -2645,17 +2695,19 @@
    "Difficulty": 1,
    "Player count": "Singleplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
  },
  {
-   "Nickname": "''Blue Shell''",
-   "Challenge": "Give Lightbomb to Junkrat while he's riding his Rocket mount and drive it into the enemy team.",
+   "Nickname": "Try this combo: ''Blue Shell''",
+   "Challenge": "Give Lightbomb to Junkrat while he's riding his Rocket mount and drive it into the enemy team. (Anduin + Junkrat)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
    "Difficulty": 3,
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
@@ -2668,6 +2720,7 @@
    "Difficulty": 1,
    "Player count": "Singleplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -2691,6 +2744,7 @@
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "TheLazyHydra"
@@ -2716,6 +2770,7 @@
    "Challenge": "Transform into Archon and Commandeer Odin at the same time.",
    "Source": "HeroesBingoData.json",
    "Category": "Draft specific",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "ZergyMonster"
@@ -2789,6 +2844,7 @@
    "Category": "Player restrictions",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -2809,6 +2865,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -2828,6 +2885,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -2846,6 +2904,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -2863,6 +2922,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -2880,6 +2940,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -2897,6 +2958,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -2931,6 +2993,7 @@
    "Category": "Basic",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -2943,6 +3006,7 @@
    "Category": "Basic",
    "Difficulty": 5,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -2955,6 +3019,7 @@
    "Category": "Basic",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -3034,6 +3099,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -9097,7 +9163,7 @@
  },
  {
    "Nickname": "''Juice Pirates for one please!''",
-   "Challenge": "Demonic Circle into the enemy base, kill a fort/keep and (hopefully) Hearthstone to safety. Without allied help. (Gul'dan)",
+   "Challenge": "Demonic Circle into the enemy base, kill a fort/keep/core and (hopefully) Hearthstone to safety. Without allied help. (Gul'dan)",
    "Source": "HeroesBingoData.json",
    "Category": "Hero specific",
    "Universe": "W",
@@ -12356,6 +12422,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Draft specific",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
@@ -12366,6 +12433,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "ZergyMonster"
@@ -12404,6 +12472,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Map specific",
    "Universe": "O",
+   "IsCustom": "Yes",
    "IsQuickMaps": "Yes",
    "IsRankedMaps": "Yes",
    "Credit": "Stark"
@@ -12413,6 +12482,7 @@
    "Challenge": "Take a screenshot of a Webweaver. (Tomb of the Spider Queen)",
    "Source": "HeroesBingoData.json",
    "Category": "Map specific",
+   "IsCustom": "Yes",
    "IsCCL": "Yes",
    "IsQuickMaps": "Yes",
    "IsRankedMaps": "Yes",
@@ -12432,6 +12502,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Player restrictions",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -12443,6 +12514,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Player restrictions",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -12454,6 +12526,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Player restrictions",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -12465,6 +12538,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Player restrictions",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -12476,6 +12550,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Player restrictions",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -12487,6 +12562,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Player restrictions",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -12498,6 +12574,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Player restrictions",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -12509,6 +12586,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Player restrictions",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -12529,6 +12607,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "TheLazyHydra"
@@ -12540,6 +12619,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
@@ -12550,6 +12630,7 @@
    "Category": "Team restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -12560,6 +12641,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -12570,6 +12652,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -12595,6 +12678,7 @@
    "Challenge": "The first objective is delayed until a team reaches level 10.",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -12616,6 +12700,7 @@
    "Category": "Draft specific",
    "Difficulty": 4,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
@@ -12636,6 +12721,7 @@
    "Category": "Draft specific",
    "Universe": "S",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
@@ -12647,6 +12733,7 @@
    "Category": "Draft specific",
    "Universe": "S",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
@@ -12658,6 +12745,7 @@
    "Category": "Draft specific",
    "Universe": "S",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
@@ -12669,6 +12757,7 @@
    "Category": "Draft specific",
    "Universe": "S",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
@@ -12680,6 +12769,7 @@
    "Category": "Draft specific",
    "Universe": "S",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
@@ -12691,6 +12781,7 @@
    "Category": "Draft specific",
    "Universe": "S",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
@@ -12702,6 +12793,7 @@
    "Category": "Draft specific",
    "Universe": "S",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
@@ -12713,6 +12805,7 @@
    "Category": "Draft specific",
    "Universe": "S",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
@@ -12724,6 +12817,7 @@
    "Category": "Draft specific",
    "Universe": "S",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
@@ -12735,6 +12829,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -12746,6 +12841,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
@@ -12758,6 +12854,7 @@
    "Difficulty": 1,
    "Universe": "S",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter",
@@ -12771,6 +12868,7 @@
    "Category": "Draft specific",
    "Difficulty": 5,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -12781,6 +12879,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
@@ -12791,6 +12890,7 @@
    "Category": "Player restrictions",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Chymotrypsin"
@@ -12812,6 +12912,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
@@ -12833,6 +12934,7 @@
    "Difficulty": 1,
    "Player count": "Multiplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -12874,6 +12976,7 @@
    "Difficulty": 1,
    "Player count": "Multiplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -12915,6 +13018,7 @@
    "Difficulty": 1,
    "Player count": "Multiplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -12925,6 +13029,7 @@
    "Category": "Team restrictions",
    "Difficulty": 1,
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -12956,6 +13061,7 @@
    "Difficulty": 1,
    "Player count": "Multiplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -12996,6 +13102,7 @@
    "Category": "Team restrictions",
    "Difficulty": 1,
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -13037,6 +13144,7 @@
    "Category": "Team restrictions",
    "Difficulty": 1,
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -13071,6 +13179,7 @@
    "Difficulty": 1,
    "Player count": "Singleplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -13092,6 +13201,7 @@
    "Category": "Player restrictions",
    "Difficulty": 4,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "ZergyMonster",
@@ -13106,6 +13216,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Draft specific",
    "Difficulty": 5,
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "TheLazyHydra"
@@ -13167,6 +13278,7 @@
    "Category": "Meta squares",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -13178,6 +13290,7 @@
    "Category": "Meta squares",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -13189,6 +13302,7 @@
    "Category": "Meta squares",
    "Difficulty": 4,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -13199,6 +13313,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -13210,6 +13325,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -13221,6 +13337,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -13232,6 +13349,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -13243,6 +13361,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -13254,6 +13373,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -13265,6 +13385,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -13276,6 +13397,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -13287,6 +13409,7 @@
    "Category": "Basic",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -13298,6 +13421,7 @@
    "Category": "Basic",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -13381,6 +13505,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -13391,6 +13516,7 @@
    "Category": "Player restrictions",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -13401,6 +13527,7 @@
    "Category": "Player restrictions",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -13412,6 +13539,7 @@
    "Category": "Player restrictions",
    "Difficulty": 4,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -13423,6 +13551,7 @@
    "Category": "Player restrictions",
    "Difficulty": 5,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -13433,6 +13562,7 @@
    "Category": "Basic",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -13443,6 +13573,7 @@
    "Category": "Basic",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -13453,6 +13584,7 @@
    "Category": "Basic",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -13463,6 +13595,7 @@
    "Category": "Basic",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -13473,6 +13606,7 @@
    "Category": "Basic",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -13484,6 +13618,7 @@
    "Category": "Basic",
    "Difficulty": 5,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -13494,6 +13629,7 @@
    "Category": "Basic",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -13505,6 +13641,7 @@
    "Category": "Basic",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -13516,6 +13653,7 @@
    "Category": "Basic",
    "Difficulty": 5,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -13526,6 +13664,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -13538,6 +13677,7 @@
    "Universe": "W",
    "Player count": "Multiplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -13552,6 +13692,7 @@
    "Difficulty": 3,
    "Universe": "W",
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -13595,6 +13736,7 @@
    "Universe": "S",
    "Player count": "Multiplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -13609,6 +13751,7 @@
    "Difficulty": 3,
    "Universe": "S",
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -13652,6 +13795,7 @@
    "Universe": "D",
    "Player count": "Multiplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -13666,6 +13810,7 @@
    "Difficulty": 3,
    "Universe": "D",
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -13709,6 +13854,7 @@
    "Universe": "O",
    "Player count": "Multiplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -13723,6 +13869,7 @@
    "Difficulty": 3,
    "Universe": "O",
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -13793,6 +13940,7 @@
    "Universe": "W",
    "Player count": "Multiplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -13807,6 +13955,7 @@
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -13850,6 +13999,7 @@
    "Universe": "S",
    "Player count": "Multiplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -13864,6 +14014,7 @@
    "Difficulty": 1,
    "Universe": "S",
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -13907,6 +14058,7 @@
    "Universe": "D",
    "Player count": "Multiplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -13921,6 +14073,7 @@
    "Difficulty": 1,
    "Universe": "D",
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -13964,6 +14117,7 @@
    "Universe": "O",
    "Player count": "Multiplayer",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -13978,6 +14132,7 @@
    "Difficulty": 1,
    "Universe": "O",
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14020,6 +14175,7 @@
    "Difficulty": 1,
    "Universe": "N",
    "Player count": "Multiplayer",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14046,6 +14202,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14059,6 +14216,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14072,6 +14230,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14085,6 +14244,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14098,6 +14258,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14111,6 +14272,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14124,6 +14286,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14137,6 +14300,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14150,6 +14314,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14163,6 +14328,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14176,6 +14342,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14189,6 +14356,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14202,6 +14370,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14215,6 +14384,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14228,6 +14398,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14241,6 +14412,7 @@
    "Category": "Player restrictions",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14254,6 +14426,7 @@
    "Category": "Player restrictions",
    "Difficulty": 4,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14267,6 +14440,7 @@
    "Category": "Player restrictions",
    "Difficulty": 5,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14280,6 +14454,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14293,6 +14468,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14306,6 +14482,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14319,6 +14496,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14332,6 +14510,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14345,6 +14524,7 @@
    "Category": "Player restrictions",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14358,6 +14538,7 @@
    "Category": "Player restrictions",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14371,6 +14552,7 @@
    "Category": "Player restrictions",
    "Difficulty": 4,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14384,6 +14566,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -14394,6 +14577,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "Difficulty": 3,
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -14405,6 +14589,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -14416,6 +14601,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -14427,6 +14613,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -14438,6 +14625,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -14449,6 +14637,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -14460,6 +14649,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -14471,6 +14661,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -14482,6 +14673,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -14493,6 +14685,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -14504,6 +14697,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -14515,6 +14709,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -14526,6 +14721,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -14537,6 +14733,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -14548,6 +14745,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -14559,6 +14757,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -14570,6 +14769,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -14581,6 +14781,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -14592,6 +14793,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -14602,7 +14804,6 @@
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "Difficulty": 2,
-   "IsSingleplayer": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "TheLazyHydra"
@@ -14614,6 +14815,7 @@
    "Difficulty": 1,
    "Universe": "W",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14628,6 +14830,7 @@
    "Difficulty": 1,
    "Universe": "S",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14642,6 +14845,7 @@
    "Difficulty": 1,
    "Universe": "D",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14656,6 +14860,7 @@
    "Difficulty": 1,
    "Universe": "O",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14670,6 +14875,7 @@
    "Difficulty": 1,
    "Universe": "N",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14684,6 +14890,7 @@
    "Difficulty": 1,
    "Universe": "W",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14698,6 +14905,7 @@
    "Difficulty": 1,
    "Universe": "S",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14712,6 +14920,7 @@
    "Difficulty": 1,
    "Universe": "D",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14726,6 +14935,7 @@
    "Difficulty": 1,
    "Universe": "O",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14740,6 +14950,7 @@
    "Difficulty": 1,
    "Universe": "N",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
@@ -14754,6 +14965,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Bahamut"
@@ -14765,6 +14977,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -14777,6 +14990,7 @@
    "Category": "Player restrictions",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -14788,6 +15002,7 @@
    "Category": "Player restrictions",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -14800,6 +15015,7 @@
    "Category": "Player restrictions",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
@@ -14821,6 +15037,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -14851,6 +15068,7 @@
    "Category": "Player restrictions",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Shuman"
@@ -14862,6 +15080,7 @@
    "Category": "Player restrictions",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -14872,7 +15091,6 @@
    "Source": "HeroesBingoData.json",
    "Category": "Map specific",
    "Difficulty": 1,
-   "IsSingleplayer": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsQuickMaps": "Yes",
@@ -14914,6 +15132,7 @@
    "Category": "Player restrictions",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -14935,6 +15154,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -14968,6 +15188,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -14979,6 +15200,7 @@
    "Category": "Player restrictions",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15000,6 +15222,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "Difficulty": 3,
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "TheLazyHydra"
@@ -15018,6 +15241,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15028,6 +15252,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15039,6 +15264,7 @@
    "Category": "Meta squares",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -15111,6 +15337,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15122,6 +15349,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15133,6 +15361,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15144,6 +15373,7 @@
    "Category": "Player restrictions",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
@@ -15164,6 +15394,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
@@ -15175,6 +15406,7 @@
    "Category": "Basic",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
@@ -15186,6 +15418,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
@@ -15197,6 +15430,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
@@ -15217,6 +15451,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Boogans Forever"
@@ -15227,16 +15462,18 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
  },
  {
-   "Nickname": "''Dynouh's Flight Bomb 2.0''",
+   "Nickname": "Try this combo: ''Dynouh's Flight Bomb 2.0''",
    "Challenge": "Angelic Flight + Lightbomb. (Auriel + Anduin)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
    "Difficulty": 5,
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15256,6 +15493,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Draft specific",
    "Difficulty": 5,
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Nonchampion"
@@ -15266,6 +15504,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15277,6 +15516,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15288,6 +15528,7 @@
    "Category": "Draft specific",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "ZergyMonster"
@@ -15299,6 +15540,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15321,6 +15563,7 @@
    "Category": "Draft specific",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
@@ -15342,6 +15585,7 @@
    "Category": "Basic",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "TheLazyHydra"
@@ -15353,6 +15597,7 @@
    "Category": "Basic",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "TheLazyHydra"
@@ -15363,6 +15608,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15373,6 +15619,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15383,6 +15630,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15393,6 +15641,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15403,6 +15652,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15413,6 +15663,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15423,6 +15674,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15433,6 +15685,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15443,6 +15696,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15453,6 +15707,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15463,6 +15718,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15473,6 +15729,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15502,7 +15759,6 @@
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
    "Difficulty": 1,
-   "IsSingleplayer": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15513,6 +15769,7 @@
    "Category": "Basic",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15523,6 +15780,7 @@
    "Category": "Basic",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15533,6 +15791,7 @@
    "Category": "Basic",
    "Difficulty": 4,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15543,6 +15802,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15553,6 +15813,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15563,6 +15824,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15573,6 +15835,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15583,6 +15846,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15593,6 +15857,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15603,6 +15868,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15614,6 +15880,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15624,6 +15891,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -15635,6 +15903,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -15646,6 +15915,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -15657,6 +15927,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -15668,6 +15939,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -15679,6 +15951,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -15690,6 +15963,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -15701,6 +15975,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -15712,6 +15987,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -15723,6 +15999,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -15734,6 +16011,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -15745,6 +16023,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark",
@@ -15757,6 +16036,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark",
@@ -15769,6 +16049,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark",
@@ -15781,6 +16062,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -15793,6 +16075,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
    "Difficulty": 1,
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark",
@@ -15805,6 +16088,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -15818,6 +16102,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark",
@@ -15830,6 +16115,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark",
@@ -15842,6 +16128,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark",
@@ -15854,6 +16141,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark",
@@ -15866,6 +16154,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -15879,6 +16168,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark",
@@ -15891,6 +16181,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark",
@@ -15903,6 +16194,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15912,6 +16204,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
    "Difficulty": 2,
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15941,6 +16234,7 @@
    "Category": "Basic",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15951,6 +16245,7 @@
    "Category": "Basic",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15961,6 +16256,7 @@
    "Category": "Basic",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15971,6 +16267,7 @@
    "Category": "Basic",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15981,6 +16278,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -15991,6 +16289,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16001,6 +16300,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16011,6 +16311,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16021,6 +16322,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16031,6 +16333,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16041,6 +16344,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16050,6 +16354,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
    "Difficulty": 2,
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16060,6 +16365,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16070,6 +16376,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16080,6 +16387,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16090,6 +16398,7 @@
    "Category": "Basic",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16100,6 +16409,7 @@
    "Category": "Basic",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16110,6 +16420,7 @@
    "Category": "Basic",
    "Difficulty": 4,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16120,6 +16431,7 @@
    "Category": "Basic",
    "Difficulty": 5,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16130,6 +16442,7 @@
    "Category": "Basic",
    "Difficulty": 5,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16141,6 +16454,7 @@
    "Category": "Basic",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16151,6 +16465,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16161,6 +16476,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16171,6 +16487,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16181,6 +16498,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16191,6 +16509,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16201,6 +16520,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16211,6 +16531,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16221,6 +16542,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16232,6 +16554,7 @@
    "Category": "Player restrictions",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16242,6 +16565,7 @@
    "Category": "Player restrictions",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16252,6 +16576,7 @@
    "Category": "Basic",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -16264,6 +16589,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16275,6 +16601,7 @@
    "Category": "Player restrictions",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Shuman"
@@ -16285,6 +16612,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16296,6 +16624,7 @@
    "Category": "Player restrictions",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16344,6 +16673,7 @@
    "Category": "Player restrictions",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16355,6 +16685,7 @@
    "Category": "Player restrictions",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16366,6 +16697,7 @@
    "Category": "Meta squares",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -16378,6 +16710,7 @@
    "Category": "Meta squares",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -16388,6 +16721,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Player restrictions",
    "Difficulty": 4,
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "TheLazyHydra"
@@ -16397,6 +16731,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Player restrictions",
    "Difficulty": 4,
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "TheLazyHydra"
@@ -16406,6 +16741,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Player restrictions",
    "Difficulty": 4,
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "TheLazyHydra"
@@ -16415,6 +16751,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Player restrictions",
    "Difficulty": 4,
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "TheLazyHydra"
@@ -16424,6 +16761,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Player restrictions",
    "Difficulty": 4,
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "TheLazyHydra"
@@ -16433,6 +16771,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Player restrictions",
    "Difficulty": 4,
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "TheLazyHydra"
@@ -16473,6 +16812,7 @@
    "Category": "Team restrictions",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -16493,6 +16833,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
    "Difficulty": 3,
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16538,6 +16879,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16558,6 +16900,7 @@
    "Category": "Team restrictions",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16568,6 +16911,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "Difficulty": 3,
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16609,6 +16953,7 @@
    "Category": "Team restrictions",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16619,6 +16964,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "Difficulty": 3,
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16669,6 +17015,7 @@
    "Category": "Player restrictions",
    "Difficulty": 5,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Hyva"
@@ -16680,6 +17027,7 @@
    "Category": "Player restrictions",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16691,6 +17039,7 @@
    "Category": "Player restrictions",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16702,6 +17051,7 @@
    "Category": "Player restrictions",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16713,6 +17063,7 @@
    "Category": "Player restrictions",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16724,6 +17075,7 @@
    "Category": "Team restrictions",
    "Difficulty": 4,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16735,6 +17087,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16746,6 +17099,7 @@
    "Category": "Team restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16757,6 +17111,7 @@
    "Category": "Team restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16768,6 +17123,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16779,6 +17135,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16790,6 +17147,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16801,6 +17159,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16812,6 +17171,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Campbellaz"
@@ -16822,6 +17182,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16831,6 +17192,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
    "Difficulty": 1,
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16859,6 +17221,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16868,6 +17231,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
    "Difficulty": 1,
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16896,6 +17260,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "Difficulty": 5,
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16907,6 +17272,7 @@
    "Category": "Player restrictions",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16918,6 +17284,7 @@
    "Category": "Player restrictions",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16947,6 +17314,7 @@
    "Category": "Player restrictions",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16958,6 +17326,7 @@
    "Category": "Player restrictions",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16969,6 +17338,7 @@
    "Category": "Player restrictions",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16980,6 +17350,7 @@
    "Category": "Player restrictions",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -16991,6 +17362,7 @@
    "Category": "Player restrictions",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17002,6 +17374,7 @@
    "Category": "Team restrictions",
    "Difficulty": 4,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -17014,6 +17387,7 @@
    "Category": "Team restrictions",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17025,6 +17399,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17053,6 +17428,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17063,6 +17439,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17073,6 +17450,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17083,6 +17461,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -17094,6 +17473,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -17105,6 +17485,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -17116,6 +17497,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -17127,6 +17509,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -17138,6 +17521,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -17149,6 +17533,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -17160,6 +17545,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17170,6 +17556,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17180,6 +17567,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17190,6 +17578,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17200,6 +17589,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17210,6 +17600,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17220,6 +17611,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17230,6 +17622,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -17241,6 +17634,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -17252,6 +17646,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -17263,6 +17658,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -17274,6 +17670,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -17285,6 +17682,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -17296,6 +17694,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17306,6 +17705,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17316,6 +17716,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "Difficulty": 3,
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17326,6 +17727,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "Difficulty": 3,
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17366,6 +17768,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17376,6 +17779,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17386,6 +17790,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17396,6 +17801,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17406,6 +17812,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17416,6 +17823,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17426,6 +17834,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17436,6 +17845,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17446,6 +17856,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17457,6 +17868,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17468,6 +17880,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17497,6 +17910,7 @@
    "Category": "Player restrictions",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Nuubee"
@@ -17507,6 +17921,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -17518,6 +17933,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -17548,6 +17964,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsCCL": "Yes",
@@ -17559,6 +17976,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17578,6 +17996,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Thunderkatz"
@@ -17588,6 +18007,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Thunderkatz"
@@ -17598,6 +18018,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Thunderkatz"
@@ -17608,6 +18029,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Thunderkatz"
@@ -17619,6 +18041,7 @@
    "Category": "Team restrictions",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark",
@@ -17631,6 +18054,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "TheLazyHydra"
@@ -17650,6 +18074,7 @@
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
    "Difficulty": 1,
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17678,6 +18103,7 @@
    "Category": "Basic",
    "Difficulty": 2,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17688,6 +18114,7 @@
    "Category": "Basic",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17698,6 +18125,7 @@
    "Category": "Basic",
    "Difficulty": 4,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17708,6 +18136,7 @@
    "Category": "Basic",
    "Difficulty": 5,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17718,28 +18147,31 @@
    "Category": "Basic",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
  },
  {
    "Nickname": "''Wraith awaiting orders''",
-   "Challenge": "Do a whole game impersonating the Wraith from SC1.",
+   "Challenge": "Do a whole game impersonating the Wraith from SC1 in comms.",
    "Source": "HeroesBingoData.json",
    "Category": "Player restrictions",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
  },
  {
    "Nickname": "''Vermillion Live''",
-   "Challenge": "Do a whole game impersonating Donny Vermillion from SC2.",
+   "Challenge": "Do a whole game impersonating Donny Vermillion from SC2 in comms.",
    "Source": "HeroesBingoData.json",
    "Category": "Player restrictions",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17751,6 +18183,7 @@
    "Category": "Player restrictions",
    "Difficulty": 4,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Jamster"
@@ -17762,17 +18195,19 @@
    "Category": "Team restrictions",
    "Difficulty": 4,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
  },
  {
    "Nickname": "''Stark, why?''",
-   "Challenge": "Do a whole game impersonating Donald Duck.",
+   "Challenge": "Do a whole game impersonating Donald Duck in comms.",
    "Source": "HeroesBingoData.json",
    "Category": "Player restrictions",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17804,6 +18239,7 @@
    "Category": "Player restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "EkeeB"
@@ -17815,6 +18251,7 @@
    "Category": "Player restrictions",
    "Difficulty": 3,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17826,6 +18263,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17837,6 +18275,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17848,6 +18287,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17859,6 +18299,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17870,6 +18311,7 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17881,17 +18323,19 @@
    "Category": "Basic",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
  },
  {
    "Nickname": "''Murgglgglggl''",
-   "Challenge": "Your bingo party does a whole game impersonating murlocs.",
+   "Challenge": "Your bingo party does a whole game impersonating murlocs in comms.",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "Difficulty": 1,
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "EkeeB"
@@ -17901,6 +18345,7 @@
    "Challenge": "Adrenal Overload + Shield Overload (Abathur + Artanis)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17910,6 +18355,7 @@
    "Challenge": "Adrenal Overload + Betrayer's Thirst (Abathur + Illidan)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17919,6 +18365,7 @@
    "Challenge": "Adrenal Overload + Skull Cracker (Abathur + Muradin)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Nuubee"
@@ -17928,6 +18375,7 @@
    "Challenge": "Adrenal Overload + Critical Strike (Abathur + Samuro)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17937,6 +18385,7 @@
    "Challenge": "Adrenal Overload + Twin Blades (Abathur + Varian)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "TheLazyHydra"
@@ -17946,6 +18395,7 @@
    "Challenge": "Adrenal Overload + Might of the Nerazim (Abathur + Zeratul)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17955,6 +18405,7 @@
    "Challenge": "Ultimate Evolution + Frostbite (Abathur + Jaina)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17964,6 +18415,7 @@
    "Challenge": "Ultimate Evolution + Concussion Mine (Abathur + Junkrat)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "TheLazyHydra"
@@ -17973,6 +18425,7 @@
    "Challenge": "Ultimate Evolution + Reaper's Mark (Abathur + Malthael)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17982,6 +18435,7 @@
    "Challenge": "Ultimate Evolution + Blood Rage (Abathur + Qhira)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -17991,6 +18445,7 @@
    "Challenge": "Evolutionary Link + Blind as a Bat (Abathur + Mal'Ganis)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18000,6 +18455,7 @@
    "Challenge": "Deadly Charge + Lightbomb (Alarak + Anduin)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18009,6 +18465,7 @@
    "Challenge": "Deadly Charge + Falling Sword (Alarak + Johanna)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18018,6 +18475,7 @@
    "Challenge": "Deadly Charge + Rocket Ride (Alarak + Junkrat)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18027,6 +18485,7 @@
    "Challenge": "Deadly Charge + Entomb (Alarak + Leoric)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18036,6 +18495,7 @@
    "Challenge": "Deadly Charge + Ley Line Seal (Alarak + Medivh)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18045,6 +18505,7 @@
    "Challenge": "Deadly Charge + Leap (Alarak + Sonya)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18063,6 +18524,7 @@
    "Challenge": "Circle of Life + New Habits (Alexstrasza + Blaze)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18072,6 +18534,7 @@
    "Challenge": "Circle of Life + Devil's Due (Alexstrasza + Diablo)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18081,6 +18544,7 @@
    "Challenge": "Circle of Life + Press Forward (Alexstrasza + Imperius)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18090,6 +18554,7 @@
    "Challenge": "Circle of Life + Laws of Hope (Alexstrasza + Johanna)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18099,6 +18564,7 @@
    "Challenge": "Circle of Life + Mana Addict (Alexstrasza + Kael'thas)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18108,6 +18574,7 @@
    "Challenge": "Circle of Life + Assimilation Mastery (Alexstrasza + Kerrigan)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18117,6 +18584,7 @@
    "Challenge": "Circle of Life + Power Hungry (Alexstrasza + Li-Ming)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18126,6 +18594,7 @@
    "Challenge": "Circle of Life + Spite (Alexstrasza + Mephisto)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18135,6 +18604,7 @@
    "Challenge": "Circle of Life + Hungry for More (Alexstrasza + Stitches)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18153,6 +18623,7 @@
    "Challenge": "Nano Boost + Temporal Loop (Ana + Chromie)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18162,6 +18633,7 @@
    "Challenge": "Nano Boost + Ring of Frost (Ana + Jaina)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18171,6 +18643,7 @@
    "Challenge": "Nano Boost + Water Elemental (Ana + Jaina)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18180,6 +18653,7 @@
    "Challenge": "Nano Boost + Pyroblast (Ana + Kael'thas)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "EkeeB"
@@ -18189,6 +18663,7 @@
    "Challenge": "Nano Boost + Shadow Fissure (Ana + Kel'Thuzad)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18198,6 +18673,7 @@
    "Challenge": "Nano Boost + Disintegrate (Ana + Li-Ming)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18207,6 +18683,7 @@
    "Challenge": "Nano Boost + Dark Conversion (Ana + Mal'Ganis)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18216,6 +18693,7 @@
    "Challenge": "Nano Boost + Tormented Souls (Ana + Malthael)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "TheLazyHydra"
@@ -18225,6 +18703,7 @@
    "Challenge": "Nano Boost + Consume Souls (Ana + Mephisto)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18234,6 +18713,7 @@
    "Challenge": "Nano Boost + Durance of Hate (Ana + Mephisto)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "ProstmanPAT"
@@ -18243,6 +18723,7 @@
    "Challenge": "Nano Boost + Ravenous Spirit (Ana + Nazeebo)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18252,6 +18733,7 @@
    "Challenge": "Cocoon + Molten Breath (Anub'arak + Deathwing)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18261,6 +18743,7 @@
    "Challenge": "Cocoon + Mighty Gust (Anub'arak + Falstad)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18270,6 +18753,7 @@
    "Challenge": "Cocoon + Planet Cracker (Anub'arak + Fenix)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18279,6 +18763,7 @@
    "Challenge": "Cocoon + Dragonstrike (Anub'arak + Hanzo)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18288,6 +18773,7 @@
    "Challenge": "Cocoon + Rocket Ride (Anub'arak + Junkrat)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18297,6 +18783,7 @@
    "Challenge": "Cocoon + Arcane Orb (Anub'arak + Li-Ming)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18306,6 +18793,7 @@
    "Challenge": "Cocoon + Sulfuras Smash (Anub'arak + Ragnaros)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18315,6 +18803,7 @@
    "Challenge": "Cocoon + Lava Wave (Anub'arak + Ragnaros)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18324,6 +18813,7 @@
    "Challenge": "Lamb to the Slaughter + Molten Breath (Butcher + Deathwing)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Thunderkatz"
@@ -18333,6 +18823,7 @@
    "Challenge": "Lamb to the Slaughter + Healing Potion (Butcher + Deckard)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18342,6 +18833,7 @@
    "Challenge": "Lamb to the Slaughter + Mighty Gust (Butcher + Falstad)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Thunderkatz"
@@ -18351,6 +18843,7 @@
    "Challenge": "Lamb to the Slaughter + Planet Cracker (Butcher + Fenix)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
@@ -18360,6 +18853,7 @@
    "Challenge": "Lamb to the Slaughter + Dragonstrike (Butcher + Hanzo)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Grubby"
@@ -18369,6 +18863,7 @@
    "Challenge": "Lamb to the Slaughter + Poly Bomb (Butcher + Medivh)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "TheLazyHydra"
@@ -18378,6 +18873,7 @@
    "Challenge": "Lamb to the Slaughter + Ravenous Spirit (Butcher + Nazeebo)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18387,6 +18883,7 @@
    "Challenge": "Lamb to the Slaughter + Wailing Arrow (Butcher + Sylvanas)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Thunderkatz"
@@ -18423,6 +18920,7 @@
    "Challenge": "Stay Awhile and Listen + Combustion (Deckard Cain + Blaze)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18432,6 +18930,7 @@
    "Challenge": "Stay Awhile and Listen + Cataclysm (Deckard Cain + Deathwing)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18441,6 +18940,7 @@
    "Challenge": "Stay Awhile and Listen + Apocalypse (Deckard Cain + Diablo)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18450,6 +18950,7 @@
    "Challenge": "Stay Awhile and Listen + Hinterlands Blast (Deckard Cain + Falstad)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18459,6 +18960,7 @@
    "Challenge": "Stay Awhile and Listen + Dragonstrike (Deckard Cain + Hanzo)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18468,6 +18970,7 @@
    "Challenge": "Stay Awhile and Listen + Ring of Frost (Deckard Cain + Jaina)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18477,6 +18980,7 @@
    "Challenge": "Apocalypse + Wind Tunnel (Diablo + Falstad)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18486,6 +18990,7 @@
    "Challenge": "Apocalypse + Dragon's Arrow (Diablo + Hanzo)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18495,6 +19000,7 @@
    "Challenge": "Apocalypse + Warden's Cage (Diablo + Maiev)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "7thAce"
@@ -18504,6 +19010,7 @@
    "Challenge": "Apocalypse + Ley Line Seal (Diablo + Medivh)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18513,6 +19020,7 @@
    "Challenge": "Apocalypse + Void Prison (Diablo + Zeratul)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18522,6 +19030,7 @@
    "Challenge": "Self-Destruct + Into the Fray (D.Va + Garrosh)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "TheLazyHydra"
@@ -18531,6 +19040,7 @@
    "Challenge": "Mosh Pit + Light of Stormwind (ETC + Anduin)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18540,6 +19050,7 @@
    "Challenge": "Mosh Pit + Dragonstrike (ETC + Hanzo)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "EkeeB"
@@ -18549,6 +19060,7 @@
    "Challenge": "Mosh Pit + Ring of Frost (ETC + Jaina)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18558,6 +19070,7 @@
    "Challenge": "Mosh Pit + Planet Cracker (ETC + Fenix)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18567,6 +19080,7 @@
    "Challenge": "Mighty Gust + Gorge (Falstad + Stitches)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18576,6 +19090,7 @@
    "Challenge": "Warlord's Challenge + RIP-Tire (Garrosh + Junkrat)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18585,6 +19100,7 @@
    "Challenge": "Warlord's Challenge + Poly Bomb (Garrosh + Medivh)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18594,6 +19110,7 @@
    "Challenge": "Into the Fray + Lightbomb (Garrosh + Anduin)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18603,6 +19120,7 @@
    "Challenge": "Grav-O-Bomb + Purification Salvo (Gazlowe + Fenix)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18612,6 +19130,7 @@
    "Challenge": "Grav-O-Bomb + Planet Cracker (Gazlowe + Fenix)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18621,6 +19140,7 @@
    "Challenge": "Grav-O-Bomb + Master at Arms (Gazlowe + Varian)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Iron"
@@ -18630,6 +19150,7 @@
    "Challenge": "Grav-O-Bomb + Graviton Surge (Gazlowe + Zarya)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "tahngarah"
@@ -18639,6 +19160,7 @@
    "Challenge": "Dragonblade + Lightbomb (Genji + Anduin)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18648,6 +19170,7 @@
    "Challenge": "Horrify + Purification Salvo (Gul'dan + Fenix)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18657,6 +19180,7 @@
    "Challenge": "The Hunt + Hinterlands Blast (Illidan + Falstad)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18666,6 +19190,7 @@
    "Challenge": "The Hunt + Planet Cracker (Illidan + Fenix)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18675,6 +19200,7 @@
    "Challenge": "The Hunt + Dragon's Arrow (Illidan + Hanzo)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18684,6 +19210,7 @@
    "Challenge": "The Hunt + Pyroblast (Illidan + Kael'thas)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18693,6 +19220,7 @@
    "Challenge": "The Hunt + Precision Strike (Illidan + Nova)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18702,6 +19230,7 @@
    "Challenge": "The Hunt + Blunt Force Gun (Illidan + Sgt. Hammer)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18720,6 +19249,7 @@
    "Challenge": "Entomb + Molten Breath (Leoric + Deathwing)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Thunderkatz"
@@ -18729,6 +19259,7 @@
    "Challenge": "Entomb + Dragonstrike (Leoric + Hanzo)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Bahamut"
@@ -18738,6 +19269,7 @@
    "Challenge": "Entomb + RIP-Tire (Leoric + Junkrat)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Anonymous"
@@ -18747,6 +19279,7 @@
    "Challenge": "Entomb + Lurking Arm (Leoric + Stukov)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18756,6 +19289,7 @@
    "Challenge": "Water Dragon + Triple Tap (Li Li + Nova)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Caelis87"
@@ -18774,6 +19308,7 @@
    "Challenge": "Force of Will + Dark Conversion (Medivh + Mal'Ganis)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18783,6 +19318,7 @@
    "Challenge": "Ley Line Seal + Hinterlands Blast (Medivh + Falstad)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18792,6 +19328,7 @@
    "Challenge": "Ley Line Seal + March of the Murlocs (Medivh + Murky)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18801,6 +19338,7 @@
    "Challenge": "Portal + Gorge (Medivh + Stitches)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
@@ -18810,6 +19348,7 @@
    "Challenge": "Portal + Poison Nova (Medivh + Xul)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Anonymous"
@@ -18819,6 +19358,7 @@
    "Challenge": "Ice Wall + Molten Breath (Mei + Deathwing)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18828,6 +19368,7 @@
    "Challenge": "Ice Wall + Hinterlands Blast (Mei + Falstad)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18837,6 +19378,7 @@
    "Challenge": "Ice Wall + Purification Salvo (Mei + Fenix)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18846,6 +19388,7 @@
    "Challenge": "Ice Wall + Planet Cracker (Mei + Fenix)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Iron"
@@ -18855,6 +19398,7 @@
    "Challenge": "Ice Wall + Dragonstrike (Mei + Hanzo)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18864,6 +19408,7 @@
    "Challenge": "Ice Wall + Ring of Frost + March of the Murlocs (Mei + Jaina + Murky)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18873,6 +19418,7 @@
    "Challenge": "Ice Wall + Lurking Arm (Mei + Stukov)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18882,6 +19428,7 @@
    "Challenge": "Haymaker + Frost Blast (Muradin + Kel'Thuzad)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18891,6 +19438,7 @@
    "Challenge": "Octograb + Hinterlands Blast (Murky + Falstad)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Gillyweed"
@@ -18900,6 +19448,7 @@
    "Challenge": "Octograb + Planet Cracker (Murky + Fenix)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "XulRules"
@@ -18909,6 +19458,7 @@
    "Challenge": "Octograb + Dragonblade (Murky + Genji)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18918,6 +19468,7 @@
    "Challenge": "Octograb + Dragonstrike (Murky + Hanzo)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18927,6 +19478,7 @@
    "Challenge": "Octograb + Dragon's Arrow (Murky + Hanzo)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18936,6 +19488,7 @@
    "Challenge": "Octograb + Ring of Frost (Murky + Jaina)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "EkeeB"
@@ -18945,6 +19498,7 @@
    "Challenge": "Octograb + Pyroblast (Murky + Kael'thas)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "EkeeB"
@@ -18954,6 +19508,7 @@
    "Challenge": "Octograb + Precision Strike (Murky + Nova)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18963,6 +19518,7 @@
    "Challenge": "Octograb + Blunt Force Gun (Murky + Sgt. Hammer)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18972,6 +19528,7 @@
    "Challenge": "Octograb + Leap (Murky + Sonya)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18981,6 +19538,7 @@
    "Challenge": "Octograb + Lurking Arm (Murky + Stukov)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -18990,6 +19548,7 @@
    "Challenge": "Zombie Wall + Lurking Arm (Nazeebo + Stukov)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Bahamut"
@@ -18999,6 +19558,7 @@
    "Challenge": "Sulfuras Smash + Colossus Smash (Ragnaros + Varian)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Iron"
@@ -19008,6 +19568,7 @@
    "Challenge": "Bloodlust + Archon Form (Rehgar + Tassadar)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19017,6 +19578,7 @@
    "Challenge": "Bloodlust + Comandeer Odin (Rehgar + Tychus)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19026,6 +19588,7 @@
    "Challenge": "Bloodlust + Twin Blades (Rehgar + Varian)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19035,6 +19598,7 @@
    "Challenge": "Bloodlust + Cursed Strikes (Rehgar + Xul)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19044,15 +19608,17 @@
    "Challenge": "Bloodlust + Taz'dingo! (Rehgar + Zul'jin)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
  },
  {
-   "Nickname": "Try this wombo: ''Band of Might''",
+   "Nickname": "Try this wombo: ''Band of Light''",
    "Challenge": "Leap + Lightbomb (Sonya + Anduin)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19062,6 +19628,7 @@
    "Challenge": "Leap + Hinterlands Blast (Sonya + Falstad)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19071,6 +19638,7 @@
    "Challenge": "Leap + Purification Salvo (Sonya + Fenix)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19080,6 +19648,7 @@
    "Challenge": "Leap + Planet Cracker (Sonya + Fenix)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19089,6 +19658,7 @@
    "Challenge": "Arreat Crater + Dragonstrike (Sonya + Hanzo)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Grubby"
@@ -19098,6 +19668,7 @@
    "Challenge": "Leap + Dragon's Arrow (Sonya + Hanzo)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19107,6 +19678,7 @@
    "Challenge": "Leap + Ring of Frost (Sonya + Jaina)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19116,15 +19688,17 @@
    "Challenge": "Leap + Earthquake (Sonya + Thrall)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
  },
  {
    "Nickname": "Try this wombo: ''Royal Gorge''",
-   "Challenge": "Gorge + Leap of Faith",
+   "Challenge": "Gorge + Leap of Faith (Stitches + Anduin)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
@@ -19134,6 +19708,7 @@
    "Challenge": "Wailing Arrow + Dragon's Arrow (Sylvanas + Hanzo)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "TheLazyHydra"
@@ -19143,6 +19718,7 @@
    "Challenge": "Wailing Arrow + Twilight Dream (Sylvanas + Malfurion)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Gillyweed"
@@ -19152,6 +19728,7 @@
    "Challenge": "Mind Control + Taunt (Sylvanas + Varian)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19161,6 +19738,7 @@
    "Challenge": "Black Hole + Sulfuras Smash (Tassadar + Ragnaros)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "TheLazyHydra"
@@ -19170,6 +19748,7 @@
    "Challenge": "Force Wall + Entomb (Tassadar + Leoric)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Grubby"
@@ -19179,6 +19758,7 @@
    "Challenge": "Earthquake + Purification Salvo (Thrall + Fenix)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19188,6 +19768,7 @@
    "Challenge": "Earthquake + Bloodlust (Thrall + Rehgar)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19197,6 +19778,7 @@
    "Challenge": "Judgement + Sulfuras Smash (Tyrael + Ragnaros)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19206,6 +19788,7 @@
    "Challenge": "Judgement + Hinterlands Blast (Tyrael + Falstad)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Gillyweed"
@@ -19215,6 +19798,7 @@
    "Challenge": "Sanctification + Mosh Pit (Tyrael + ETC)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19224,6 +19808,7 @@
    "Challenge": "Sanctification + Dragonblade (Tyrael + Genji)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19233,6 +19818,7 @@
    "Challenge": "Sanctification + Go for the Throat (Tyrael + Greymane)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19242,6 +19828,7 @@
    "Challenge": "Sanctification + Maelstrom (Tyrael + Kerrigan)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19251,6 +19838,7 @@
    "Challenge": "Sanctification + Divine Shield (Tyrael + Uther)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19260,6 +19848,7 @@
    "Challenge": "Sanctification + Taz'dingo! (Tyrael + Zul'jin)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19269,6 +19858,7 @@
    "Challenge": "Holy Arena + Death Siphon (Tyrael + Valla)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19278,6 +19868,7 @@
    "Challenge": "Holy Arena + Bulwark of Light (Tyrael + Uther)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19287,6 +19878,7 @@
    "Challenge": "Divine Shield + Dragonblade (Uther + Genji)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19296,6 +19888,7 @@
    "Challenge": "Divine Shield + Go for the Throat (Uther + Greymane)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19305,6 +19898,7 @@
    "Challenge": "Divine Shield + No Control (Uther + Hogger)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19314,6 +19908,7 @@
    "Challenge": "Divine Shield + Maelstrom (Uther + Kerrigan)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19323,6 +19918,7 @@
    "Challenge": "Divine Shield + Tormented Souls (Uther + Malthael)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19332,6 +19928,7 @@
    "Challenge": "Divine Shield + Safety Bubble (Uther + Murky)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Bahamut"
@@ -19341,6 +19938,7 @@
    "Challenge": "Divine Shield + Taz'dingo! (Uther + Zul'jin)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19350,6 +19948,7 @@
    "Challenge": "Bulwark of Light + Safety Bubble (Uther + Murky)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "XulRules"
@@ -19359,6 +19958,7 @@
    "Challenge": "Divine Storm + Hinterlands Blast (Uther + Falstad)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19368,6 +19968,7 @@
    "Challenge": "Taunt + Lightbomb (Varian + Anduin)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Thunderkatz"
@@ -19377,6 +19978,7 @@
    "Challenge": "Taunt + Valkyrie (Varian + Cassia)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19386,6 +19988,7 @@
    "Challenge": "Taunt + Hinterlands Blast (Varian + Falstad)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19395,6 +19998,7 @@
    "Challenge": "Taunt + Planet Cracker (Varian + Fenix)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19404,6 +20008,7 @@
    "Challenge": "Taunt + Warlord's Challenge (Varian + Garrosh)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19413,6 +20018,7 @@
    "Challenge": "Taunt + Ring of Frost (Varian + Jaina)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19422,6 +20028,7 @@
    "Challenge": "Taunt + RIP-Tire (Varian + Junkrat)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19431,6 +20038,7 @@
    "Challenge": "Taunt + Blunt Force Gun (Varian + Sgt. Hammer)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Thunderkatz"
@@ -19440,6 +20048,7 @@
    "Challenge": "Taunt + Low Blow (Varian + Stukov)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Thunderkatz"
@@ -19449,6 +20058,7 @@
    "Challenge": "Taunt + Mind Control (Varian + Sylvanas)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19458,6 +20068,7 @@
    "Challenge": "Devouring Maw + Molten Breath (Zagara + Deathwing)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19467,6 +20078,7 @@
    "Challenge": "Devouring Maw + Hinterlands Blast (Zagara + Falstad)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19476,6 +20088,7 @@
    "Challenge": "Devouring Maw + Planet Cracker (Zagara + Fenix)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19485,6 +20098,7 @@
    "Challenge": "Devouring Maw + Dragonstrike (Zagara + Hanzo)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19494,6 +20108,7 @@
    "Challenge": "Devouring Maw + Ring of Frost (Zagara + Jaina)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19503,6 +20118,7 @@
    "Challenge": "Devouring Maw + RIP-Tire (Zagara + Junkrat)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19512,6 +20128,7 @@
    "Challenge": "Devouring Maw + Rocket Ride (Zagara + Junkrat)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19521,6 +20138,7 @@
    "Challenge": "Devouring Maw + Ravenous Spirit (Zagara + Nazeebo)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19530,6 +20148,7 @@
    "Challenge": "Devouring Maw + Sulfuras Smash (Zagara + Ragnaros)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19539,6 +20158,7 @@
    "Challenge": "Devouring Maw + Lurking Arm (Zagara + Stukov)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19548,6 +20168,7 @@
    "Challenge": "Graviton Surge + Molten Breath (Zarya + Deathwing)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19557,6 +20178,7 @@
    "Challenge": "Graviton Surge + Hinterlands Blast (Zarya + Falstad)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19566,6 +20188,7 @@
    "Challenge": "Graviton Surge + Planet Cracker (Zarya + Fenix)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19575,6 +20198,7 @@
    "Challenge": "Graviton Surge + Dragonstrike (Zarya + Hanzo)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19584,6 +20208,7 @@
    "Challenge": "Graviton Surge + Ring of Frost (Zarya + Jaina)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19593,6 +20218,7 @@
    "Challenge": "Graviton Surge + Zombie Wall (Zarya + Nazeebo)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19602,6 +20228,7 @@
    "Challenge": "Graviton Surge + Sulfuras Smash (Zarya + Ragnaros)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Nuubee"
@@ -19611,6 +20238,7 @@
    "Challenge": "Graviton Surge + Lurking Arm (Zarya + Stukov)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19620,6 +20248,7 @@
    "Challenge": "Speed Barrier + Combustion (Zarya + Blaze)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19629,6 +20258,7 @@
    "Challenge": "Speed Barrier + Wrecking Ball (Zarya + Garrosh)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Nuubee"
@@ -19638,6 +20268,7 @@
    "Challenge": "Speed Barrier + Safety Bubble (Zarya + Murky)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19647,6 +20278,7 @@
    "Challenge": "Void Prison + Hinterlands Blast (Zeratul + Falstad)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19656,6 +20288,7 @@
    "Challenge": "Void Prison + Purification Salvo (Zeratul + Fenix)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19665,6 +20298,7 @@
    "Challenge": "Void Prison + Planet Cracker (Zeratul + Fenix)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19674,6 +20308,7 @@
    "Challenge": "Void Prison + Dragonstrike (Zeratul + Hanzo)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19683,6 +20318,7 @@
    "Challenge": "Void Prison + Ring of Frost (Zeratul + Jaina)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Bahamut"
@@ -19692,6 +20328,7 @@
    "Challenge": "Void Prison + Zombie Wall (Zeratul + Nazeebo)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19701,6 +20338,7 @@
    "Challenge": "Void Prison + Sulfuras Smash (Zeratul + Ragnaros)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
@@ -19710,6 +20348,29 @@
    "Challenge": "Taz'dingo! + Divine Palm (Zul'jin + Kharazim)",
    "Source": "HeroesBingoData.json",
    "Category": "Wombo combo",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''We don't die. We just have happy ints.''",
+   "Challenge": "Do a whole game impersonating Bob Ross in comms.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''Welcome to BNGO FM!''",
+   "Challenge": "Do a whole game impersonating a radio show host in comms.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
