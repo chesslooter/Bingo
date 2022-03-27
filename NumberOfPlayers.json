@@ -6,8 +6,12 @@
   "Header": "Select how many players are in your party.",
   "Buttons": [
     {
-      "ButtonName": "Singleplayer: 1-4 players in your party",
+      "ButtonName": "Singleplayer: 1 player in your party",
       "ButtonValue": "IsSingleplayer"
+    },
+    {
+      "ButtonName": "Singleplayer: 2-4 players in your party",
+      "ButtonValue": "IsParty" 
     },
     {
       "ButtonName": "Multiplayer: 5 players in your party",
