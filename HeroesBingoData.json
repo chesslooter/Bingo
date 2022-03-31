@@ -3644,7 +3644,7 @@
  {
    "Nickname": "Win with Abathur",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -3654,7 +3654,7 @@
  {
    "Nickname": "Win with Alarak",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -3664,7 +3664,7 @@
  {
    "Nickname": "Win with Alexstrasza",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -3674,7 +3674,7 @@
  {
    "Nickname": "Win with Ana",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "O",
    "Player count": "Singleplayer",
@@ -3684,7 +3684,7 @@
  {
    "Nickname": "Win with Anduin",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -3695,7 +3695,7 @@
  {
    "Nickname": "Win with Anub'arak",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -3706,7 +3706,7 @@
  {
    "Nickname": "Win with Artanis",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -3716,7 +3716,7 @@
  {
    "Nickname": "Win with Arthas",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -3726,7 +3726,7 @@
  {
    "Nickname": "Win with Auriel",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -3736,7 +3736,7 @@
  {
    "Nickname": "Win with Azmodan",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -3746,7 +3746,7 @@
  {
    "Nickname": "Win with Blaze",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -3757,7 +3757,7 @@
  {
    "Nickname": "Win with Brightwing",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -3768,7 +3768,7 @@
  {
    "Nickname": "Win with Cassia",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -3778,7 +3778,7 @@
  {
    "Nickname": "Win with Chen",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -3788,7 +3788,7 @@
  {
    "Nickname": "Win with Cho",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Multiplayer",
@@ -3799,7 +3799,7 @@
  {
    "Nickname": "Win with Chromie",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -3809,7 +3809,7 @@
  {
    "Nickname": "Win with D.Va",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "O",
    "Player count": "Singleplayer",
@@ -3819,7 +3819,7 @@
  {
    "Nickname": "Win with Deathwing",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -3829,7 +3829,7 @@
  {
    "Nickname": "Win with Deckard Cain",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -3839,7 +3839,7 @@
  {
    "Nickname": "Win with Dehaka",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -3850,7 +3850,7 @@
  {
    "Nickname": "Win with Diablo",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -3861,7 +3861,7 @@
  {
    "Nickname": "Win with ETC",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -3871,7 +3871,7 @@
  {
    "Nickname": "Win with Falstad",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -3882,7 +3882,7 @@
  {
    "Nickname": "Win with Fenix",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -3892,7 +3892,7 @@
  {
    "Nickname": "Win with Gall",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Multiplayer",
@@ -3903,7 +3903,7 @@
  {
    "Nickname": "Win with Garrosh",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -3913,7 +3913,7 @@
  {
    "Nickname": "Win with Gazlowe",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -3923,7 +3923,7 @@
  {
    "Nickname": "Win with Genji",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "O",
    "Player count": "Singleplayer",
@@ -3933,7 +3933,7 @@
  {
    "Nickname": "Win with Greymane",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -3943,7 +3943,7 @@
  {
    "Nickname": "Win with Gul'dan",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -3953,7 +3953,7 @@
  {
    "Nickname": "Win with Hanzo",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "O",
    "Player count": "Singleplayer",
@@ -3964,7 +3964,7 @@
  {
    "Nickname": "Win with Hogger",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -3975,7 +3975,7 @@
  {
    "Nickname": "Win with Illidan",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -3985,7 +3985,7 @@
  {
    "Nickname": "Win with Imperius",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -3995,7 +3995,7 @@
  {
    "Nickname": "Win with Jaina",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -4005,7 +4005,7 @@
  {
    "Nickname": "Win with Johanna",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -4016,7 +4016,7 @@
  {
    "Nickname": "Win with Junkrat",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "O",
    "Player count": "Singleplayer",
@@ -4027,7 +4027,7 @@
  {
    "Nickname": "Win with Kael'thas",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -4037,7 +4037,7 @@
  {
    "Nickname": "Win with Kel'Thuzad",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -4047,7 +4047,7 @@
  {
    "Nickname": "Win with Kerrigan",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -4057,7 +4057,7 @@
  {
    "Nickname": "Win with Kharazim",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -4067,7 +4067,7 @@
  {
    "Nickname": "Win with Leoric",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -4078,7 +4078,7 @@
  {
    "Nickname": "Win with Li Li",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -4088,7 +4088,7 @@
  {
    "Nickname": "Win with Li-Ming",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -4099,7 +4099,7 @@
  {
    "Nickname": "Win with Lt. Morales",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -4109,7 +4109,7 @@
  {
    "Nickname": "Win with Lucio",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "O",
    "Player count": "Singleplayer",
@@ -4120,7 +4120,7 @@
  {
    "Nickname": "Win with Lunara",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -4131,7 +4131,7 @@
  {
    "Nickname": "Win with Maiev",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -4142,7 +4142,7 @@
  {
    "Nickname": "Win with Mal'Ganis",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -4152,7 +4152,7 @@
  {
    "Nickname": "Win with Malfurion",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -4163,7 +4163,7 @@
  {
    "Nickname": "Win with Malthael",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -4173,7 +4173,7 @@
  {
    "Nickname": "Win with Medivh",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -4184,7 +4184,7 @@
  {
    "Nickname": "Win with Mei",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "O",
    "Player count": "Singleplayer",
@@ -4194,7 +4194,7 @@
  {
    "Nickname": "Win with Mephisto",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -4205,7 +4205,7 @@
  {
    "Nickname": "Win with Muradin",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -4216,7 +4216,7 @@
  {
    "Nickname": "Win with Murky",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -4226,7 +4226,7 @@
  {
    "Nickname": "Win with Nazeebo",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -4236,7 +4236,7 @@
  {
    "Nickname": "Win with Nova",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -4246,7 +4246,7 @@
  {
    "Nickname": "Win with Orphea",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "N",
    "Player count": "Singleplayer",
@@ -4256,7 +4256,7 @@
  {
    "Nickname": "Win with Probius",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -4266,7 +4266,7 @@
  {
    "Nickname": "Win with Qhira",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "N",
    "Player count": "Singleplayer",
@@ -4276,7 +4276,7 @@
  {
    "Nickname": "Win with Ragnaros",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -4286,7 +4286,7 @@
  {
    "Nickname": "Win with Raynor",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -4296,7 +4296,7 @@
  {
    "Nickname": "Win with Rehgar",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -4307,7 +4307,7 @@
  {
    "Nickname": "Win with Rexxar",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -4317,7 +4317,7 @@
  {
    "Nickname": "Win with Samuro",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -4327,7 +4327,7 @@
  {
    "Nickname": "Win with Sgt. Hammer",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -4337,7 +4337,7 @@
  {
    "Nickname": "Win with Sonya",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -4347,7 +4347,7 @@
  {
    "Nickname": "Win with Stitches",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -4358,7 +4358,7 @@
  {
    "Nickname": "Win with Stukov",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -4369,7 +4369,7 @@
  {
    "Nickname": "Win with Sylvanas",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -4380,7 +4380,7 @@
  {
    "Nickname": "Win with Tassadar",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -4390,7 +4390,7 @@
  {
    "Nickname": "Win with The Butcher",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -4400,7 +4400,7 @@
  {
    "Nickname": "Win with The Lost Vikings",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "N",
    "Player count": "Singleplayer",
@@ -4410,7 +4410,7 @@
  {
    "Nickname": "Win with Thrall",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -4420,7 +4420,7 @@
  {
    "Nickname": "Win with Tracer",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "O",
    "Player count": "Singleplayer",
@@ -4431,7 +4431,7 @@
  {
    "Nickname": "Win with Tychus",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -4442,7 +4442,7 @@
  {
    "Nickname": "Win with Tyrael",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -4452,7 +4452,7 @@
  {
    "Nickname": "Win with Tyrande",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -4462,7 +4462,7 @@
  {
    "Nickname": "Win with Uther",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -4472,7 +4472,7 @@
  {
    "Nickname": "Win with Valeera",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -4482,7 +4482,7 @@
  {
    "Nickname": "Win with Valla",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -4493,7 +4493,7 @@
  {
    "Nickname": "Win with Varian",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -4504,7 +4504,7 @@
  {
    "Nickname": "Win with Whitemane",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -4514,7 +4514,7 @@
  {
    "Nickname": "Win with Xul",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -4524,7 +4524,7 @@
  {
    "Nickname": "Win with Yrel",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -4535,7 +4535,7 @@
  {
    "Nickname": "Win with Zagara",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -4545,7 +4545,7 @@
  {
    "Nickname": "Win with Zarya",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "O",
    "Player count": "Singleplayer",
@@ -4555,7 +4555,7 @@
  {
    "Nickname": "Win with Zeratul",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -4565,7 +4565,7 @@
  {
    "Nickname": "Win with Zul'jin",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 2,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -6568,7 +6568,7 @@
  {
    "Nickname": "Play as Abathur",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -6578,7 +6578,7 @@
  {
    "Nickname": "Play as Alarak",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -6588,7 +6588,7 @@
  {
    "Nickname": "Play as Alexstrasza",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -6598,7 +6598,7 @@
  {
    "Nickname": "Play as Ana",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "O",
    "Player count": "Singleplayer",
@@ -6608,7 +6608,7 @@
  {
    "Nickname": "Play as Anduin",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -6619,7 +6619,7 @@
  {
    "Nickname": "Play as Anub'arak",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -6630,7 +6630,7 @@
  {
    "Nickname": "Play as Artanis",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -6640,7 +6640,7 @@
  {
    "Nickname": "Play as Arthas",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -6650,7 +6650,7 @@
  {
    "Nickname": "Play as Auriel",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -6660,7 +6660,7 @@
  {
    "Nickname": "Play as Azmodan",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -6670,7 +6670,7 @@
  {
    "Nickname": "Play as Blaze",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -6681,7 +6681,7 @@
  {
    "Nickname": "Play as Brightwing",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -6692,7 +6692,7 @@
  {
    "Nickname": "Play as Cassia",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -6702,7 +6702,7 @@
  {
    "Nickname": "Play as Chen",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -6712,7 +6712,7 @@
  {
    "Nickname": "Play as Cho",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Multiplayer",
@@ -6723,7 +6723,7 @@
  {
    "Nickname": "Play as Chromie",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -6733,7 +6733,7 @@
  {
    "Nickname": "Play as D.Va",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "O",
    "Player count": "Singleplayer",
@@ -6743,7 +6743,7 @@
  {
    "Nickname": "Play as Deathwing",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -6753,7 +6753,7 @@
  {
    "Nickname": "Play as Deckard Cain",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -6763,7 +6763,7 @@
  {
    "Nickname": "Play as Dehaka",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -6774,7 +6774,7 @@
  {
    "Nickname": "Play as Diablo",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -6785,7 +6785,7 @@
  {
    "Nickname": "Play as ETC",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -6795,7 +6795,7 @@
  {
    "Nickname": "Play as Falstad",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -6806,7 +6806,7 @@
  {
    "Nickname": "Play as Fenix",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -6816,7 +6816,7 @@
  {
    "Nickname": "Play as Gall",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Multiplayer",
@@ -6827,7 +6827,7 @@
  {
    "Nickname": "Play as Garrosh",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -6837,7 +6837,7 @@
  {
    "Nickname": "Play as Gazlowe",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -6847,7 +6847,7 @@
  {
    "Nickname": "Play as Genji",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "O",
    "Player count": "Singleplayer",
@@ -6857,7 +6857,7 @@
  {
    "Nickname": "Play as Greymane",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -6867,7 +6867,7 @@
  {
    "Nickname": "Play as Gul'dan",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -6877,7 +6877,7 @@
  {
    "Nickname": "Play as Hanzo",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "O",
    "Player count": "Singleplayer",
@@ -6888,7 +6888,7 @@
  {
    "Nickname": "Play as Hogger",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -6899,7 +6899,7 @@
  {
    "Nickname": "Play as Illidan",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -6909,7 +6909,7 @@
  {
    "Nickname": "Play as Imperius",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -6919,7 +6919,7 @@
  {
    "Nickname": "Play as Jaina",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -6929,7 +6929,7 @@
  {
    "Nickname": "Play as Johanna",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -6940,7 +6940,7 @@
  {
    "Nickname": "Play as Junkrat",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "O",
    "Player count": "Singleplayer",
@@ -6951,7 +6951,7 @@
  {
    "Nickname": "Play as Kael'thas",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -6961,7 +6961,7 @@
  {
    "Nickname": "Play as Kel'Thuzad",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -6971,7 +6971,7 @@
  {
    "Nickname": "Play as Kerrigan",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -6981,7 +6981,7 @@
  {
    "Nickname": "Play as Kharazim",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -6991,7 +6991,7 @@
  {
    "Nickname": "Play as Leoric",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -7002,7 +7002,7 @@
  {
    "Nickname": "Play as Li Li",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -7012,7 +7012,7 @@
  {
    "Nickname": "Play as Li-Ming",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -7023,7 +7023,7 @@
  {
    "Nickname": "Play as Lt. Morales",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -7033,7 +7033,7 @@
  {
    "Nickname": "Play as Lucio",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "O",
    "Player count": "Singleplayer",
@@ -7044,7 +7044,7 @@
  {
    "Nickname": "Play as Lunara",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -7055,7 +7055,7 @@
  {
    "Nickname": "Play as Maiev",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -7066,7 +7066,7 @@
  {
    "Nickname": "Play as Mal'Ganis",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -7076,7 +7076,7 @@
  {
    "Nickname": "Play as Malfurion",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -7087,7 +7087,7 @@
  {
    "Nickname": "Play as Malthael",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -7097,7 +7097,7 @@
  {
    "Nickname": "Play as Medivh",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -7108,7 +7108,7 @@
  {
    "Nickname": "Play as Mei",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "O",
    "Player count": "Singleplayer",
@@ -7118,7 +7118,7 @@
  {
    "Nickname": "Play as Mephisto",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -7129,7 +7129,7 @@
  {
    "Nickname": "Play as Muradin",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -7140,7 +7140,7 @@
  {
    "Nickname": "Play as Murky",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -7150,7 +7150,7 @@
  {
    "Nickname": "Play as Nazeebo",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -7160,7 +7160,7 @@
  {
    "Nickname": "Play as Nova",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -7170,7 +7170,7 @@
  {
    "Nickname": "Play as Orphea",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "N",
    "Player count": "Singleplayer",
@@ -7180,7 +7180,7 @@
  {
    "Nickname": "Play as Probius",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -7190,7 +7190,7 @@
  {
    "Nickname": "Play as Qhira",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "N",
    "Player count": "Singleplayer",
@@ -7200,7 +7200,7 @@
  {
    "Nickname": "Play as Ragnaros",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -7210,7 +7210,7 @@
  {
    "Nickname": "Play as Raynor",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -7220,7 +7220,7 @@
  {
    "Nickname": "Play as Rehgar",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -7231,7 +7231,7 @@
  {
    "Nickname": "Play as Rexxar",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -7241,7 +7241,7 @@
  {
    "Nickname": "Play as Samuro",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -7251,7 +7251,7 @@
  {
    "Nickname": "Play as Sgt. Hammer",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -7261,7 +7261,7 @@
  {
    "Nickname": "Play as Sonya",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -7271,7 +7271,7 @@
  {
    "Nickname": "Play as Stitches",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -7282,7 +7282,7 @@
  {
    "Nickname": "Play as Stukov",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -7293,7 +7293,7 @@
  {
    "Nickname": "Play as Sylvanas",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -7304,7 +7304,7 @@
  {
    "Nickname": "Play as Tassadar",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -7314,7 +7314,7 @@
  {
    "Nickname": "Play as The Butcher",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -7324,7 +7324,7 @@
  {
    "Nickname": "Play as The Lost Vikings",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "N",
    "Player count": "Singleplayer",
@@ -7334,7 +7334,7 @@
  {
    "Nickname": "Play as Thrall",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -7344,7 +7344,7 @@
  {
    "Nickname": "Play as Tracer",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "O",
    "Player count": "Singleplayer",
@@ -7355,7 +7355,7 @@
  {
    "Nickname": "Play as Tychus",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -7366,7 +7366,7 @@
  {
    "Nickname": "Play as Tyrael",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -7376,7 +7376,7 @@
  {
    "Nickname": "Play as Tyrande",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -7386,7 +7386,7 @@
  {
    "Nickname": "Play as Uther",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -7396,7 +7396,7 @@
  {
    "Nickname": "Play as Valeera",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -7406,7 +7406,7 @@
  {
    "Nickname": "Play as Valla",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -7417,7 +7417,7 @@
  {
    "Nickname": "Play as Varian",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -7428,7 +7428,7 @@
  {
    "Nickname": "Play as Whitemane",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -7438,7 +7438,7 @@
  {
    "Nickname": "Play as Xul",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "D",
    "Player count": "Singleplayer",
@@ -7448,7 +7448,7 @@
  {
    "Nickname": "Play as Yrel",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -7459,7 +7459,7 @@
  {
    "Nickname": "Play as Zagara",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -7469,7 +7469,7 @@
  {
    "Nickname": "Play as Zarya",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "O",
    "Player count": "Singleplayer",
@@ -7479,7 +7479,7 @@
  {
    "Nickname": "Play as Zeratul",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "S",
    "Player count": "Singleplayer",
@@ -7489,7 +7489,7 @@
  {
    "Nickname": "Play as Zul'jin",
    "Source": "HeroesBingoData.json",
-   "Category": "Basic",
+   "Category": "Win with/Play as",
    "Difficulty": 1,
    "Universe": "W",
    "Player count": "Singleplayer",
@@ -16840,7 +16840,7 @@
  },
  {
    "Nickname": "Secure a stack of Headhunter using Guillotine.",
-   "Challenge": "Guillotine with the killing blow!",
+   "Challenge": "Guillotine with the killing blow! (Zul'jin)",
    "Source": "HeroesBingoData.json",
    "Category": "Hero specific",
    "Difficulty": 5,
@@ -20370,6 +20370,26 @@
    "Source": "HeroesBingoData.json",
    "Category": "Player restrictions",
    "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''The Sticky Mosquito''",
+   "Challenge": "Sticky Bomb + Lightbomb (Tracer + Anduin)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Wombo combo",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Nonchampion"
+ },
+ {
+   "Nickname": "Try this wombo: ''The Ligma''",
+   "Challenge": "Lightbomb + Maelstrom (Anduin + Kerrigan)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Wombo combo",
    "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
