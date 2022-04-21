@@ -15808,7 +15808,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Stun an enemy Hero.",
+   "Nickname": "Stun an enemy Hero",
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
    "Difficulty": 1,
@@ -15816,10 +15816,10 @@
    "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "Credit": "Stark"
+   "Credit": "chesslooter"
  },
  {
-   "Nickname": "Root an enemy Hero.",
+   "Nickname": "Root an enemy Hero",
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
    "Difficulty": 1,
@@ -15827,10 +15827,10 @@
    "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "Credit": "Stark"
+   "Credit": "chesslooter"
  },
  {
-   "Nickname": "Silence an enemy Hero.",
+   "Nickname": "Silence an enemy Hero",
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
    "Difficulty": 1,
@@ -15838,10 +15838,10 @@
    "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "Credit": "Stark"
+   "Credit": "chesslooter"
  },
  {
-   "Nickname": "Slow an enemy Hero.",
+   "Nickname": "Slow an enemy Hero",
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
    "Difficulty": 1,
@@ -15849,10 +15849,10 @@
    "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "Credit": "Stark"
+   "Credit": "chesslooter"
  },
  {
-   "Nickname": "Stasis an enemy Hero.",
+   "Nickname": "Stasis an enemy Hero",
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
    "Difficulty": 1,
@@ -15860,10 +15860,10 @@
    "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "Credit": "Stark"
+   "Credit": "chesslooter"
  },
  {
-   "Nickname": "Blind an enemy Hero.",
+   "Nickname": "Blind an enemy Hero",
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
    "Difficulty": 1,
@@ -15871,7 +15871,7 @@
    "IsParty": "Yes",
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
-   "Credit": "Stark"
+   "Credit": "chesslooter"
  },
  {
    "Nickname": "''Elite RGB Gamers''",
@@ -20034,6 +20034,16 @@
    "Credit": "Stark"
  },
  {
+   "Nickname": "Try this wombo: ''You're trapped with me!''",
+   "Challenge": "Taunt + Zombie Wall (Varian + Nazeebo)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Wombo combo",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Tompiece"
+ },
+ {
    "Nickname": "Try this wombo: ''Give em the Gustav''",
    "Challenge": "Taunt + Blunt Force Gun (Varian + Sgt. Hammer)",
    "Source": "HeroesBingoData.json",
@@ -20394,5 +20404,963 @@
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "Stark"
+ },
+ {
+   "Nickname": "Scared to death?",
+   "Challenge": "Kill an enemy Hero trapped in your Zombie Wall before the wall expires. (Nazeebo)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Credit": "Tompiece",
+   "IsNazeebo": "Yes"
+ },
+ {
+   "Nickname": "Try this wombo: ''Crossing the streams''",
+   "Challenge": "Planet Cracker + Hinterlands Blast (Fenix + Falstad)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Wombo combo",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Justing"
+ },
+ {
+   "Nickname": "''Bahamut accuracy''",
+   "Challenge": "Dodge an enemy skillshot by standing still.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Bahamut"
+ },
+ {
+   "Nickname": "Never use the top lane gates for a game",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Never use the middle lane gates for a game",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Never use the bottom lane gates for a game",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''2 for 2''",
+   "Challenge": "Your team finishes two quests within 2 seconds of each other.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Iron"
+ },
+ {
+   "Nickname": "''Fire Exit''",
+   "Challenge": "Have an allied hero retreat to safety through your Molten Breath. (Deathwing)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Credit": "Idioms",
+   "IsDeathwing": "Yes"
+ },
+ {
+   "Nickname": "Try this wombo: ''Is that a Thor Drop?''",
+   "Challenge": "Commandeer Odin + Medivac Dropship (Tychus + Lt. Morales)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Wombo combo",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''Medank''",
+   "Challenge": "Put Sgt. Hammer in a Medivac Dropship.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "chesslooter"
+ },
+ {
+   "Nickname": "''Top 5 Heroic in the game''",
+   "Challenge": "Pick one of your Top 5 Heroics! Hottake - I think its Medivac Dropship.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''Arrow''",
+   "Challenge": "Kill an enemy Hero with an unscattered Scatter Arrow. (Hanzo)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Credit": "Stark",
+   "IsHanzo": "Yes"
+ },
+ {
+   "Nickname": "Tutorial Mode",
+   "Challenge": "The youngest player in your group must roleplay as the tutorial narrator for a game.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Abunkur''",
+   "Challenge": "(Its just Abathur in Blaze's Bunker)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Wombo combo",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Playing Golf''",
+   "Challenge": "Avalanche + Devouring Maw (Mei + Zagara)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Wombo combo",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Parking Space''",
+   "Challenge": "Self Destruct + Entomb (D.Va + Leoric)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Wombo combo",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Use an ability that resets your auto attack",
+   "Challenge": "Inspire on Raynor, Critical Strike on Samuro, for example",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "chesslooter"
+ },
+ {
+   "Nickname": "''Camp Timing 101''",
+   "Challenge": "Your team captures a Mercenary Camp during a map objective.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "''Camp Timing 102''",
+   "Challenge": "Your team captures a Mercenary Camp that pushes with a minion wave.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Take a neutral camp",
+   "Challenge": "Often found along map symmetry lines, or in the middle",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Take an enemy camp",
+   "Challenge": "Often found on the other team's side of the map!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Displace enemy Mercenaries",
+   "Challenge": "Move them under your towers, maybe?",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Displace an enemy Hero to help killing them",
+   "Challenge": "Move them under your towers, maybe?",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "A blue hero escapes with less than 500 hp",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "A blue hero escapes with less than 250 hp",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "A blue hero escapes with less than 100 hp",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "A red hero escapes with less than 500 hp",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "A red hero escapes with less than 250 hp",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "A red hero escapes with less than 100 hp",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Win with at least 1 enemy key structures killed",
+   "Challenge": "Forts, Keeps, Bell Towers",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Win with at least 2 enemy key structures killed",
+   "Challenge": "Forts, Keeps, Bell Towers",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Win with at least 3 enemy key structures killed",
+   "Challenge": "Forts, Keeps, Bell Towers",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Win with at least 4 enemy key structures killed",
+   "Challenge": "Forts, Keeps, Bell Towers",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Win with at least 5 enemy key structures killed",
+   "Challenge": "Forts, Keeps, Bell Towers",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Play a game with no duplicate roles on your team",
+   "Challenge": "One of: Tank, Bruiser, Ranged, Melee, Healer, Support",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "''Change the Game: Eating Competition''",
+   "Challenge": "Pick a hero that would be good at this.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "''Change the Game: Swimming''",
+   "Challenge": "Pick a hero that would be good at this.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "''Change the Game: Baking''",
+   "Challenge": "Pick a hero that would be good at this.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "''Change the Game: Science Quiz''",
+   "Challenge": "Pick a hero that would be good at this.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "''Change the Game: Being Nice''",
+   "Challenge": "Pick a hero that would be good at this.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "''Change the Game: Bad Dancer''",
+   "Challenge": "Pick a hero that would be good at this.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Pick a skin to match the map",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Match your Hero's skin to your mount",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Your team matches their skin's colour schemes",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Match your Hero to your announcer",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Bodyblock stall your first minion wave",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Kill a tower before the 1 minute mark",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Miss no minion soak before the 1 minute mark",
+   "Challenge": "If you see a small exp orb, you're too slow!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Miss no minion soak before the 2 minute mark",
+   "Challenge": "If you see a small exp orb, you're too slow!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Miss no minion soak before the first objective",
+   "Challenge": "If you see a small exp orb, you're too slow!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Blue team gets level 10 first",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Blue team gets level 13 first",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Blue team gets level 16 first",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Blue team gets level 20 first",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Red team gets level 10 first",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Red team gets level 13 first",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Red team gets level 16 first",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Red team gets level 20 first",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Win a game where you were down 1/2 level",
+   "Challenge": "Down during any point in the game",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Win a game where you were down 1 level",
+   "Challenge": "Down during any point in the game",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Win a game where you were down 2 levels",
+   "Challenge": "Down during any point in the game",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Three of your Heroes have a theme",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "''Roll Call''",
+   "Challenge": "A player in your party calls out whenever 3+ enemies are missing.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Pick an enemy hero to your opponent's choice",
+   "Challenge": "For example, you pick Kerrigan against Fenix",
+   "Source": "HeroesBingoData.json",
+   "Category": "Lore specific",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Try this wombo: ''The Void Ray...?''",
+   "Challenge": "Void Prison + Raynor's Raider (Zeratul + Raynor)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Wombo combo",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Try this wombo: ''The Void Ray(n)''",
+   "Challenge": "Void Prison + Rain of Vengeance (Zeratul + Valla)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Wombo combo",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Try this wombo: ''Proxy Void Ray(n)''",
+   "Challenge": "Void Prison + Rain of Destruction (Zeratul + Gul'dan)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Wombo combo",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "''Lactose Sensitive''",
+   "Challenge": "Play something cheesy",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "''Lactose Intolerant''",
+   "Challenge": "Win with something cheesy",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Play with no human Heroes",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "''Nice mine, chess''",
+   "Challenge": "Every time a Junkrat detonates a mine that favours your team, say ''Nice mine, chess''.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Credit": "Stark",
+   "IsJunkrat": "Yes"
+ },
+ {
+   "Nickname": "''Exotic Bribery''",
+   "Challenge": "Two different Heroes use Bribe talents on the same camp at the same time.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "chesslooter"
+ },
+ {
+   "Nickname": "Try this wombo: ''Darude''",
+   "Challenge": "Slowing Sands + Divine Storm (Chromie + Uther)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Wombo combo",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "ARAM until level 2",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "ARAM until level 3",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "ARAM until level 4",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "ARAM until level 5",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "ARAM until level 6",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "ARAM until level 7",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "ARAM until level 8",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "ARAM until level 9",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "ARAM until level 10",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "ARAM until level 11",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "ARAM until level 12",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "ARAM until level 13",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "ARAM until level 14",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "ARAM until level 15",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "ARAM until level 16",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "ARAM until level 17",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "ARAM until level 18",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "ARAM until level 19",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "ARAM until level 20",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''Iron's Basketball Drafting''",
+   "Challenge": "Everyone takes an enemy hero they can counter, and aims to kill them first in a teamfight. Five 1v1s!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Iron"
+ },
+ {
+   "Nickname": "''Clippythur''",
+   "Challenge": "Every time you Symbiote a hero, offer some (un)helpful advice to their current situation. (Abathur)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Credit": "Stark",
+   "IsAbathur": "Yes"
+ },
+ {
+   "Nickname": "''Hot Drinks''",
+   "Challenge": "Say ''Hot Drinks really get you going!'' every time you use Ruby. (Deckard)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Credit": "Stark",
+   "IsDeckardCain": "Yes"
+ },
+ {
+   "Nickname": "''It was a zoning...''",
+   "Challenge": "Declare every missed ability you use a zoning ability.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''Off-screen deaths''",
+   "Challenge": "You cannot watch your own death for a game.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''When yah dead, yah dead.''",
+   "Challenge": "While dead, you may not look at your screen and deafen all game-related audio/team comms.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "chesslooter"
+ },
+ {
+   "Nickname": "''Back in my day''",
+   "Challenge": "The oldest soul in your party must clutter comms with long winding tangents about life long ago. If in doubt, do your best Deckard impression!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "chesslooter"
  }
 ]
