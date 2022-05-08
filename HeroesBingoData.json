@@ -2184,6 +2184,20 @@
    "Credit": "Stark"
  },
  {
+   "Nickname": "Garden of Terror picked",
+   "Source": "HeroesBingoData.json",
+   "Category": "CCL viewer",
+   "IsCCL": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Garden of Terror banned",
+   "Source": "HeroesBingoData.json",
+   "Category": "CCL viewer",
+   "IsCCL": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
    "Nickname": "Infernal Shrines picked",
    "Source": "HeroesBingoData.json",
    "Category": "CCL viewer",
@@ -2252,7 +2266,6 @@
    "Source": "HeroesBingoData.json",
    "Category": "CCL viewer",
    "IsCustom": "Yes",
-   "IsCCL": "Yes",
    "Credit": "Stark"
  },
  {
@@ -2260,7 +2273,6 @@
    "Source": "HeroesBingoData.json",
    "Category": "CCL viewer",
    "IsCustom": "Yes",
-   "IsCCL": "Yes",
    "Credit": "Stark"
  },
  {
@@ -3069,7 +3081,6 @@
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
    "IsCustom": "Yes",
-   "IsCCL": "Yes",
    "IsQuickMaps": "Yes",
    "IsRankedMaps": "Yes",
    "Credit": "chesslooter"
@@ -3079,7 +3090,6 @@
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
    "IsCustom": "Yes",
-   "IsCCL": "Yes",
    "IsQuickMaps": "Yes",
    "IsRankedMaps": "Yes",
    "Credit": "chesslooter"
@@ -12664,7 +12674,7 @@
    "Category": "CCL viewer",
    "IsCCL": "Yes",
    "Credit": "TheLazyHydra",
-   "Is30K": "Yes"
+   "IsOxygenEsports": "Yes"
  },
  {
    "Nickname": "Baha and Grubby fail a ''First blood'' sync",
@@ -14886,7 +14896,7 @@
  {
    "Nickname": "Play with 0 Warcraft Heroes on your team",
    "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
+   "Category": "Basic",
    "Difficulty": 1,
    "Universe": "W",
    "IsSingleplayer": "Yes",
@@ -14901,7 +14911,7 @@
  {
    "Nickname": "Play with 0 StarCraft Heroes on your team",
    "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
+   "Category": "Basic",
    "Difficulty": 1,
    "Universe": "S",
    "IsSingleplayer": "Yes",
@@ -14916,7 +14926,7 @@
  {
    "Nickname": "Play with 0 Diablo Heroes on your team",
    "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
+   "Category": "Basic",
    "Difficulty": 1,
    "Universe": "D",
    "IsSingleplayer": "Yes",
@@ -14931,7 +14941,7 @@
  {
    "Nickname": "Play with 0 Overwatch Heroes on your team",
    "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
+   "Category": "Basic",
    "Difficulty": 1,
    "Universe": "O",
    "IsSingleplayer": "Yes",
@@ -14946,7 +14956,7 @@
  {
    "Nickname": "Play with 0 Nexus Heroes on your team",
    "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
+   "Category": "Basic",
    "Difficulty": 1,
    "Universe": "N",
    "IsSingleplayer": "Yes",
@@ -21130,7 +21140,7 @@
  },
  {
    "Nickname": "ARAM until level 2",
-   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane. What's a map objective?",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsMultiplayer": "Yes",
@@ -21139,7 +21149,7 @@
  },
  {
    "Nickname": "ARAM until level 3",
-   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane. What's a map objective?",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsMultiplayer": "Yes",
@@ -21148,7 +21158,7 @@
  },
  {
    "Nickname": "ARAM until level 4",
-   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane. What's a map objective?",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsMultiplayer": "Yes",
@@ -21157,7 +21167,7 @@
  },
  {
    "Nickname": "ARAM until level 5",
-   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane. What's a map objective?",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsMultiplayer": "Yes",
@@ -21166,7 +21176,7 @@
  },
  {
    "Nickname": "ARAM until level 6",
-   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane. What's a map objective?",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsMultiplayer": "Yes",
@@ -21175,7 +21185,7 @@
  },
  {
    "Nickname": "ARAM until level 7",
-   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane. What's a map objective?",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsMultiplayer": "Yes",
@@ -21184,7 +21194,7 @@
  },
  {
    "Nickname": "ARAM until level 8",
-   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane. What's a map objective?",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsMultiplayer": "Yes",
@@ -21193,7 +21203,7 @@
  },
  {
    "Nickname": "ARAM until level 9",
-   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane. What's a map objective?",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsMultiplayer": "Yes",
@@ -21202,7 +21212,7 @@
  },
  {
    "Nickname": "ARAM until level 10",
-   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane. What's a map objective?",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsMultiplayer": "Yes",
@@ -21211,7 +21221,7 @@
  },
  {
    "Nickname": "ARAM until level 11",
-   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane. What's a map objective?",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsMultiplayer": "Yes",
@@ -21220,7 +21230,7 @@
  },
  {
    "Nickname": "ARAM until level 12",
-   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane. What's a map objective?",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsMultiplayer": "Yes",
@@ -21229,7 +21239,7 @@
  },
  {
    "Nickname": "ARAM until level 13",
-   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane. What's a map objective?",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsMultiplayer": "Yes",
@@ -21238,7 +21248,7 @@
  },
  {
    "Nickname": "ARAM until level 14",
-   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane. What's a map objective?",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsMultiplayer": "Yes",
@@ -21247,7 +21257,7 @@
  },
  {
    "Nickname": "ARAM until level 15",
-   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane. What's a map objective?",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsMultiplayer": "Yes",
@@ -21256,7 +21266,7 @@
  },
  {
    "Nickname": "ARAM until level 16",
-   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane. What's a map objective?",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsMultiplayer": "Yes",
@@ -21265,7 +21275,7 @@
  },
  {
    "Nickname": "ARAM until level 17",
-   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane. What's a map objective?",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsMultiplayer": "Yes",
@@ -21274,7 +21284,7 @@
  },
  {
    "Nickname": "ARAM until level 18",
-   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane. What's a map objective?",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsMultiplayer": "Yes",
@@ -21283,7 +21293,7 @@
  },
  {
    "Nickname": "ARAM until level 19",
-   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane. What's a map objective?",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsMultiplayer": "Yes",
@@ -21292,7 +21302,7 @@
  },
  {
    "Nickname": "ARAM until level 20",
-   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane",
+   "Challenge": "Your Heroes either stay in one lane, or take camps for that lane. What's a map objective?",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "IsMultiplayer": "Yes",
@@ -21362,5 +21372,584 @@
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "Credit": "chesslooter"
+ },
+ {
+   "Nickname": "Try this wombo: ''Our Morales got unbanned''",
+   "Challenge": "Sanctification + Cursed Bullet (Tyrael + Greymane)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Wombo combo",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "EkeeB"
+ },
+ {
+   "Nickname": "''Dramatic CSI Miami one-liners''",
+   "Challenge": "For a game, do a CSI Miami style one-liner every time a hero you choose gets a kill.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Try this wombo: ''Begun, the clone wars have.''",
+   "Challenge": "Ultimate Evolution + Illusion Master (Abathur + Samuro)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Wombo combo",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "1 Bingo player can't play the same hero in a row",
+   "Challenge": "With consent, reroll your board if needed. Just don't play the same hero twice in a row for your bingo session!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "2 Bingo players can't play the same hero in a row",
+   "Challenge": "With consent, reroll your board if needed. Just don't play the same hero twice in a row for your bingo session!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "3 Bingo players can't play the same hero in a row",
+   "Challenge": "With consent, reroll your board if needed. Just don't play the same hero twice in a row for your bingo session!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "4 Bingo players can't play the same hero in a row",
+   "Challenge": "With consent, reroll your board if needed. Just don't play the same hero twice in a row for your bingo session!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "5 Bingo players can't play the same hero in a row",
+   "Challenge": "With consent, reroll your board if needed. Just don't play the same hero twice in a row for your bingo session!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "1 Bingo player can't play the same role in a row",
+   "Challenge": "With consent, reroll your board if needed. Just don't play the same role twice in a row for your bingo session!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "2 Bingo players can't play the same role in a row",
+   "Challenge": "With consent, reroll your board if needed. Just don't play the same role twice in a row for your bingo session!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "3 Bingo players can't play the same role in a row",
+   "Challenge": "With consent, reroll your board if needed. Just don't play the same role twice in a row for your bingo session!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "4 Bingo players can't play the same role in a row",
+   "Challenge": "With consent, reroll your board if needed. Just don't play the same role twice in a row for your bingo session!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "5 Bingo players can't play the same role in a row",
+   "Challenge": "With consent, reroll your board if needed. Just don't play the same role twice in a row for your bingo session!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Your team only takes odd objective spawns",
+   "Challenge": "First, third, fifth, etc. Tributes, shrines, immortals, successfully completed turn-ins (ie 50/50 gems), etc. Go do something else during the other ones!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Your team only takes even objective spawns",
+   "Challenge": "Second, fourth, sixth, etc. Tributes, shrines, immortals, successfully completed turn-ins (ie 50/50 gems), etc. Go do something else during the other ones!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "''Justing's Pokemon Trainers''",
+   "Challenge": "Once you are 10, you may only engage in battle when your Pokemon (large pet/summon) is available.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Justing"
+ },
+ {
+   "Nickname": "Try this wombo: ''Roar on drugs''",
+   "Challenge": "Nano Boost + Dragonqueen (Ana + Alexstrasza)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Wombo combo",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Iron"
+ },
+ {
+   "Nickname": "''Film noir flashbacks''",
+   "Challenge": "For a game, every time you level up, share a film noir self-reflection moment/flashback about your game.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Do your best J Jonah Jameson in comms for a game",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Donation counter has a 69 or 420 in it",
+   "Source": "HeroesBingoData.json",
+   "Category": "CCL viewer",
+   "IsCCL": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "A player has <10,000 hero damage in postgame",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "A player has <20,000 hero damage in postgame",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "A winner has <10,000 hero damage in postgame",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "A winner has <20,000 hero damage in postgame",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "A player has >50,000 hero damage in postgame",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "A player has >75,000 hero damage in postgame",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "A player has >100,000 hero damage in postgame",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "A winner has >50,000 hero damage in postgame",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "A winner has >75,000 hero damage in postgame",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "A winner has >100,000 hero damage in postgame",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Win with 1 Protoss hero",
+   "Challenge": "In the same game!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Win with 2 Protoss heroes",
+   "Challenge": "In the same game!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Win with 3 Protoss heroes",
+   "Challenge": "In the same game!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Win with 4 Protoss heroes",
+   "Challenge": "In the same game!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Play as 1 Protoss hero",
+   "Challenge": "In the same game!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Play as 2 Protoss heroes",
+   "Challenge": "In the same game!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Play as 3 Protoss heroes",
+   "Challenge": "In the same game!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Play as 4 Protoss heroes",
+   "Challenge": "In the same game!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Win with 1 Terran hero",
+   "Challenge": "In the same game!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Win with 2 Terran heroes",
+   "Challenge": "In the same game!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Win with 3 Terran heroes",
+   "Challenge": "In the same game!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Win with 4 Terran heroes",
+   "Challenge": "In the same game!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Play as 1 Terran hero",
+   "Challenge": "In the same game!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Play as 2 Terran heroes",
+   "Challenge": "In the same game!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Play as 3 Terran heroes",
+   "Challenge": "In the same game!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Play as 4 Terran heroes",
+   "Challenge": "In the same game!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Win with 1 Zerg hero",
+   "Challenge": "In the same game!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Win with 2 Zerg heroes",
+   "Challenge": "In the same game!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Win with 3 Zerg heroes",
+   "Challenge": "In the same game!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Win with 4 Zerg heroes",
+   "Challenge": "In the same game!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Play as 1 Zerg hero",
+   "Challenge": "In the same game!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Play as 2 Zerg heroes",
+   "Challenge": "In the same game!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Play as 3 Zerg heroes",
+   "Challenge": "In the same game!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Play as 4 Zerg heroes",
+   "Challenge": "In the same game!",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Baha finds a 69 to call nice",
+   "Source": "HeroesBingoData.json",
+   "Category": "CCL viewer",
+   "IsCCL": "Yes",
+   "Credit": "Bahamut"
+ },
+ {
+   "Nickname": "Only Overwatch bans by a team for a map",
+   "Source": "HeroesBingoData.json",
+   "Category": "CCL viewer",
+   "IsCustom": "Yes",
+   "IsCCL": "Yes",
+   "Credit": "Bahamut"
+ },
+ {
+   "Nickname": "''The Roombas are Rotating''",
+   "Challenge": "(With consent, reroll if not) Randomly swap your heroes in a swap phase before a drafted game starts.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Roomba Rotations"
  }
 ]
