@@ -7519,7 +7519,7 @@
  },
  {
    "Nickname": "''...Sabin?''",
-   "Challenge": "Kill an enemy, who was CCed by someone else, by using Wrath of Angiris. We're suplexing a train! (Imperius)",
+   "Challenge": "Kill an enemy, who was CCed by someone else, whilst using Wrath of Angiris. We're suplexing a train! (Imperius)",
    "Source": "HeroesBingoData.json",
    "Category": "Hero specific",
    "Difficulty": 5,
@@ -26512,1626 +26512,6 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Abathur relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Alarak relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Alexstrasza relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Ana relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Anduin relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Anub'arak relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Artanis relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Arthas relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Auriel relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Azmodan relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Blaze relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Brightwing relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Cassia relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Chen relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Cho relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Chromie relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "D. Va relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Deathwing relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Deckard Cain relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Dehaka relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Diablo relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "ETC relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Falstad relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Fenix relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Gall relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Garrosh relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Gazlowe relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Genji relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Greymane relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Gul'dan relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Hanzo relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Hogger relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Illidan relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Imperius relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Jaina relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Johanna relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Junkrat relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Kael'thas relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Kel'Thuzad relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Kerrigan relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Kharazim relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Leoric relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Li Li relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Li-Ming relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Lt. Morales relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Lucio relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Lunara relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Maiev relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Mal'Ganis relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Malfurion relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Malthael relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Medivh relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Mei relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Mephisto relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Muradin relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Murky relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Nazeebo relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Nova relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Orphea relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Probius relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Qhira relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Ragnaros relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Raynor relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Rehgar relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Rexxar relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Samuro relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Sgt. Hammer relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Sonya relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Stitches relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Stukov relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Sylvanas relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Tassadar relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "The Butcher relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "The Lost Vikings relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Thrall relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Tracer relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Tychus relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Tyrael relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Tyrande relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Uther relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Valeera relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Valla relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Varian relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Whitemane relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Xul relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Yrel relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Zagara relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Zarya relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Zeratul relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Zul'jin relay race - 3 laps",
-   "Challenge": "Players in your party must play this hero three times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Abathur relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Alarak relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Alexstrasza relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Ana relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Anduin relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Anub'arak relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Artanis relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Arthas relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Auriel relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Azmodan relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Blaze relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Brightwing relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Cassia relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Chen relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Cho relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Chromie relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "D. Va relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Deathwing relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Deckard Cain relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Dehaka relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Diablo relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "ETC relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Falstad relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Fenix relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Gall relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Garrosh relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Gazlowe relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Genji relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Greymane relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Gul'dan relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Hanzo relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Hogger relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Illidan relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Imperius relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Jaina relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Johanna relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Junkrat relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Kael'thas relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Kel'Thuzad relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Kerrigan relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Kharazim relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Leoric relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Li Li relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Li-Ming relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Lt. Morales relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Lucio relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Lunara relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Maiev relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Mal'Ganis relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Malfurion relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Malthael relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Medivh relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Mei relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Mephisto relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Muradin relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Murky relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Nazeebo relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Nova relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Orphea relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Probius relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Qhira relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Ragnaros relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Raynor relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Rehgar relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Rexxar relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Samuro relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Sgt. Hammer relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Sonya relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Stitches relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Stukov relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Sylvanas relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Tassadar relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "The Butcher relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "The Lost Vikings relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Thrall relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Tracer relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Tychus relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Tyrael relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Tyrande relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Uther relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Valeera relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Valla relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Varian relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Whitemane relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Xul relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Yrel relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Zagara relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Zarya relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Zeratul relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Zul'jin relay race - 4 laps",
-   "Challenge": "Players in your party must play this hero four times in a row, with no one playing them more than once.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
    "Nickname": "1 enemy player gets even deaths",
    "Challenge": "At least, not exactly.",
    "Source": "HeroesBingoData.json",
@@ -28543,7 +26923,7 @@
    "Credit": "Iron"
  },
  {
-   "Nickname": "Your party tries every talent on Abathur",
+   "Nickname": "Play 2 games with differing talents on Abathur",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28552,7 +26932,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Alarak",
+   "Nickname": "Play 2 games with differing talents on Alarak",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28561,7 +26941,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Alexstrasza",
+   "Nickname": "Play 2 games with differing talents on Alexstrasza",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28570,7 +26950,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Ana",
+   "Nickname": "Play 2 games with differing talents on Ana",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28579,7 +26959,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Anduin",
+   "Nickname": "Play 2 games with differing talents on Anduin",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28588,7 +26968,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Anub'arak",
+   "Nickname": "Play 2 games with differing talents on Anub'arak",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28597,7 +26977,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Artanis",
+   "Nickname": "Play 2 games with differing talents on Artanis",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28606,7 +26986,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Arthas",
+   "Nickname": "Play 2 games with differing talents on Arthas",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28615,7 +26995,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Auriel",
+   "Nickname": "Play 2 games with differing talents on Auriel",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28624,7 +27004,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Azmodan",
+   "Nickname": "Play 2 games with differing talents on Azmodan",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28633,7 +27013,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Blaze",
+   "Nickname": "Play 2 games with differing talents on Blaze",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28642,7 +27022,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Brightwing",
+   "Nickname": "Play 2 games with differing talents on Brightwing",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28651,7 +27031,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Cassia",
+   "Nickname": "Play 2 games with differing talents on Cassia",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28660,7 +27040,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Chen",
+   "Nickname": "Play 2 games with differing talents on Chen",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28669,7 +27049,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Cho",
+   "Nickname": "Play 2 games with differing talents on Cho",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28678,7 +27058,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Chromie",
+   "Nickname": "Play 2 games with differing talents on Chromie",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28687,7 +27067,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on D. Va",
+   "Nickname": "Play 2 games with differing talents on D. Va",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28696,7 +27076,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Deathwing",
+   "Nickname": "Play 2 games with differing talents on Deathwing",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28705,7 +27085,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Deckard Cain",
+   "Nickname": "Play 2 games with differing talents on Deckard Cain",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28714,7 +27094,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Dehaka",
+   "Nickname": "Play 2 games with differing talents on Dehaka",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28723,7 +27103,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Diablo",
+   "Nickname": "Play 2 games with differing talents on Diablo",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28732,7 +27112,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on ETC",
+   "Nickname": "Play 2 games with differing talents on ETC",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28741,7 +27121,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Falstad",
+   "Nickname": "Play 2 games with differing talents on Falstad",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28750,7 +27130,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Fenix",
+   "Nickname": "Play 2 games with differing talents on Fenix",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28759,7 +27139,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Gall",
+   "Nickname": "Play 2 games with differing talents on Gall",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28768,7 +27148,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Garrosh",
+   "Nickname": "Play 2 games with differing talents on Garrosh",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28777,7 +27157,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Gazlowe",
+   "Nickname": "Play 2 games with differing talents on Gazlowe",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28786,7 +27166,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Genji",
+   "Nickname": "Play 2 games with differing talents on Genji",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28795,7 +27175,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Greymane",
+   "Nickname": "Play 2 games with differing talents on Greymane",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28804,7 +27184,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Gul'dan",
+   "Nickname": "Play 2 games with differing talents on Gul'dan",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28813,7 +27193,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Hanzo",
+   "Nickname": "Play 2 games with differing talents on Hanzo",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28822,7 +27202,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Hogger",
+   "Nickname": "Play 2 games with differing talents on Hogger",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28831,7 +27211,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Illidan",
+   "Nickname": "Play 2 games with differing talents on Illidan",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28840,7 +27220,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Imperius",
+   "Nickname": "Play 2 games with differing talents on Imperius",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28849,7 +27229,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Jaina",
+   "Nickname": "Play 2 games with differing talents on Jaina",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28858,7 +27238,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Johanna",
+   "Nickname": "Play 2 games with differing talents on Johanna",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28867,7 +27247,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Junkrat",
+   "Nickname": "Play 2 games with differing talents on Junkrat",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28876,7 +27256,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Kael'thas",
+   "Nickname": "Play 2 games with differing talents on Kael'thas",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28885,7 +27265,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Kel'Thuzad",
+   "Nickname": "Play 2 games with differing talents on Kel'Thuzad",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28894,7 +27274,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Kerrigan",
+   "Nickname": "Play 2 games with differing talents on Kerrigan",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28903,7 +27283,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Kharazim",
+   "Nickname": "Play 2 games with differing talents on Kharazim",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28912,7 +27292,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Leoric",
+   "Nickname": "Play 2 games with differing talents on Leoric",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28921,7 +27301,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Li Li",
+   "Nickname": "Play 2 games with differing talents on Li Li",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28930,7 +27310,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Li-Ming",
+   "Nickname": "Play 2 games with differing talents on Li-Ming",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28939,7 +27319,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Lt. Morales",
+   "Nickname": "Play 2 games with differing talents on Lt. Morales",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28948,7 +27328,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Lucio",
+   "Nickname": "Play 2 games with differing talents on Lucio",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28957,7 +27337,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Lunara",
+   "Nickname": "Play 2 games with differing talents on Lunara",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28966,7 +27346,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Maiev",
+   "Nickname": "Play 2 games with differing talents on Maiev",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28975,7 +27355,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Mal'Ganis",
+   "Nickname": "Play 2 games with differing talents on Mal'Ganis",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28984,7 +27364,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Malfurion",
+   "Nickname": "Play 2 games with differing talents on Malfurion",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -28993,7 +27373,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Malthael",
+   "Nickname": "Play 2 games with differing talents on Malthael",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29002,7 +27382,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Medivh",
+   "Nickname": "Play 2 games with differing talents on Medivh",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29011,7 +27391,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Mei",
+   "Nickname": "Play 2 games with differing talents on Mei",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29020,7 +27400,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Mephisto",
+   "Nickname": "Play 2 games with differing talents on Mephisto",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29029,7 +27409,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Muradin",
+   "Nickname": "Play 2 games with differing talents on Muradin",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29038,7 +27418,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Murky",
+   "Nickname": "Play 2 games with differing talents on Murky",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29047,7 +27427,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Nazeebo",
+   "Nickname": "Play 2 games with differing talents on Nazeebo",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29056,7 +27436,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Nova",
+   "Nickname": "Play 2 games with differing talents on Nova",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29065,7 +27445,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Orphea",
+   "Nickname": "Play 2 games with differing talents on Orphea",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29074,7 +27454,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Probius",
+   "Nickname": "Play 2 games with differing talents on Probius",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29083,7 +27463,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Qhira",
+   "Nickname": "Play 2 games with differing talents on Qhira",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29092,7 +27472,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Ragnaros",
+   "Nickname": "Play 2 games with differing talents on Ragnaros",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29101,7 +27481,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Raynor",
+   "Nickname": "Play 2 games with differing talents on Raynor",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29110,7 +27490,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Rehgar",
+   "Nickname": "Play 2 games with differing talents on Rehgar",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29119,7 +27499,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Rexxar",
+   "Nickname": "Play 2 games with differing talents on Rexxar",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29128,7 +27508,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Samuro",
+   "Nickname": "Play 2 games with differing talents on Samuro",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29137,7 +27517,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Sgt. Hammer",
+   "Nickname": "Play 2 games with differing talents on Sgt. Hammer",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29146,7 +27526,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Sonya",
+   "Nickname": "Play 2 games with differing talents on Sonya",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29155,7 +27535,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Stitches",
+   "Nickname": "Play 2 games with differing talents on Stitches",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29164,7 +27544,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Stukov",
+   "Nickname": "Play 2 games with differing talents on Stukov",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29173,7 +27553,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Sylvanas",
+   "Nickname": "Play 2 games with differing talents on Sylvanas",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29182,7 +27562,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Tassadar",
+   "Nickname": "Play 2 games with differing talents on Tassadar",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29191,7 +27571,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on The Butcher",
+   "Nickname": "Play 2 games with differing talents on The Butcher",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29200,7 +27580,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on The Lost Vikings",
+   "Nickname": "Play 2 games with differing talents on The Lost Vikings",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29209,7 +27589,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Thrall",
+   "Nickname": "Play 2 games with differing talents on Thrall",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29218,7 +27598,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Tracer",
+   "Nickname": "Play 2 games with differing talents on Tracer",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29227,7 +27607,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Tychus",
+   "Nickname": "Play 2 games with differing talents on Tychus",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29236,7 +27616,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Tyrael",
+   "Nickname": "Play 2 games with differing talents on Tyrael",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29245,7 +27625,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Tyrande",
+   "Nickname": "Play 2 games with differing talents on Tyrande",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29254,7 +27634,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Uther",
+   "Nickname": "Play 2 games with differing talents on Uther",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29263,7 +27643,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Valeera",
+   "Nickname": "Play 2 games with differing talents on Valeera",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29272,7 +27652,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Valla",
+   "Nickname": "Play 2 games with differing talents on Valla",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29281,7 +27661,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Varian",
+   "Nickname": "Play 2 games with differing talents on Varian",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29290,7 +27670,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Whitemane",
+   "Nickname": "Play 2 games with differing talents on Whitemane",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29299,7 +27679,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Xul",
+   "Nickname": "Play 2 games with differing talents on Xul",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29308,7 +27688,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Yrel",
+   "Nickname": "Play 2 games with differing talents on Yrel",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29317,7 +27697,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Zagara",
+   "Nickname": "Play 2 games with differing talents on Zagara",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29326,7 +27706,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Zarya",
+   "Nickname": "Play 2 games with differing talents on Zarya",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29335,7 +27715,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Zeratul",
+   "Nickname": "Play 2 games with differing talents on Zeratul",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -29344,7 +27724,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your party tries every talent on Zul'jin",
+   "Nickname": "Play 2 games with differing talents on Zul'jin",
    "Challenge": "During your bingo session, pick every talent possible",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
