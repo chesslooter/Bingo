@@ -1646,163 +1646,6 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Kill Zeratul as Artanis",
-   "Source": "HeroesBingoData.json",
-   "Category": "Lore specific",
-   "Universe": "S",
-   "Player count": "Singleplayer",
-   "Credit": "Stark",
-   "IsArtanis": "Yes"
- },
- {
-   "Nickname": "Kill Uther as Arthas",
-   "Source": "HeroesBingoData.json",
-   "Category": "Lore specific",
-   "Universe": "W",
-   "Player count": "Singleplayer",
-   "Credit": "chesslooter",
-   "IsArthas": "Yes"
- },
- {
-   "Nickname": "''Northrend Recruitment''",
-   "Challenge": "Capture eight or more mercenary camps in one game as Arthas or Muradin",
-   "Source": "HeroesBingoData.json",
-   "Category": "Lore specific",
-   "Difficulty": 3,
-   "Universe": "W",
-   "Player count": "Multiplayer",
-   "Credit": "chesslooter",
-   "IsArthas": "Yes",
-   "IsMuradin": "Yes"
- },
- {
-   "Nickname": "''Naptime'' Muradin as Arthas",
-   "Challenge": "(kill him)",
-   "Source": "HeroesBingoData.json",
-   "Category": "Lore specific",
-   "Universe": "W",
-   "Player count": "Singleplayer",
-   "Credit": "chesslooter",
-   "IsArthas": "Yes"
- },
- {
-   "Nickname": "Kill Mal'Ganis as Arthas",
-   "Challenge": "(boy, this guy sure loves killing)",
-   "Source": "HeroesBingoData.json",
-   "Category": "Lore specific",
-   "Universe": "W",
-   "Player count": "Singleplayer",
-   "Credit": "chesslooter",
-   "IsArthas": "Yes"
- },
- {
-   "Nickname": "Defeat Illidan as Arthas",
-   "Source": "HeroesBingoData.json",
-   "Category": "Lore specific",
-   "Universe": "W",
-   "Player count": "Singleplayer",
-   "Credit": "chesslooter",
-   "IsArthas": "Yes"
- },
- {
-   "Nickname": "''The Original KT''",
-   "Challenge": "Kill Kael'thas as Kel'Thuzad",
-   "Source": "HeroesBingoData.json",
-   "Category": "Lore specific",
-   "Universe": "W",
-   "Player count": "Singleplayer",
-   "Credit": "chesslooter",
-   "IsKel'Thuzad": "Yes"
- },
- {
-   "Nickname": "''Lumber Quota''",
-   "Challenge": "Kill 15 of Malfurion's Treants as Gazlowe or \"Grom\" (Samuro)",
-   "Source": "HeroesBingoData.json",
-   "Category": "Lore specific",
-   "Universe": "W",
-   "Player count": "Custom Lobby",
-   "IsCustom": "Yes",
-   "Credit": "chesslooter"
- },
- {
-   "Nickname": "''Daughter of a deceased Demigod''",
-   "Challenge": "Kill Samuro as Lunara",
-   "Source": "HeroesBingoData.json",
-   "Category": "Lore specific",
-   "Universe": "W",
-   "Player count": "Singleplayer",
-   "Credit": "chesslooter",
-   "IsLunara": "Yes"
- },
- {
-   "Nickname": "''Awakening Stormrage''",
-   "Challenge": "Cleanse a sleep on Malfurion (or Illidan?) as Tyrande",
-   "Source": "HeroesBingoData.json",
-   "Category": "Lore specific",
-   "Universe": "W",
-   "Player count": "Custom Lobby",
-   "IsCustom": "Yes",
-   "Credit": "chesslooter"
- },
- {
-   "Nickname": "''I'm blind...''",
-   "Challenge": "Illidan gets Blinded",
-   "Source": "HeroesBingoData.json",
-   "Category": "Hero specific",
-   "Universe": "W",
-   "Player count": "Singleplayer",
-   "Credit": "chesslooter",
-   "IsIllidan": "Yes"
- },
- {
-   "Nickname": "''Snarlmane the Bloodgorger''",
-   "Challenge": "Kill Snarlmane (Hogger) as Kael'thas",
-   "Source": "HeroesBingoData.json",
-   "Category": "Lore specific",
-   "Universe": "W",
-   "Player count": "Singleplayer",
-   "Credit": "chesslooter",
-   "IsKael'thas": "Yes"
- },
- {
-   "Nickname": "''War Crimes''",
-   "Challenge": "Kill Garrosh as Tyrande",
-   "Source": "HeroesBingoData.json",
-   "Category": "Lore specific",
-   "Universe": "W",
-   "Player count": "Singleplayer",
-   "Credit": "chesslooter",
-   "IsTyrande": "Yes"
- },
- {
-   "Nickname": "Kill Fenix as Kerrigan",
-   "Source": "HeroesBingoData.json",
-   "Category": "Lore specific",
-   "Universe": "S",
-   "Player count": "Singleplayer",
-   "Credit": "Stark",
-   "IsKerrigan": "Yes"
- },
- {
-   "Nickname": "Never kill Kerrigan as Raynor",
-   "Source": "HeroesBingoData.json",
-   "Category": "Lore specific",
-   "Universe": "S",
-   "Player count": "Multiplayer",
-   "Credit": "Stark",
-   "IsRaynor": "Yes"
- },
- {
-   "Nickname": "Baneling Bust",
-   "Challenge": "Kill a fort on Braxis Holdout, Braxis Outpost or Warhead with just Banelings",
-   "Source": "HeroesBingoData.json",
-   "Category": "Lore specific",
-   "Universe": "S",
-   "Player count": "Custom Lobby",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
    "Nickname": "One pair",
    "Challenge": "Play with 1 pair of Heroes in ARAM",
    "Source": "HeroesBingoData.json",
@@ -12715,15 +12558,6 @@
    "Credit": "chesslooter"
  },
  {
-   "Nickname": "''Dragoonslayer''",
-   "Challenge": "Kill a dragoon. (Fenix)",
-   "Source": "HeroesBingoData.json",
-   "Category": "Draft specific",
-   "Difficulty": 5,
-   "IsCustom": "Yes",
-   "Credit": "chesslooter"
- },
- {
    "Nickname": "''TvT''",
    "Challenge": "Play a Terran hero and kill a Terran hero.",
    "Source": "HeroesBingoData.json",
@@ -22226,3142 +22060,6 @@
    "Credit": "Iron"
  },
  {
-   "Nickname": "Pick Abathur in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Alarak in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Alexstrasza in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Ana in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Anduin in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Anub'arak in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Artanis in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Arthas in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Auriel in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Azmodan in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Blaze in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Brightwing in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Cassia in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Chen in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Cho in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Chromie in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick D. Va in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Deathwing in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Deckard Cain in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Dehaka in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Diablo in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick ETC in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Falstad in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Fenix in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Garrosh in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Gazlowe in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Genji in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Greymane in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Gul'dan in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Hanzo in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Hogger in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Illidan in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Imperius in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Jaina in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Johanna in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Junkrat in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Kael'thas in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Kel'Thuzad in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Kerrigan in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Kharazim in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Leoric in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Li Li in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Li-Ming in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Lt. Morales in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Lucio in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Lunara in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Maiev in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Mal'Ganis in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Malfurion in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Malthael in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Medivh in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Mei in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Mephisto in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Muradin in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Murky in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Nazeebo in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Nova in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Orphea in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Probius in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Qhira in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Ragnaros in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Raynor in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Rehgar in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Rexxar in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Samuro in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Sgt. Hammer in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Sonya in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Stitches in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Stukov in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Sylvanas in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Tassadar in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick The Butcher in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick The Lost Vikings in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Thrall in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Tracer in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Tychus in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Tyrael in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Tyrande in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Uther in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Valeera in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Valla in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Varian in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Whitemane in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Xul in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Yrel in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Zagara in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Zarya in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Zeratul in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Zul'jin in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Abathur in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Alarak in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Alexstrasza in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Ana in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Anduin in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Anub'arak in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Artanis in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Arthas in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Auriel in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Azmodan in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Blaze in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Brightwing in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Cassia in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Chen in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Cho in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Chromie in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick D. Va in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Deathwing in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Deckard Cain in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Dehaka in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Diablo in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick ETC in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Falstad in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Fenix in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Garrosh in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Gazlowe in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Gall in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Genji in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Greymane in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Gul'dan in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Hanzo in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Hogger in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Illidan in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Imperius in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Jaina in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Johanna in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Junkrat in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Kael'thas in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Kel'Thuzad in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Kerrigan in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Kharazim in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Leoric in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Li Li in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Li-Ming in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Lt. Morales in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Lucio in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Lunara in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Maiev in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Mal'Ganis in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Malfurion in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Malthael in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Medivh in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Mei in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Mephisto in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Muradin in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Murky in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Nazeebo in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Nova in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Orphea in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Probius in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Qhira in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Ragnaros in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Raynor in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Rehgar in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Rexxar in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Samuro in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Sgt. Hammer in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Sonya in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Stitches in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Stukov in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Sylvanas in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Tassadar in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick The Butcher in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick The Lost Vikings in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Thrall in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Tracer in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Tychus in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Tyrael in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Tyrande in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Uther in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Valeera in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Valla in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Varian in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Whitemane in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Xul in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Yrel in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Zagara in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Zarya in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Zeratul in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Zul'jin in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Abathur in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Alarak in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Alexstrasza in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Ana in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Anduin in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Anub'arak in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Artanis in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Arthas in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Auriel in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Azmodan in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Blaze in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Brightwing in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Cassia in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Chen in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Cho in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Chromie in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick D. Va in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Deathwing in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Deckard Cain in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Dehaka in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Diablo in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick ETC in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Falstad in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Fenix in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Garrosh in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Gazlowe in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Gall in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Genji in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Greymane in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Gul'dan in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Hanzo in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Hogger in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Illidan in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Imperius in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Jaina in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Johanna in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Junkrat in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Kael'thas in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Kel'Thuzad in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Kerrigan in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Kharazim in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Leoric in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Li Li in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Li-Ming in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Lt. Morales in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Lucio in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Lunara in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Maiev in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Mal'Ganis in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Malfurion in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Malthael in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Medivh in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Mei in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Mephisto in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Muradin in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Murky in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Nazeebo in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Nova in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Orphea in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Probius in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Qhira in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Ragnaros in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Raynor in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Rehgar in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Rexxar in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Samuro in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Sgt. Hammer in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Sonya in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Stitches in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Stukov in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Sylvanas in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Tassadar in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick The Butcher in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick The Lost Vikings in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Thrall in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Tracer in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Tychus in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Tyrael in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Tyrande in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Uther in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Valeera in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Valla in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Varian in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Whitemane in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Xul in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Yrel in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Zagara in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Zarya in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Zeratul in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Zul'jin in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Abathur in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Alarak in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Alexstrasza in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Ana in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Anduin in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Anub'arak in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Artanis in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Arthas in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Auriel in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Azmodan in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Blaze in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Brightwing in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Cassia in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Chen in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Cho in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Chromie in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick D. Va in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Deathwing in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Deckard Cain in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Dehaka in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Diablo in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick ETC in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Falstad in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Fenix in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Garrosh in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Gazlowe in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Gall in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Genji in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Greymane in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Gul'dan in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Hanzo in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Hogger in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Illidan in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Imperius in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Jaina in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Johanna in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Junkrat in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Kael'thas in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Kel'Thuzad in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Kerrigan in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Kharazim in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Leoric in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Li Li in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Li-Ming in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Lt. Morales in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Lucio in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Lunara in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Maiev in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Mal'Ganis in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Malfurion in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Malthael in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Medivh in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Mei in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Mephisto in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Muradin in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Murky in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Nazeebo in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Nova in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Orphea in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Probius in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Qhira in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Ragnaros in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Raynor in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Rehgar in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Rexxar in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Samuro in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Sgt. Hammer in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Sonya in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Stitches in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Stukov in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Sylvanas in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Tassadar in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick The Butcher in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick The Lost Vikings in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Thrall in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Tracer in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Tychus in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Tyrael in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Tyrande in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Uther in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Valeera in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Valla in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Varian in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Whitemane in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Xul in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Yrel in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Zagara in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Zarya in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Zeratul in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Zul'jin in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Abathur in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Alarak in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Alexstrasza in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Ana in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Anduin in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Anub'arak in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Artanis in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Arthas in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Auriel in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Azmodan in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Blaze in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Brightwing in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Cassia in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Chen in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Chromie in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick D. Va in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Deathwing in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Deckard Cain in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Dehaka in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Diablo in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick ETC in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Falstad in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Fenix in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Garrosh in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Gazlowe in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Gall in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Genji in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Greymane in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Gul'dan in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Hanzo in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Hogger in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Illidan in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Imperius in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Jaina in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Johanna in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Junkrat in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Kael'thas in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Kel'Thuzad in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Kerrigan in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Kharazim in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Leoric in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Li Li in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Li-Ming in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Lt. Morales in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Lucio in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Lunara in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Maiev in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Mal'Ganis in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Malfurion in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Malthael in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Medivh in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Mei in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Mephisto in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Muradin in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Murky in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Nazeebo in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Nova in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Orphea in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Probius in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Qhira in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Ragnaros in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Raynor in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Rehgar in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Rexxar in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Samuro in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Sgt. Hammer in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Sonya in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Stitches in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Stukov in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Sylvanas in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Tassadar in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick The Butcher in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick The Lost Vikings in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Thrall in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Tracer in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Tychus in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Tyrael in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Tyrande in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Uther in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Valeera in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Valla in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Varian in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Whitemane in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Xul in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Yrel in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Zagara in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Zarya in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Zeratul in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick Zul'jin in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "IsCustom": "Yes",
-   "Credit": "Stark"
- },
- {
    "Nickname": "Pick a Tank in draft slot 1",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -27817,5 +24515,738 @@
    "Category": "Hero specific",
    "Credit": "Iron",
    "IsDiablo": "Yes"
+ },
+ {
+   "Nickname": "Pick a StarCraft hero in draft slot 1",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a StarCraft hero in draft slot 2",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a StarCraft hero in draft slot 3",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a StarCraft hero in draft slot 4",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a StarCraft hero in draft slot 5",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Warcraft hero in draft slot 1",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Warcraft hero in draft slot 2",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Warcraft hero in draft slot 3",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Warcraft hero in draft slot 4",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Warcraft hero in draft slot 5",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Diablo hero in draft slot 1",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Diablo hero in draft slot 2",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Diablo hero in draft slot 3",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Diablo hero in draft slot 4",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Diablo hero in draft slot 5",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick an Overwatch hero in draft slot 1",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick an Overwatch hero in draft slot 2",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick an Overwatch hero in draft slot 3",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick an Overwatch hero in draft slot 4",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick an Overwatch hero in draft slot 5",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Nexus hero in draft slot 1",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Nexus hero in draft slot 2",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Nexus hero in draft slot 3",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Nexus hero in draft slot 4",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Nexus hero in draft slot 5",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Protoss hero in draft slot 1",
+   "Challenge": "(Alarak, Artanis, Fenix, Probius, Tassadar, Zeratul + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Protoss hero in draft slot 2",
+   "Challenge": "(Alarak, Artanis, Fenix, Probius, Tassadar, Zeratul + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Protoss hero in draft slot 3",
+   "Challenge": "(Alarak, Artanis, Fenix, Probius, Tassadar, Zeratul + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Protoss hero in draft slot 4",
+   "Challenge": "(Alarak, Artanis, Fenix, Probius, Tassadar, Zeratul + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Protoss hero in draft slot 5",
+   "Challenge": "(Alarak, Artanis, Fenix, Probius, Tassadar, Zeratul + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Zerg hero in draft slot 1",
+   "Challenge": "(Abathur, Dehaka, Kerrigan, Stukov, Zagara + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Zerg hero in draft slot 2",
+   "Challenge": "(Abathur, Dehaka, Kerrigan, Stukov, Zagara + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Zerg hero in draft slot 3",
+   "Challenge": "(Abathur, Dehaka, Kerrigan, Stukov, Zagara + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Zerg hero in draft slot 4",
+   "Challenge": "(Abathur, Dehaka, Kerrigan, Stukov, Zagara + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Zerg hero in draft slot 5",
+   "Challenge": "(Abathur, Dehaka, Kerrigan, Stukov, Zagara + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Terran hero in draft slot 1",
+   "Challenge": "(Blaze, Lt. Morales, Nova, Raynor, Sgt. Hammer, Stukov, Tychus + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Terran hero in draft slot 2",
+   "Challenge": "(Blaze, Lt. Morales, Nova, Raynor, Sgt. Hammer, Stukov, Tychus + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Terran hero in draft slot 3",
+   "Challenge": "(Blaze, Lt. Morales, Nova, Raynor, Sgt. Hammer, Stukov, Tychus + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Terran hero in draft slot 4",
+   "Challenge": "(Blaze, Lt. Morales, Nova, Raynor, Sgt. Hammer, Stukov, Tychus + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Terran hero in draft slot 5",
+   "Challenge": "(Blaze, Lt. Morales, Nova, Raynor, Sgt. Hammer, Stukov, Tychus + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Human hero in draft slot 1",
+   "Challenge": "(Warcraft and Overwatch humans, Cassia, Xul + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Human hero in draft slot 2",
+   "Challenge": "(Warcraft and Overwatch humans, Cassia, Xul + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Human hero in draft slot 3",
+   "Challenge": "(Warcraft and Overwatch humans, Cassia, Xul + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Human hero in draft slot 4",
+   "Challenge": "(Warcraft and Overwatch humans, Cassia, Xul + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Human hero in draft slot 5",
+   "Challenge": "(Warcraft and Overwatch humans, Cassia, Xul + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick an Elf hero in draft slot 1",
+   "Challenge": "(Alexstrasza, Illidan, Kael'thas, Lunara, Maiev, Malfurion, Sylvanas, Tyrande, Valeera + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick an Elf hero in draft slot 2",
+   "Challenge": "(Alexstrasza, Illidan, Kael'thas, Lunara, Maiev, Malfurion, Sylvanas, Tyrande, Valeera + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick an Elf hero in draft slot 3",
+   "Challenge": "(Alexstrasza, Illidan, Kael'thas, Lunara, Maiev, Malfurion, Sylvanas, Tyrande, Valeera + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick an Elf hero in draft slot 4",
+   "Challenge": "(Alexstrasza, Illidan, Kael'thas, Lunara, Maiev, Malfurion, Sylvanas, Tyrande, Valeera + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick an Elf hero in draft slot 5",
+   "Challenge": "(Alexstrasza, Illidan, Kael'thas, Lunara, Maiev, Malfurion, Sylvanas, Tyrande, Valeera + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick an Undead hero in draft slot 1",
+   "Challenge": "(Anub'arak, Arthas, Kel'Thuzad, Leoric, Mal'Ganis, Stitches, Sylvanas + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick an Undead hero in draft slot 2",
+   "Challenge": "(Anub'arak, Arthas, Kel'Thuzad, Leoric, Mal'Ganis, Stitches, Sylvanas + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick an Undead hero in draft slot 3",
+   "Challenge": "(Anub'arak, Arthas, Kel'Thuzad, Leoric, Mal'Ganis, Stitches, Sylvanas + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick an Undead hero in draft slot 4",
+   "Challenge": "(Anub'arak, Arthas, Kel'Thuzad, Leoric, Mal'Ganis, Stitches, Sylvanas + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick an Undead hero in draft slot 5",
+   "Challenge": "(Anub'arak, Arthas, Kel'Thuzad, Leoric, Mal'Ganis, Stitches, Sylvanas + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick an Orc hero in draft slot 1",
+   "Challenge": "(Garrosh, Gul'dan, Rehgar, Rexxar, Samuro, Thrall + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick an Orc hero in draft slot 2",
+   "Challenge": "(Garrosh, Gul'dan, Rehgar, Rexxar, Samuro, Thrall + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick an Orc hero in draft slot 3",
+   "Challenge": "(Garrosh, Gul'dan, Rehgar, Rexxar, Samuro, Thrall + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick an Orc hero in draft slot 4",
+   "Challenge": "(Garrosh, Gul'dan, Rehgar, Rexxar, Samuro, Thrall + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick an Orc hero in draft slot 5",
+   "Challenge": "(Garrosh, Gul'dan, Rehgar, Rexxar, Samuro, Thrall + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick an Alliance hero in draft slot 1",
+   "Challenge": "(Anduin, Falstad, Greymane, Jaina, Maiev, Malfurion, Muradin, Tyrande, Uther, Varian, Yrel + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick an Alliance hero in draft slot 2",
+   "Challenge": "(Anduin, Falstad, Greymane, Jaina, Maiev, Malfurion, Muradin, Tyrande, Uther, Varian, Yrel + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick an Alliance hero in draft slot 3",
+   "Challenge": "(Anduin, Falstad, Greymane, Jaina, Maiev, Malfurion, Muradin, Tyrande, Uther, Varian, Yrel + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick an Alliance hero in draft slot 4",
+   "Challenge": "(Anduin, Falstad, Greymane, Jaina, Maiev, Malfurion, Muradin, Tyrande, Uther, Varian, Yrel + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick an Alliance hero in draft slot 5",
+   "Challenge": "(Anduin, Falstad, Greymane, Jaina, Maiev, Malfurion, Muradin, Tyrande, Uther, Varian, Yrel + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Horde hero in draft slot 1",
+   "Challenge": "(Cho'Gall, ETC, Garrosh, Gazlowe, Gul'dan, Rehgar, Rexxar, Samuro, Sylvanas, Thrall, Zul'jin + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Horde hero in draft slot 2",
+   "Challenge": "(Cho'Gall, ETC, Garrosh, Gazlowe, Gul'dan, Rehgar, Rexxar, Samuro, Sylvanas, Thrall, Zul'jin + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Horde hero in draft slot 3",
+   "Challenge": "(Cho'Gall, ETC, Garrosh, Gazlowe, Gul'dan, Rehgar, Rexxar, Samuro, Sylvanas, Thrall, Zul'jin + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Horde hero in draft slot 4",
+   "Challenge": "(Cho'Gall, ETC, Garrosh, Gazlowe, Gul'dan, Rehgar, Rexxar, Samuro, Sylvanas, Thrall, Zul'jin + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Horde hero in draft slot 5",
+   "Challenge": "(Cho'Gall, ETC, Garrosh, Gazlowe, Gul'dan, Rehgar, Rexxar, Samuro, Sylvanas, Thrall, Zul'jin + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Demon hero in draft slot 1",
+   "Challenge": "(Azmodan, Butcher, Diablo, Mal'Ganis, Mephisto + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Demon hero in draft slot 2",
+   "Challenge": "(Azmodan, Butcher, Diablo, Mal'Ganis, Mephisto + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Demon hero in draft slot 3",
+   "Challenge": "(Azmodan, Butcher, Diablo, Mal'Ganis, Mephisto + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Demon hero in draft slot 4",
+   "Challenge": "(Azmodan, Butcher, Diablo, Mal'Ganis, Mephisto + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Demon hero in draft slot 5",
+   "Challenge": "(Azmodan, Butcher, Diablo, Mal'Ganis, Mephisto + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Nephalem hero in draft slot 1",
+   "Challenge": "(Johanna, Kharazim, Li-Ming, Nazeebo, Sonya, Valla + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Nephalem hero in draft slot 2",
+   "Challenge": "(Johanna, Kharazim, Li-Ming, Nazeebo, Sonya, Valla + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Nephalem hero in draft slot 3",
+   "Challenge": "(Johanna, Kharazim, Li-Ming, Nazeebo, Sonya, Valla + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Nephalem hero in draft slot 4",
+   "Challenge": "(Johanna, Kharazim, Li-Ming, Nazeebo, Sonya, Valla + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Nephalem hero in draft slot 5",
+   "Challenge": "(Johanna, Kharazim, Li-Ming, Nazeebo, Sonya, Valla + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Play as a hero with a hat",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Iron"
+ },
+ {
+   "Nickname": "Pick a Dragon hero in draft slot 1",
+   "Challenge": "(Alexstrasza, Brightwing, Chromie, Deathwing + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Dragon hero in draft slot 2",
+   "Challenge": "(Alexstrasza, Brightwing, Chromie, Deathwing + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Dragon hero in draft slot 3",
+   "Challenge": "(Alexstrasza, Brightwing, Chromie, Deathwing + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Dragon hero in draft slot 4",
+   "Challenge": "(Alexstrasza, Brightwing, Chromie, Deathwing + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Pick a Dragon hero in draft slot 5",
+   "Challenge": "(Alexstrasza, Brightwing, Chromie, Deathwing + related skins)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Play with a Mecha skin",
+   "Challenge": "(Because they're the best, don't @ me)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Play with all Evil heroes on your team",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Kalavothe"
+ },
+ {
+   "Nickname": "''Yum!''",
+   "Challenge": "Make a Yoshi noise every time you land Drag on a hero (Dehaka)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Credit": "TheLazyHydra",
+   "IsDehaka": "Yes"
+ },
+ {
+   "Nickname": "''Welcome to the team!''",
+   "Challenge": "Get an enemy hero behind your walls w/ displacement",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Try this wombo: ''Holy Crap''",
+   "Challenge": "Divine Shield + Putrid Bile (Uther + Stitches)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Wombo combo",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Iron"
+ },
+ {
+   "Nickname": "Every player on your team must solo a merc camp",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "chesslooter"
+ },
+ {
+   "Nickname": "Every player on your team must takedown a hero",
+   "Source": "HeroesBingoData.json",
+   "Category": "Basic",
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "chesslooter"
  }
 ]
