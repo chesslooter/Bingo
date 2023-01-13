@@ -34,7 +34,7 @@
                         <div class="container">
                             <div id="selectorAccordion">
                                 <div id="selectorRow" class="row" style="padding-top: 10px">
-                                    
+
                                 </div>
                             </div>
                         </div>
@@ -43,6 +43,29 @@
             </div>
         </div>
         <!--Options Modal Section ends here-->
+        <!--No Filters Selected Popup Modal starts here-->
+        <div class="modal fade" id="noFiltersModal" tabindex="-1" role="dialog" aria-labelledby="noFiltersModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-xl" role="document">
+                <div class="modal-content">
+                    <div class="modal-header" style="background-color: #2c2f33">
+                        <h5 class="modal-title" style="color: #f00">You have not selected any filters. Are you sure you want to proceed?</h5>
+                    </div>
+                    <div class="modal-body" style="background-color: #2c2f33">
+                        <div class="row buttonRow">
+                            <div class="col">
+                                <div class="form-check form-check-inline" style="padding-left: 0px;">
+                                    <button id="heroesBingoBtn" class="btn btnNew" onclick="{ $('#noFiltersModal').modal('hide'); prepareData();}">Yes. Give me the randomest board.</button>
+                                </div>
+                                <div class="form-check form-check-inline" style="padding-left: 0px;">
+                                    <button id="heroesBingoBtn" class="btn btnSettings" onclick="{ $('#noFiltersModal').modal('hide');}">No. I wish to set filters under "Settings".</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--No Filters Selected Popup Modal ends here-->
         <div class="row buttonRow">
             <div class="col">
                 <div class="form-check form-check-inline" style="padding-left: 0px;">
@@ -142,7 +165,12 @@
         buttonSelection = "heroesBingo";
         loadedBingoBoard = false;
         addSelections();
-        prepareData();
+        if (selectedOptions.length <= 0) {
+            $('#noFiltersModal').modal('show');
+            //Add a popup modal for no filters
+        } else {
+            prepareData();
+        }
     }
 
     function addSelections() {
