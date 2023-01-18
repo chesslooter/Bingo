@@ -1,5 +1,10 @@
 [
   {
+    "OptionName": "Difficulty",
+    "OptionValue": "DifficultyOptions",
+    "OptionFilename": "DifficultyOptions.json"
+  },
+  {
     "OptionName": "Number Of Players",
     "OptionValue": "NumberOfPlayers",
     "OptionFilename": "NumberOfPlayers.json"

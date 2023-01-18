@@ -90,7 +90,7 @@
                     </div>
                 </div>
                 <div class="form-check form-check-inline" style="padding-left: 0px;">
-                    <button id="colorPicker" class="btn btnColorPicker" >Color Picker</button>
+                    <button id="colorPicker" class="btn btnColorPicker">Color Picker</button>
                 </div>
             </div>
         </div>
@@ -116,6 +116,14 @@
     var bingoBoardOptions;
     var loadedBingoBoard = false;
     var viewedSettings = false;
+    var checkingDifficulty = false;
+    var selectedDifficulty;
+    var difficultyLevel = 5;
+    var difficulties = ["Easy", "Normal", "Hard", "Brutal", "Nightmare"];
+    var difficultyLevels = ["2", "4", "6", "8", "10"];
+    var currentBoardDifficulty = 5;
+    var numberOfPulledSquares = 0;
+    var difficultyTolerance = 4;
     window.onload = function () {
         printOptionsMenu();
         retrieveBingoData(bingoDataList);
@@ -140,36 +148,43 @@
         });
     }
 
-    function toggleCCLOptions() {
-        if (document.getElementById("IsCCL").checked) {
-            document.getElementById("IsSingleplayer").checked = false;
-            document.getElementById("IsSingleplayer").disabled = true;
-
-            document.getElementById("IsMultiplayer").checked = false;
-            document.getElementById("IsMultiplayer").disabled = true;
-
-            document.getElementById("IsAramMaps").checked = false;
-            document.getElementById("IsAramMaps").disabled = true;
-
-            document.getElementById("IsQuickMaps").checked = false;
-            document.getElementById("IsQuickMaps").disabled = true;
-
-            document.getElementById("IsRankedMaps").checked = false;
-            document.getElementById("IsRankedMaps").disabled = true;
-
-            document.getElementById("IsCustom").checked = false;
-            document.getElementById("IsCustom").disabled = true;
-
-            DisableAllOptions("HeroFilterMode");
-        } else {
-
-            document.getElementById("IsSingleplayer").disabled = false;
-            document.getElementById("IsMultiplayer").disabled = false;
-            document.getElementById("IsAramMaps").disabled = false;
-            document.getElementById("IsQuickMaps").disabled = false;
-            document.getElementById("IsRankedMaps").disabled = false;
-            document.getElementById("IsCustom").disabled = false;
-            EnableAllOptions("HeroFilterMode");
+    function toggleDifficultyOptions(option) {
+        if (document.getElementById(option).checked) {
+            if ((option == "Easy")) {
+                document.getElementById("Easy").checked = true;
+                document.getElementById("Normal").checked = false;
+                document.getElementById("Hard").checked = false;
+                document.getElementById("Brutal").checked = false;
+                document.getElementById("Nightmare").checked = false;
+            }
+            else if ((option == "Normal")) {
+                document.getElementById("Normal").checked = true;
+                document.getElementById("Easy").checked = false;
+                document.getElementById("Hard").checked = false;
+                document.getElementById("Brutal").checked = false;
+                document.getElementById("Nightmare").checked = false;
+            }
+            else if ((option == "Hard")) {
+                document.getElementById("Hard").checked = true;
+                document.getElementById("Easy").checked = false;
+                document.getElementById("Normal").checked = false;
+                document.getElementById("Brutal").checked = false;
+                document.getElementById("Nightmare").checked = false;
+            }
+            else if ((option == "Brutal")) {
+                document.getElementById("Brutal").checked = true;
+                document.getElementById("Easy").checked = false;
+                document.getElementById("Normal").checked = false;
+                document.getElementById("Hard").checked = false;
+                document.getElementById("Nightmare").checked = false;
+            }
+            else if ((option == "Nightmare")) {
+                document.getElementById("Nightmare").checked = true;
+                document.getElementById("Easy").checked = false;
+                document.getElementById("Normal").checked = false;
+                document.getElementById("Hard").checked = false;
+                document.getElementById("Brutal").checked = false;
+            }
         }
     }
 
@@ -199,7 +214,14 @@
                 var dataSources = dataSource.split(",");
                 dataSources.forEach(function (element, index, array) {
                     if (selectedOptions[element] != undefined) {
-                        selectedOptions[element].push(nodeChild.id);
+                        if (!checkingDifficulty && (difficulties.indexOf(nodeChild.id) >= 0)) {
+                            checkingDifficulty = true;
+                            selectedDifficulty = nodeChild.id;
+                            difficultyLevel = difficultyLevels[difficulties.indexOf(selectedDifficulty)];
+                            currentBoardDifficulty = difficultyLevel;
+                        } else {
+                            selectedOptions[element].push(nodeChild.id);
+                        }
                     }
                 });
             } else if (nodeChild.childNodes.length > 0) {
@@ -393,7 +415,7 @@
                 var color = $(this).css('background-color');
                 if (!$(this).hasClass('marked')) {
                     $(this).addClass('marked');
-                    $(this).css ("background-color", currentColor);
+                    $(this).css("background-color", currentColor);
                     //Sets the 0 "unchecked" in the code to 1 "checked"
                     var selectedSquare = $(this);
                     bingoBoardOptions.forEach(function (element, index, array) {
@@ -413,7 +435,7 @@
                         }
                     });
                 }
-                
+
                 checkBingoResults();
             });
             isFirstBoard = false;
@@ -439,6 +461,8 @@
         Object.keys(emptySelectedOptions).forEach(function (element, index, array) {
             selectedOptions[element] = new Array();
         });
+        checkingDifficulty = false;
+        numberOfPulledSquares = 0;
     }
 
     function printTable() {
@@ -499,6 +523,7 @@
                 cell.setAttribute('width', '150px');
                 if (bingoElement.checkedIndicator) {
                     cell.setAttribute('class', 'td marked');
+                    cell.style.background = currentColor;
                 }
                 row.appendChild(cell);
             }
@@ -549,18 +574,56 @@
                 return true;
             });
             if (validOption) {
-                pullAgain = false;
-                usedBingoOptions.forEach(function (element, index, array) {
-                    if (bingoElement.Nickname == element.Nickname) {
-                        pullAgain = true;
+                if (checkingDifficulty) {
+                    //Selects squares that are or are within 4 of the selected difficulty, or easier. Put Math.abs in front to remove the "or easier".
+                    if ((bingoElement["Difficulty"] - difficultyLevel) <= difficultyTolerance) {
+                        console.log("Entered");
+                        console.log("Difficulty Selected: " + difficultyLevel);
+                    console.log("Current Average: " + currentBoardDifficulty);
+                    console.log("Current Square Difficulty: " + bingoElement["Difficulty"])
+                        console.log(numberOfPulledSquares);
+                        //If the board is equal to or harder than the difficulty, picks a square easier than the board average
+                        if (currentBoardDifficulty >= difficultyLevel && difficultyLevel >= bingoElement["Difficulty"]) {
+                            pullAgain = recalculateDifficultyAverages(bingoElement, pullAgain, usedBingoOptions);
+                        }
+                        //If the board is easier than the difficulty, picks a square harder than the board average
+                        else if (currentBoardDifficulty < difficultyLevel && difficultyLevel < bingoElement["Difficulty"]) {
+                            pullAgain = recalculateDifficultyAverages(bingoElement, pullAgain, usedBingoOptions);
+                        }
                     }
-                });
+                } else {
+                    pullAgain = false;
+                    usedBingoOptions.forEach(function (element, index, array) {
+                        if (bingoElement.Nickname == element.Nickname) {
+                            pullAgain = true;
+                        }
+                    });
+                }
             }
         }
         bingoElement["masterIndex"] = masterIndex;
         bingoElement["checkedIndicator"] = false;
         usedBingoOptions.push(bingoElement);
         return bingoElement;
+    }
+
+    function recalculateDifficultyAverages(bingoElement, pullAgain, usedBingoOptions) {
+        pullAgain = false;
+        usedBingoOptions.forEach(function (element, index, array) {
+            if (bingoElement.Nickname == element.Nickname) {
+                pullAgain = true;
+            }
+        });
+        if (!pullAgain) {
+            if (numberOfPulledSquares == 0) {
+                numberOfPulledSquares++;
+                currentBoardDifficulty = bingoElement["Difficulty"];
+            } else {
+                numberOfPulledSquares++;
+                currentBoardDifficulty = parseFloat(currentBoardDifficulty) + ((parseFloat(bingoElement["Difficulty"]) - currentBoardDifficulty) / numberOfPulledSquares);
+            }
+        }
+        return pullAgain;
     }
 
     function pullBingoSquareFromLoad(usedBingoOptions) {
@@ -636,8 +699,8 @@
     function checkBingoResults() {
         const bingo = identifyBingo();
         if (bingo.bingo) {
-            bingo.bingoRows.forEach(function(row) {
-                row.forEach(function(e) {
+            bingo.bingoRows.forEach(function (row) {
+                row.forEach(function (e) {
                     e.setAttribute('class', 'marked finishedBingo');
                 });
             });
@@ -662,7 +725,7 @@
                 document.querySelector('tbody tr:nth-child(3) td.marked:nth-child(3)'),
                 document.querySelector('tbody tr:nth-child(4) td.marked:nth-child(4)'),
                 document.querySelector('tbody tr:nth-child(5) td.marked:nth-child(5)'),
-            ].filter(function(i) {
+            ].filter(function (i) {
                 return i ? true : false;
             });
         }
@@ -674,13 +737,13 @@
                 document.querySelector('tbody tr:nth-child(3) td.marked:nth-child(3)'),
                 document.querySelector('tbody tr:nth-child(4) td.marked:nth-child(2)'),
                 document.querySelector('tbody tr:nth-child(5) td.marked:nth-child(1)'),
-            ].filter(function(i) {
+            ].filter(function (i) {
                 return i ? true : false;
             });
         }
 
         // invalidate old results
-        document.querySelectorAll('tbody td.marked.finishedBingo').forEach(function(e) {
+        document.querySelectorAll('tbody td.marked.finishedBingo').forEach(function (e) {
             e.setAttribute('class', 'marked');
         });
         document.querySelector('body').setAttribute('class', '');
@@ -703,7 +766,7 @@
             findDiagonalTwo(),
         ];
 
-        eligibleBingo.forEach(function(row) {
+        eligibleBingo.forEach(function (row) {
             if (row.length === 5) {
                 results.bingo = true;
                 results.bingoRows.push(row);
