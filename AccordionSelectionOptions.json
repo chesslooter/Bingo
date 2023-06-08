@@ -18,5 +18,10 @@
     "OptionName": "Filter Individual Heroes",
     "OptionValue": "HeroFilterMode",
     "OptionFilename": "HeroesList.json"
+  },
+  {
+    "OptionName": "HI Nations Cup",
+    "OptionValue": "NationsCupMode",
+    "OptionFilename": "NationsCupMode.json"
   }
 ]

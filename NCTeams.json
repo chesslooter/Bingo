@@ -1,0 +1,33 @@
+{
+  "Id": "NCTeams",
+  "Source": [
+    "HeroesBingoData.json"
+  ],
+  "Header": "Select which NC Teams are playing.",
+  "Buttons": [
+    {
+      "ButtonName": "Sweden",
+      "ButtonValue": "IsSweden"
+    },
+    {
+      "ButtonName": "France",
+      "ButtonValue": "IsFrance"
+    },
+    {
+      "ButtonName": "Germany",
+      "ButtonValue": "IsGermany"
+    },
+    {
+      "ButtonName": "Poland",
+      "ButtonValue": "IsPoland"
+    },
+    {
+      "ButtonName": "USA",
+      "ButtonValue": "IsUSA"
+    },
+    {
+      "ButtonName": "South Korea",
+      "ButtonValue": "IsSouthKorea"
+    }
+  ]
+}

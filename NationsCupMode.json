@@ -1,0 +1,42 @@
+{
+  "Id": "NationsCupMode",
+  "Source": [
+    "HeroesBingoData.json"
+  ],
+  "OnLoadEvent": "toggleNCOptions",
+  "Header": "This mode is exclusively for the Heroes International Nations Cup.\n",
+  "HeaderButtons": [
+    {
+      "ButtonName": "Nations Cup Viewer",
+      "ButtonValue": "IsNC",
+      "OnClickEvent": "toggleNCOptions()",
+      "OptionValue": "NCTeams"
+    }
+  ],
+  "Buttons": [
+    {
+      "ButtonName": "Sweden",
+      "ButtonValue": "IsSweden"
+    },
+    {
+      "ButtonName": "France",
+      "ButtonValue": "IsFrance"
+    },
+    {
+      "ButtonName": "Germany",
+      "ButtonValue": "IsGermany"
+    },
+    {
+      "ButtonName": "Poland",
+      "ButtonValue": "IsPoland"
+    },
+    {
+      "ButtonName": "USA",
+      "ButtonValue": "IsUSA"
+    },
+    {
+      "ButtonName": "South Korea",
+      "ButtonValue": "IsSouthKorea"
+    }
+  ]
+}

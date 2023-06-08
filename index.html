@@ -124,6 +124,7 @@
     var currentBoardDifficulty = 5;
     var numberOfPulledSquares = 0;
     var difficultyTolerance = 4;
+    var buttonCounter = 0;
     window.onload = function () {
         printOptionsMenu();
         retrieveBingoData(bingoDataList);
@@ -146,6 +147,77 @@
                 }
             }
         });
+    }
+
+    function toggleNCOptions() {
+        if (document.getElementById("IsNC").checked) {
+            document.getElementById("IsSingleplayer").checked = false;
+            document.getElementById("IsSingleplayer").disabled = true;
+
+            document.getElementById("IsMultiplayer").checked = false;
+            document.getElementById("IsMultiplayer").disabled = true;
+
+            document.getElementById("IsParty").checked = false;
+            document.getElementById("IsParty").disabled = true;
+
+            document.getElementById("IsAramMaps").checked = false;
+            document.getElementById("IsAramMaps").disabled = true;
+
+            document.getElementById("IsQuickMaps").checked = false;
+            document.getElementById("IsQuickMaps").disabled = true;
+
+            document.getElementById("IsRankedMaps").checked = false;
+            document.getElementById("IsRankedMaps").disabled = true;
+
+            document.getElementById("IsCustom").checked = false;
+            document.getElementById("IsCustom").disabled = true;
+
+            document.getElementById("Brutal").checked = false;
+            document.getElementById("Brutal").disabled = true;
+
+            document.getElementById("Nightmare").checked = false;
+            document.getElementById("Nightmare").disabled = true;
+
+            document.getElementById("IsSweden").disabled = false;
+            document.getElementById("IsFrance").disabled = false;
+            document.getElementById("IsGermany").disabled = false;
+            document.getElementById("IsPoland").disabled = false;
+            document.getElementById("IsUSA").disabled = false;
+            document.getElementById("IsSouthKorea").disabled = false;
+
+            DisableAllOptions("HeroFilterMode");
+        } else {
+
+            document.getElementById("IsSingleplayer").disabled = false;
+            document.getElementById("IsMultiplayer").disabled = false;
+            document.getElementById("IsParty").disabled = false;
+            document.getElementById("IsAramMaps").disabled = false;
+            document.getElementById("IsQuickMaps").disabled = false;
+            document.getElementById("IsRankedMaps").disabled = false;
+            document.getElementById("IsCustom").disabled = false;
+            document.getElementById("Brutal").disabled = false;
+            document.getElementById("Nightmare").disabled = false;
+
+            document.getElementById("IsSweden").disabled = true;
+            document.getElementById("IsSweden").checked = false;
+
+            document.getElementById("IsFrance").disabled = true;
+            document.getElementById("IsFrance").checked = false;
+
+            document.getElementById("IsGermany").disabled = true;
+            document.getElementById("IsGermany").checked = false;
+
+            document.getElementById("IsPoland").disabled = true;
+            document.getElementById("IsPoland").checked = false;
+
+            document.getElementById("IsUSA").disabled = true;
+            document.getElementById("IsUSA").checked = false;
+
+            document.getElementById("IsSouthKorea").disabled = true;
+            document.getElementById("IsSouthKorea").checked = false;
+
+            EnableAllOptions("HeroFilterMode");
+        }
     }
 
     function toggleDifficultyOptions(option) {
@@ -185,6 +257,66 @@
                 document.getElementById("Hard").checked = false;
                 document.getElementById("Brutal").checked = false;
             }
+        }
+    }
+
+    function togglePartySizeOptions(option) {
+        if (document.getElementById(option).checked) {
+            if ((option == "IsSingleplayer")) {
+                document.getElementById("IsSingleplayer").checked = true;
+                document.getElementById("IsParty").checked = false;
+                document.getElementById("IsMultiplayer").checked = false;
+            }
+            else if ((option == "IsParty")) {
+                document.getElementById("IsSingleplayer").checked = false;
+                document.getElementById("IsParty").checked = true;
+                document.getElementById("IsMultiplayer").checked = false;
+            }
+            else if ((option == "IsMultiplayer")) {
+                document.getElementById("IsSingleplayer").checked = false;
+                document.getElementById("IsParty").checked = false;
+                document.getElementById("IsMultiplayer").checked = true;
+            }
+        }
+    }
+
+    function ToggleAramOptions() {
+        if (document.getElementById("IsAramMaps").checked) {
+            document.getElementById("IsAbathur").disabled = true;
+            document.getElementById("IsAbathur").checked = false;
+
+            document.getElementById("IsCho").disabled = true;
+            document.getElementById("IsCho").checked = false;
+
+            document.getElementById("IsGall").disabled = true;
+            document.getElementById("IsGall").checked = false;
+
+            document.getElementById("IsLeoric").disabled = true;
+            document.getElementById("IsLeoric").checked = false;
+
+            document.getElementById("IsSgt.Hammer").disabled = true;
+            document.getElementById("IsSgt.Hammer").checked = false;
+
+            document.getElementById("IsTheLostVikings").disabled = true;
+            document.getElementById("IsTheLostVikings").checked = false;
+        } else {
+            document.getElementById("IsAbathur").disabled = false;
+            document.getElementById("IsAbathur").checked = true;
+
+            document.getElementById("IsCho").disabled = false;
+            document.getElementById("IsCho").checked = true;
+
+            document.getElementById("IsGall").disabled = false;
+            document.getElementById("IsGall").checked = true;
+
+            document.getElementById("IsLeoric").disabled = false;
+            document.getElementById("IsLeoric").checked = true;
+
+            document.getElementById("IsSgt.Hammer").disabled = false;
+            document.getElementById("IsSgt.Hammer").checked = true;
+
+            document.getElementById("IsTheLostVikings").disabled = false;
+            document.getElementById("IsTheLostVikings").checked = true;
         }
     }
 
@@ -304,8 +436,47 @@
         AccordionSelectionValueHeader.setAttribute('style', 'color: #fff');
         AccordionSelectionValueHeader.innerHTML = fileJson.Header;
         AccordionSelectionValueOptions.appendChild(AccordionSelectionValueHeader);
+        if (fileJson.HeaderButtons != undefined) {
+            var AccordionSelectionHeaderButtons = document.createElement("div");
+            AccordionSelectionHeaderButtons.setAttribute('class', 'modal-title');
+            AccordionSelectionHeaderButtons.setAttribute('id', fileJson.Id);
+            AccordionSelectionHeaderButtons.setAttribute('style', 'color: #fff');
+            PrintButtons(fileJson.HeaderButtons, AccordionSelectionHeaderButtons, fileJson, 'btn btn-outline-danger');
+            AccordionSelectionValueOptions.appendChild(AccordionSelectionHeaderButtons);
+        }
 
-        fileJson.Buttons.forEach(function (button, index, array) {
+        //I don't know why this condition is needed, but header buttons break regular buttons if I don't have this. Why?
+        if (fileJson != "") {
+            PrintButtons(fileJson.Buttons, AccordionSelectionValueOptions, fileJson, 'btn btn-outline-light');
+        }
+        
+        selectorColumn.appendChild(AccordionSelectionValueOptions);
+        if (fileJson.OnLoadEvent != undefined) {
+            var fn = window[fileJson.OnLoadEvent];
+            if (typeof fn === "function") {
+                fn(fileJson.OnLoadParam);
+            }
+        }
+    }
+
+    //Separating it into its own function won't save you forever.
+    function PrintButtons(Buttons, AccordionSelectionValueOptions, fileJson, buttonColor) {
+        if (Buttons.length > 8) {
+            var selectionTable;
+            var selectionRow;
+            var selectionCell;
+        }
+        //This is an absolute mess, and should be cleaned up.
+        Buttons.forEach(function (button, index, array) {
+            if (array.length > 8) {
+                if (index == 0) {
+                    selectionTable = document.createElement("table");
+                }
+                if (index % 8 == 0) {
+                    selectionRow = document.createElement("tr");
+                }
+                selectionCell = document.createElement("td");
+            }
             var selectionOptionValueDiv = document.createElement("div");
             selectionOptionValueDiv.setAttribute('class', 'form-check form-check-inline');
             selectionOptionValueDiv.setAttribute('style', 'padding-left: 0px;');
@@ -340,7 +511,7 @@
             selectionOptionValueDiv.appendChild(selectionOptionValueInput);
 
             var selectionOptionValueLabel = document.createElement("label");
-            selectionOptionValueLabel.setAttribute('class', 'btn btn-outline-light');
+            selectionOptionValueLabel.setAttribute('class', buttonColor);
             selectionOptionValueLabel.setAttribute('for', button.ButtonValue);
             if (button.ButtonValue != undefined) {
                 selectionOptionValueInput.setAttribute('onclick', button.OnClickEvent);
@@ -348,15 +519,19 @@
             selectionOptionValueLabel.innerHTML = button.ButtonName;
             selectionOptionValueDiv.appendChild(selectionOptionValueLabel);
 
-            AccordionSelectionValueOptions.appendChild(selectionOptionValueDiv);
-        });
-        selectorColumn.appendChild(AccordionSelectionValueOptions);
-        if (fileJson.OnLoadEvent != undefined) {
-            var fn = window[fileJson.OnLoadEvent];
-            if (typeof fn === "function") {
-                fn(fileJson.OnLoadParam);
+            if (array.length > 8) {
+                selectionCell.appendChild(selectionOptionValueDiv);
+                selectionRow.appendChild(selectionCell);
+                if (index % 8 == 7 || index == (array.length - 1)) {
+                    selectionTable.appendChild(selectionRow);
+                }
+                if (index == (array.length - 1)) {
+                    AccordionSelectionValueOptions.appendChild(selectionTable);
+                }
+            } else {
+                AccordionSelectionValueOptions.appendChild(selectionOptionValueDiv);
             }
-        }
+        });
     }
 
     async function retrieveBingoData(dataFileList) {
@@ -381,12 +556,18 @@
     function EnableAllOptions(OnLoadParam) {
         var heroList = document.getElementById(OnLoadParam);
         heroList.childNodes.forEach(function (node, index, array) {
-            if (node.localName == "div") {
-                node.childNodes.forEach(function (nodeChild, index, array) {
-                    if (nodeChild.localName == "input") {
-                        nodeChild.checked = true;
-                    }
-                });
+            IterateAndChangeOptions(node, true);
+        });
+        document.getElementById("EnableAll").checked = false;
+        document.getElementById("DisableAll").checked = false;
+    }
+
+    function IterateAndChangeOptions(node, option) {
+        node.childNodes.forEach(function (nodeChild, index, array) {
+            if (nodeChild.localName != "input") {
+                IterateAndChangeOptions(nodeChild, option);
+            } else {
+                nodeChild.checked = option;
             }
         });
     }
@@ -394,14 +575,10 @@
     function DisableAllOptions(OnLoadParam) {
         var heroList = document.getElementById(OnLoadParam);
         heroList.childNodes.forEach(function (node, index, array) {
-            if (node.localName == "div") {
-                node.childNodes.forEach(function (nodeChild, index, array) {
-                    if (nodeChild.localName == "input") {
-                        nodeChild.checked = false;
-                    }
-                });
-            }
+            IterateAndChangeOptions(node, false);
         });
+        document.getElementById("EnableAll").checked = false;
+        document.getElementById("DisableAll").checked = false;
     }
 
     function prepareData() {
@@ -515,7 +692,11 @@
                 cell = document.createElement("td");
                 cell.appendChild(cellText);
                 if (bingoElement.Challenge != undefined) {
-                    cell.setAttribute('title', bingoElement.Challenge);
+                    if (bingoElement.Credit != undefined) {
+                        cell.setAttribute('title', bingoElement.Challenge + "\nCredit: " + bingoElement.Credit);
+                    } else {
+                        cell.setAttribute('title', bingoElement.Challenge);
+                    }
                 }
                 cell.setAttribute('class', 'td');
                 cell.setAttribute('id', 'bingoBoardTD');
@@ -579,8 +760,8 @@
                     if ((bingoElement["Difficulty"] - difficultyLevel) <= difficultyTolerance) {
                         console.log("Entered");
                         console.log("Difficulty Selected: " + difficultyLevel);
-                    console.log("Current Average: " + currentBoardDifficulty);
-                    console.log("Current Square Difficulty: " + bingoElement["Difficulty"])
+                        console.log("Current Average: " + currentBoardDifficulty);
+                        console.log("Current Square Difficulty: " + bingoElement["Difficulty"])
                         console.log(numberOfPulledSquares);
                         //If the board is equal to or harder than the difficulty, picks a square easier than the board average
                         if (currentBoardDifficulty >= difficultyLevel && difficultyLevel >= bingoElement["Difficulty"]) {

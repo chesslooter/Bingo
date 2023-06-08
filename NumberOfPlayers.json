@@ -7,15 +7,18 @@
   "Buttons": [
     {
       "ButtonName": "Singleplayer: 1 player",
-      "ButtonValue": "IsSingleplayer"
+      "ButtonValue": "IsSingleplayer",
+      "OnClickEvent": "togglePartySizeOptions('IsSingleplayer')"
     },
     {
       "ButtonName": "Party: 2-4 players",
-      "ButtonValue": "IsParty" 
+      "ButtonValue": "IsParty",
+      "OnClickEvent": "togglePartySizeOptions('IsParty')"
     },
     {
       "ButtonName": "5-Stack: 5 players",
-      "ButtonValue": "IsMultiplayer"
+      "ButtonValue": "IsMultiplayer",
+      "OnClickEvent": "togglePartySizeOptions('IsMultiplayer')"
     }
   ]
 }

@@ -6,6 +6,18 @@
   "Header": "Select which heroes you wish to include/exclude. All heroes are included by default. Warning: Deselecting too many options may lead to boards loading slowly or not at all.",
   "OnLoadEvent": "EnableAllOptions",
   "OnLoadParam": "HeroFilterMode",
+  "HeaderButtons": [
+    {
+      "ButtonName": "Enable All",
+      "ButtonValue": "EnableAll",
+      "OnClickEvent": "EnableAllOptions('HeroFilterMode')"
+    },
+    {
+      "ButtonName": "Disable All",
+      "ButtonValue": "DisableAll",
+      "OnClickEvent": "DisableAllOptions('HeroFilterMode')"
+    }
+  ],
   "Buttons": [
     {
       "ButtonName": "Abathur",
