@@ -1206,10 +1206,10 @@
    "Credit": "Chymotrypsin"
  },
  {
-   "Nickname": "''Sky Terran''",
-   "Challenge": "Have 3 Hyperions on screen at once",
+   "Nickname": "Try this wombo: ''Sky Terran''",
+   "Challenge": "Hyperion, Execute Orders + Resurrect (Raynor + Auriel) (Have 3 Hyperions on screen at once!)",
    "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
+   "Category": "Wombo combo",
    "Difficulty": 8,
    "Player count": "Multiplayer",
    "IsMultiplayer": "Yes",
@@ -10914,7 +10914,7 @@
    "Challenge": "Icing an enemy Hero into your Blizzard. (Mei)",
    "Source": "HeroesBingoData.json",
    "Category": "Hero specific",
-   "Difficulty": 1,
+   "Difficulty": 6,
    "Universe": "O",
    "Credit": "Stark",
    "IsMei": "Yes"
@@ -10924,7 +10924,7 @@
    "Challenge": "Find a hidden enemy Hero with Snow Blind. (Mei)",
    "Source": "HeroesBingoData.json",
    "Category": "Hero specific",
-   "Difficulty": 1,
+   "Difficulty": 6,
    "Universe": "O",
    "Credit": "Stark",
    "IsMei": "Yes"
@@ -10934,7 +10934,7 @@
    "Challenge": "Prevent lethal damage with Cryofreeze. (Mei)",
    "Source": "HeroesBingoData.json",
    "Category": "Hero specific",
-   "Difficulty": 2,
+   "Difficulty": 7,
    "Universe": "O",
    "Credit": "Stark",
    "IsMei": "Yes"
@@ -10944,7 +10944,7 @@
    "Challenge": "Kill someone during Ice Wall's Stasis and Slow duration. (Mei)",
    "Source": "HeroesBingoData.json",
    "Category": "Hero specific",
-   "Difficulty": 8,
+   "Difficulty": 10,
    "Universe": "O",
    "Credit": "Stark",
    "IsMei": "Yes"
@@ -10954,7 +10954,7 @@
    "Challenge": "Stasis multiple enemy Heroes at once. (Mei)",
    "Source": "HeroesBingoData.json",
    "Category": "Hero specific",
-   "Difficulty": 6,
+   "Difficulty": 10,
    "Universe": "O",
    "Credit": "Stark",
    "IsMei": "Yes"
@@ -10964,7 +10964,7 @@
    "Challenge": "Blind an enemy Hero 3 times in one fight. (Mei)",
    "Source": "HeroesBingoData.json",
    "Category": "Hero specific",
-   "Difficulty": 3,
+   "Difficulty": 8,
    "Universe": "O",
    "Credit": "Stark",
    "IsMei": "Yes"
@@ -12314,7 +12314,7 @@
    "Challenge": "Kill an enemy Hero with Parting Gift. (Tracer)",
    "Source": "HeroesBingoData.json",
    "Category": "Hero specific",
-   "Difficulty": 10,
+   "Difficulty": 11,
    "Universe": "O",
    "Credit": "Stark",
    "IsTracer": "Yes"
@@ -14463,7 +14463,7 @@
  },
  {
    "Nickname": "Takedown each universe before your bingo ends",
-   "Challenge": "StarCraft, Diablo, Warcraft, Overwatch, Nexus",
+   "Challenge": "StarCraft, Diablo, Warcraft, Overwatch/Nexus",
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
    "Difficulty": 6,
@@ -14674,7 +14674,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Win with 2 Overwatch Heroes on your team",
+   "Nickname": "Win with 2 Overwatch/Nexus Heroes on your team",
    "Challenge": "Related skins apply.",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -14691,7 +14691,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Win with 3 Overwatch Heroes on your team",
+   "Nickname": "Win with 3 Overwatch/Nexus Heroes on your team",
    "Challenge": "Related skins apply.",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -14707,7 +14707,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Win with 4 Overwatch Heroes on your team",
+   "Nickname": "Win with 4 Overwatch/Nexus Heroes on your team",
    "Challenge": "Related skins apply.",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -14722,7 +14722,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Win with 5 Overwatch Heroes on your team",
+   "Nickname": "Win with 5 Overwatch/Nexus Heroes on your team",
    "Challenge": "Related skins apply.",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -14732,35 +14732,6 @@
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Win with 2 Nexus Heroes on your team",
-   "Challenge": "Related skins apply.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "Difficulty": 6,
-   "Universe": "N",
-   "Player count": "Multiplayer",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Win with 3 Nexus Heroes on your team",
-   "Challenge": "Related skins apply.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "Difficulty": 10,
-   "Universe": "N",
-   "Player count": "Multiplayer",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
    "IsQuickMaps": "Yes",
    "IsRankedMaps": "Yes",
    "Credit": "Stark"
@@ -14955,7 +14926,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Play with 2 Overwatch Heroes on your team",
+   "Nickname": "Play with 2 Overwatch/Nexus Heroes on your team",
    "Challenge": "Related skins apply.",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -14972,7 +14943,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Play with 3 Overwatch Heroes on your team",
+   "Nickname": "Play with 3 Overwatch/Nexus Heroes on your team",
    "Challenge": "Related skins apply.",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -14988,7 +14959,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Play with 4 Overwatch Heroes on your team",
+   "Nickname": "Play with 4 Overwatch/Nexus Heroes on your team",
    "Challenge": "Related skins apply.",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -15003,7 +14974,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Play with 5 Overwatch Heroes on your team",
+   "Nickname": "Play with 5 Overwatch/Nexus Heroes on your team",
    "Challenge": "Related skins apply.",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -15013,36 +14984,6 @@
    "IsMultiplayer": "Yes",
    "IsCustom": "Yes",
    "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Play with 2 Nexus Heroes on your team",
-   "Challenge": "Related skins apply.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "Difficulty": 2,
-   "Universe": "N",
-   "Player count": "Multiplayer",
-   "IsParty": "Yes",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Play with 3 Nexus Heroes on your team",
-   "Challenge": "Related skins apply.",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "Difficulty": 6,
-   "Universe": "N",
-   "Player count": "Multiplayer",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
    "IsQuickMaps": "Yes",
    "IsRankedMaps": "Yes",
    "Credit": "Stark"
@@ -15705,26 +15646,11 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Win with 0 Overwatch Heroes on your team",
+   "Nickname": "Win with 0 Overwatch/Nexus Heroes on your team",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "Difficulty": 6,
    "Universe": "O",
-   "IsSingleplayer": "Yes",
-   "IsParty": "Yes",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Win with 0 Nexus Heroes on your team",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "Difficulty": 6,
-   "Universe": "N",
    "IsSingleplayer": "Yes",
    "IsParty": "Yes",
    "IsMultiplayer": "Yes",
@@ -15780,26 +15706,11 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Play with 0 Overwatch Heroes on your team",
+   "Nickname": "Play with 0 Overwatch/Nexus Heroes on your team",
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
    "Difficulty": 3,
    "Universe": "O",
-   "IsSingleplayer": "Yes",
-   "IsParty": "Yes",
-   "IsMultiplayer": "Yes",
-   "IsCustom": "Yes",
-   "IsAramMaps": "Yes",
-   "IsQuickMaps": "Yes",
-   "IsRankedMaps": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Play with 0 Nexus Heroes on your team",
-   "Source": "HeroesBingoData.json",
-   "Category": "Basic",
-   "Difficulty": 3,
-   "Universe": "N",
    "IsSingleplayer": "Yes",
    "IsParty": "Yes",
    "IsMultiplayer": "Yes",
@@ -22714,7 +22625,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your team only takes odd objective spawns",
+   "Nickname": "Your team only attempts odd objective spawns",
    "Challenge": "First, third, fifth, etc. Tributes, shrines, immortals, successfully completed turn-ins (ie 50/50 gems), etc. Go do something else during the other ones!",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -22724,7 +22635,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Your team only takes even objective spawns",
+   "Nickname": "Your team only attempts even objective spawns",
    "Challenge": "Second, fourth, sixth, etc. Tributes, shrines, immortals, successfully completed turn-ins (ie 50/50 gems), etc. Go do something else during the other ones!",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
@@ -24885,7 +24796,7 @@
    "Challenge": "At least, not exactly.",
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
-   "Difficulty": 6,
+   "Difficulty": 8,
    "IsSingleplayer": "Yes",
    "IsParty": "Yes",
    "IsMultiplayer": "Yes",
@@ -24897,7 +24808,7 @@
    "Challenge": "At least, not exactly.",
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
-   "Difficulty": 7,
+   "Difficulty": 10,
    "IsSingleplayer": "Yes",
    "IsParty": "Yes",
    "IsMultiplayer": "Yes",
@@ -24908,7 +24819,7 @@
    "Nickname": "5 enemy players get even deaths",
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
-   "Difficulty": 8,
+   "Difficulty": 11,
    "IsSingleplayer": "Yes",
    "IsParty": "Yes",
    "IsMultiplayer": "Yes",
@@ -24944,7 +24855,7 @@
    "Challenge": "At least, not exactly.",
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
-   "Difficulty": 6,
+   "Difficulty": 8,
    "IsSingleplayer": "Yes",
    "IsParty": "Yes",
    "IsMultiplayer": "Yes",
@@ -24956,7 +24867,7 @@
    "Challenge": "At least, not exactly.",
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
-   "Difficulty": 7,
+   "Difficulty": 10,
    "IsSingleplayer": "Yes",
    "IsParty": "Yes",
    "IsMultiplayer": "Yes",
@@ -24967,7 +24878,7 @@
    "Nickname": "5 enemy players get odd deaths",
    "Source": "HeroesBingoData.json",
    "Category": "Basic",
-   "Difficulty": 8,
+   "Difficulty": 11,
    "IsSingleplayer": "Yes",
    "IsParty": "Yes",
    "IsMultiplayer": "Yes",
@@ -26440,7 +26351,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Pick an Overwatch hero in draft slot 1",
+   "Nickname": "Pick an Overwatch/Nexus hero in draft slot 1",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "Difficulty": 1,
@@ -26449,7 +26360,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Pick an Overwatch hero in draft slot 2",
+   "Nickname": "Pick an Overwatch/Nexus hero in draft slot 2",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "Difficulty": 1,
@@ -26458,7 +26369,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Pick an Overwatch hero in draft slot 3",
+   "Nickname": "Pick an Overwatch/Nexus hero in draft slot 3",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "Difficulty": 1,
@@ -26467,7 +26378,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Pick an Overwatch hero in draft slot 4",
+   "Nickname": "Pick an Overwatch/Nexus hero in draft slot 4",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "Difficulty": 1,
@@ -26476,52 +26387,7 @@
    "Credit": "Stark"
  },
  {
-   "Nickname": "Pick an Overwatch hero in draft slot 5",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "Difficulty": 1,
-   "IsCustom": "Yes",
-   "IsNC": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick a Nexus hero in draft slot 1",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "Difficulty": 1,
-   "IsCustom": "Yes",
-   "IsNC": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick a Nexus hero in draft slot 2",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "Difficulty": 1,
-   "IsCustom": "Yes",
-   "IsNC": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick a Nexus hero in draft slot 3",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "Difficulty": 1,
-   "IsCustom": "Yes",
-   "IsNC": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick a Nexus hero in draft slot 4",
-   "Source": "HeroesBingoData.json",
-   "Category": "Team restrictions",
-   "Difficulty": 1,
-   "IsCustom": "Yes",
-   "IsNC": "Yes",
-   "Credit": "Stark"
- },
- {
-   "Nickname": "Pick a Nexus hero in draft slot 5",
+   "Nickname": "Pick an Overwatch/Nexus hero in draft slot 5",
    "Source": "HeroesBingoData.json",
    "Category": "Team restrictions",
    "Difficulty": 1,
@@ -28255,7 +28121,6 @@
    "Category": "Player restrictions",
    "Difficulty": 12,
    "IsParty": "Yes",
-   "IsMultiplayer": "Yes",
    "IsAramMaps": "Yes",
    "Credit": "chesslooter"
  },
@@ -28267,7 +28132,6 @@
    "Difficulty": 6,
    "IsSingleplayer": "Yes",
    "IsParty": "Yes",
-   "IsMultiplayer": "Yes",
    "IsAramMaps": "Yes",
    "Credit": "chesslooter"
  },
@@ -28278,7 +28142,6 @@
    "Category": "Player restrictions",
    "Difficulty": 8,
    "IsParty": "Yes",
-   "IsMultiplayer": "Yes",
    "IsAramMaps": "Yes",
    "Credit": "chesslooter"
  },
@@ -28289,7 +28152,6 @@
    "Category": "Player restrictions",
    "Difficulty": 8,
    "IsParty": "Yes",
-   "IsMultiplayer": "Yes",
    "IsAramMaps": "Yes",
    "Credit": "chesslooter"
  },
@@ -28300,7 +28162,6 @@
    "Category": "Player restrictions",
    "Difficulty": 10,
    "IsParty": "Yes",
-   "IsMultiplayer": "Yes",
    "IsAramMaps": "Yes",
    "Credit": "chesslooter"
  },
@@ -28312,7 +28173,6 @@
    "Difficulty": 6,
    "IsSingleplayer": "Yes",
    "IsParty": "Yes",
-   "IsMultiplayer": "Yes",
    "IsAramMaps": "Yes",
    "Credit": "chesslooter"
  },
@@ -28323,7 +28183,6 @@
    "Category": "Player restrictions",
    "Difficulty": 10,
    "IsParty": "Yes",
-   "IsMultiplayer": "Yes",
    "IsAramMaps": "Yes",
    "Credit": "chesslooter"
  },
@@ -28334,7 +28193,6 @@
    "Category": "Player restrictions",
    "Difficulty": 6,
    "IsParty": "Yes",
-   "IsMultiplayer": "Yes",
    "IsAramMaps": "Yes",
    "Credit": "chesslooter"
  },
@@ -28345,7 +28203,6 @@
    "Category": "Player restrictions",
    "Difficulty": 8,
    "IsParty": "Yes",
-   "IsMultiplayer": "Yes",
    "IsAramMaps": "Yes",
    "Credit": "chesslooter"
  },
@@ -28357,7 +28214,6 @@
    "Difficulty": 6,
    "IsSingleplayer": "Yes",
    "IsParty": "Yes",
-   "IsMultiplayer": "Yes",
    "IsAramMaps": "Yes",
    "Credit": "chesslooter"
  },
@@ -28368,7 +28224,6 @@
    "Category": "Player restrictions",
    "Difficulty": 10,
    "IsParty": "Yes",
-   "IsMultiplayer": "Yes",
    "IsAramMaps": "Yes",
    "Credit": "chesslooter"
  },
@@ -28380,7 +28235,6 @@
    "Difficulty": 6,
    "IsSingleplayer": "Yes",
    "IsParty": "Yes",
-   "IsMultiplayer": "Yes",
    "IsAramMaps": "Yes",
    "Credit": "chesslooter"
  },
@@ -28392,7 +28246,6 @@
    "Difficulty": 6,
    "IsSingleplayer": "Yes",
    "IsParty": "Yes",
-   "IsMultiplayer": "Yes",
    "IsAramMaps": "Yes",
    "Credit": "chesslooter"
  },
@@ -28404,7 +28257,6 @@
    "Difficulty": 6,
    "IsSingleplayer": "Yes",
    "IsParty": "Yes",
-   "IsMultiplayer": "Yes",
    "IsAramMaps": "Yes",
    "Credit": "chesslooter"
  },
@@ -28415,7 +28267,6 @@
    "Category": "Player restrictions",
    "Difficulty": 10,
    "IsParty": "Yes",
-   "IsMultiplayer": "Yes",
    "IsAramMaps": "Yes",
    "Credit": "chesslooter"
  },
@@ -28427,7 +28278,6 @@
    "Difficulty": 6,
    "IsSingleplayer": "Yes",
    "IsParty": "Yes",
-   "IsMultiplayer": "Yes",
    "IsAramMaps": "Yes",
    "Credit": "chesslooter"
  },
@@ -28439,7 +28289,6 @@
    "Difficulty": 6,
    "IsSingleplayer": "Yes",
    "IsParty": "Yes",
-   "IsMultiplayer": "Yes",
    "IsAramMaps": "Yes",
    "Credit": "chesslooter"
  },
@@ -28450,7 +28299,6 @@
    "Category": "Player restrictions",
    "Difficulty": 8,
    "IsParty": "Yes",
-   "IsMultiplayer": "Yes",
    "IsAramMaps": "Yes",
    "Credit": "chesslooter"
  },
@@ -28461,7 +28309,6 @@
    "Category": "Player restrictions",
    "Difficulty": 10,
    "IsParty": "Yes",
-   "IsMultiplayer": "Yes",
    "IsAramMaps": "Yes",
    "Credit": "chesslooter"
  },
@@ -28472,7 +28319,6 @@
    "Category": "Player restrictions",
    "Difficulty": 8,
    "IsParty": "Yes",
-   "IsMultiplayer": "Yes",
    "IsAramMaps": "Yes",
    "Credit": "chesslooter"
  },
@@ -28483,7 +28329,6 @@
    "Category": "Player restrictions",
    "Difficulty": 10,
    "IsParty": "Yes",
-   "IsMultiplayer": "Yes",
    "IsAramMaps": "Yes",
    "Credit": "chesslooter"
  },
@@ -28494,7 +28339,6 @@
    "Category": "Player restrictions",
    "Difficulty": 8,
    "IsParty": "Yes",
-   "IsMultiplayer": "Yes",
    "IsAramMaps": "Yes",
    "Credit": "chesslooter"
  },
@@ -28506,7 +28350,6 @@
    "Difficulty": 6,
    "IsSingleplayer": "Yes",
    "IsParty": "Yes",
-   "IsMultiplayer": "Yes",
    "Credit": "chesslooter"
  },
  {
@@ -28595,7 +28438,7 @@
    "Challenge": "Hint: You need Ultimate Evolution.",
    "Source": "HeroesBingoData.json",
    "Category": "Hero specific",
-   "Difficulty": 4,
+   "Difficulty": 5,
    "Credit": "chesslooter",
    "IsAbathur": "Yes"
  },
@@ -28604,7 +28447,7 @@
    "Challenge": "Hint: You need Ultimate Evolution.",
    "Source": "HeroesBingoData.json",
    "Category": "Hero specific",
-   "Difficulty": 4,
+   "Difficulty": 6,
    "Credit": "chesslooter",
    "IsAbathur": "Yes"
  },
@@ -28613,7 +28456,7 @@
    "Challenge": "Hint: You need Ultimate Evolution.",
    "Source": "HeroesBingoData.json",
    "Category": "Hero specific",
-   "Difficulty": 4,
+   "Difficulty": 7,
    "Credit": "chesslooter",
    "IsAbathur": "Yes"
  },
@@ -31647,5 +31490,277 @@
    "Difficulty": 5,
    "IsNC": "Yes",
    "Credit": "TheKrushinator"
+ },
+ {
+   "Nickname": "Try this wombo: ''Special Tactics''",
+   "Challenge": "Purifier Beam + Planet Cracker (Artanis + Fenix)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Wombo combo",
+   "Difficulty": 5,
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Get 5 takedowns",
+   "Challenge": "Across all players in your party, for the entire bingo session.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 1,
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Get 10 takedowns",
+   "Challenge": "Across all players in your party, for the entire bingo session.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 2,
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Get 15 takedowns",
+   "Challenge": "Across all players in your party, for the entire bingo session.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 3,
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Get 20 takedowns",
+   "Challenge": "Across all players in your party, for the entire bingo session.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 4,
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Get 25 takedowns",
+   "Challenge": "Across all players in your party, for the entire bingo session.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 5,
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Get 30 takedowns",
+   "Challenge": "Across all players in your party, for the entire bingo session.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 7,
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Get 35 takedowns",
+   "Challenge": "Across all players in your party, for the entire bingo session.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 8,
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Get 40 takedowns",
+   "Challenge": "Across all players in your party, for the entire bingo session.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 10,
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Get 45 takedowns",
+   "Challenge": "Across all players in your party, for the entire bingo session.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 11,
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Get 50 takedowns",
+   "Challenge": "Across all players in your party, for the entire bingo session.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 12,
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Play as team \"The Grenadiers\"",
+   "Challenge": "All five heroes in your team must have access to grenades, bombs, explosives and the like when the core dies.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 8,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Artemis"
+ },
+ {
+   "Nickname": "Try this wombo: \"Undead Dunk\"",
+   "Challenge": "Wrecking Ball + Zombie Wall (Garrosh + Nazeebo)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Wombo combo",
+   "Difficulty": 6,
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Play as team \"Bar Crawl\"",
+   "Challenge": "All five heroes in your team must have different coloured secondary (mana or mana-replacements) bars.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 9,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Stark"
+ },
+ {
+   "Nickname": "Get a 1 game bingo",
+   "Challenge": "Earn 5 squares in a row during a single game.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Meta squares",
+   "Difficulty": 10,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "RandyNewman"
+ },
+ {
+   "Nickname": "When a hero dies to DoT, make a fart joke",
+   "Challenge": "Damage over Time, poisonous damage",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 4,
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Bahamut"
+ },
+ {
+   "Nickname": "''One shot, one kill''",
+   "Challenge": "Kill someone with a single shot of Triple Tap (Nova)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Difficulty": 11,
+   "Credit": "Stark",
+   "IsNova": "Yes"
+ },
+ {
+   "Nickname": "Try this wombo: ''The Eternal Conflict''",
+   "Challenge": "Ominous Wraith + Debilitating Flames (Leoric + Diablo)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Wombo combo",
+   "Difficulty": 6,
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "JoshuaScott"
+ },
+ {
+   "Nickname": "ELI5 - Explain like I'm five",
+   "Challenge": "A player describes or names everything in-game like they're explaining to a child for the duration of a game.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Player restrictions",
+   "Difficulty": 4,
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Try this wombo: ''Chill Music to Study/Die to''",
+   "Challenge": "Light Speed + Death Metal (Auriel + ETC)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Wombo combo",
+   "Difficulty": 7,
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "RandyNewman"
+ },
+ {
+   "Nickname": "Try this wombo: ''Zombie Apocalypse''",
+   "Challenge": "Zombie Wall + Apocalypse (Nazeebo + Diablo)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Wombo combo",
+   "Difficulty": 7,
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "Thunderkatz"
+ },
+ {
+   "Nickname": "Try this wombo: ''Zombie AAAAAAAAAApocalypse''",
+   "Challenge": "Zombie Wall + Lightning Breath (Nazeebo + Diablo) (best impersonations of their hero from both players is encouraged)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Wombo combo",
+   "Difficulty": 4,
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Big Bird Brain",
+   "Challenge": "Pick Raven's Intellect on Medivh AND win the game.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Hero specific",
+   "Difficulty": 11,
+   "Credit": "Iron",
+   "IsMedivh": "Yes"
+ },
+ {
+   "Nickname": "Play as ''We're taking the Horde to Azeroth!''",
+   "Challenge": "Pick Medivh with 4 Horde heroes (skins acceptable)",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 8,
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
+ },
+ {
+   "Nickname": "Golf Rules",
+   "Challenge": "Win a game where you have fewer kills OR fewer key structures than your opponent.",
+   "Source": "HeroesBingoData.json",
+   "Category": "Team restrictions",
+   "Difficulty": 8,
+   "IsSingleplayer": "Yes",
+   "IsParty": "Yes",
+   "IsMultiplayer": "Yes",
+   "IsCustom": "Yes",
+   "Credit": "TheLazyHydra"
  }
 ]
