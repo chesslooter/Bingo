@@ -125,6 +125,7 @@
     var numberOfPulledSquares = 0;
     var difficultyTolerance = 4;
     var buttonCounter = 0;
+    var freeSquare = false;
     window.onload = function () {
         printOptionsMenu();
         retrieveBingoData(bingoDataList);
@@ -318,6 +319,10 @@
             document.getElementById("IsTheLostVikings").disabled = false;
             document.getElementById("IsTheLostVikings").checked = true;
         }
+    }
+
+    function EnableFreeSquare() {
+        freeSquare = true;
     }
 
     function heroesBingoEntry() {
@@ -681,7 +686,9 @@
             for (var j = 0; j < 5; j++) {
 
                 var bingoElement;
-                if (!loadedBingoBoard) {
+                if (freeSquare && i == 2 && j == 2) {
+                    bingoElement = pullFreeSquare();
+                } else if (!loadedBingoBoard) {
                     bingoElement = pullNewBingoSquare(usedBingoOptions);
                 } else if (loadedBingoBoard) {
                     bingoElement = pullBingoSquareFromLoad(usedBingoOptions);
@@ -788,6 +795,16 @@
         return bingoElement;
     }
 
+    function pullFreeSquare() {
+        var bingoElement = [];
+        bingoElement["masterIndex"] = 0;
+        bingoElement["checkedIndicator"] = true;
+        bingoElement["Nickname"] = "Free Square";
+        bingoElement["Challenge"] = "This is free! No, really!";
+        bingoElement["Credit"] = "chesslooter";
+        return bingoElement;
+    }
+
     function recalculateDifficultyAverages(bingoElement, pullAgain, usedBingoOptions) {
         pullAgain = false;
         usedBingoOptions.forEach(function (element, index, array) {
@@ -857,13 +874,31 @@
         }
     }
 
+    function loadBingoBoardWithCode(code) {
+        document.getElementById("bingoBoardCodeField").value = code;
+        document.getElementById("TheLazyHydra").checked = false;
+        document.getElementById("2Lazy2Hydra").checked = false;
+        toggleLoadBingoBoardOption();
+        $('#optionModal').modal('hide');
+        loadBingoBoard();
+    }
+
     function loadBingoBoard() {
         bingoBoardOptions = [];
         var enteredCode = document.getElementById("bingoBoardCodeField").value;
         var splitCode = enteredCode.match(new RegExp('.{1,5}', 'g'));
         if (splitCode.length != 25) {
-            alert("There was an error in the Bingo Board load process. Please try again, and if the problem persists, report it in the #ideas-and-bugs channel.");
-            return;
+            if (splitCode.length == 24) {
+                freeSquare = true;
+                toggleLoadBingoBoardOption();
+                splitCode.forEach(function (element, index, array) {
+                    var bingoBoardOption = element.match(new RegExp('.{1,4}', 'g'));
+                    bingoBoardOptions.push(bingoBoardOption);
+                });
+            } else {
+                alert("There was an error in the Bingo Board load process. Please try again, and if the problem persists, report it in the #ideas-and-bugs channel.");
+                return;
+            }
         } else {
             toggleLoadBingoBoardOption();
             splitCode.forEach(function (element, index, array) {

@@ -1,0 +1,14 @@
+{
+  "Id": "BonusOptions",
+  "Source": [
+    "BingoData.json"
+  ],
+  "Header": "Select which bonus options you want to include.",
+  "Buttons": [
+    {
+      "ButtonName": "Free Square",
+      "ButtonValue": "GiveFreeSquare",
+      "OnClickEvent": "EnableFreeSquare()"
+    }
+  ]
+}

@@ -20,8 +20,13 @@
     "OptionFilename": "HeroesList.json"
   },
   {
-    "OptionName": "HI Nations Cup",
-    "OptionValue": "NationsCupMode",
-    "OptionFilename": "NationsCupMode.json"
+    "OptionName": "Bonus Options",
+    "OptionValue": "BonusOptions",
+    "OptionFilename": "BonusOptions.json"
+  },
+  {
+    "OptionName": "BBSSSBBE",
+    "OptionValue": "BBSSSBBE",
+    "OptionFilename": "BBSSSBBE.json"
   }
 ]

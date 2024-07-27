@@ -1,0 +1,19 @@
+{
+	"Id": "BBSSSBBE",
+	"Source": [
+		"BBSSSBBE.json"
+	],
+	"Header": "Whose board do you want to see?",
+	"Buttons": [
+		{
+			"ButtonName": "TheLazyHydra",
+			"ButtonValue": "TheLazyHydra",
+			"OnClickEvent": "loadBingoBoardWithCode('23680278900836011060049602569007340170400810012820162101087018570022801853019900133500413019140090601487027120074201921017490')"
+		},
+		{
+			"ButtonName": "2Lazy2Hydra",
+			"ButtonValue": "2Lazy2Hydra",
+			"OnClickEvent": "loadBingoBoardWithCode('29710242302514004320198100516009520048500474000630096101669008610287002815012540180701885028970102702432014550117901264002840')"
+		}
+	]
+}
